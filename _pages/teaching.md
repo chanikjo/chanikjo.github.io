@@ -10,10 +10,10 @@ nav_order: 2
 <p><strong>Chinese University of Hong Kong</strong></p>
 <ul>
     <li>
-        <p>Empirical Methods in Asset Pricing (PhD level), 2022 - Present, <a href = "../assets/pdf/FINA6252_syllabus_2024.pdf">Syllabus</a></p>
+        <p>Empirical Methods in Asset Pricing (PhD level), 2022 - Present, <a href = "../assets/pdf/FINA6252_syllabus_2024.pdf">[Syllabus]</a></p>
     </li>
     <li>
-        <p>Financial Markets (Undergraduate level), 2021 - Present, <a href = "../assets/pdf/2024FINA3010DE.pdf">Syllabus</a></p>
+        <p>Financial Markets (Undergraduate level), 2021 - Present, <a href = "../assets/pdf/2024FINA3010DE.pdf">[Syllabus]</a></p>
     </li>
 </ul>
 
