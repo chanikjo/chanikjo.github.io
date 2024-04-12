@@ -55,6 +55,11 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">Financial News-KAFA Doctoral Student Dissertation Award, 2020</span></p>
 
+<p>&nbsp;</p>
+
+<p><strong><span style="font-size:14.0pt">Journal referee</span></strong></p>
+
+<p><span style="font-size:12.0pt">Review of Financial Studies, Management Science, Review of Asset Pricing Studies, Journal of Banking and Finance (X6), Research Policy, Journal of Empirical Finance (X2), International Journal of Finance and Economics, Asia-Pacific Journal of Financial Studies</span></p>
 
 <p>&nbsp;</p>
 
