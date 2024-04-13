@@ -9,6 +9,23 @@ nav_order: 1
 
 <p><strong><span style="font-size:14.0pt"><span style="color:black">Publications</span></span></strong></p>
 
+
+<span style="color:black"><span style="font-size:14.0pt"><a href = "https://doi.org/10.1287/mnsc.2023.4784">A One-Factor Model of Corporate Bond Premia</a></span></span>
+
+ <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa</span></span>
+
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Management Science</span></strong>, 2024, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Nozawa_MS_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023one.txt">[+ bibtex]</a></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing, long-run risk, wealthy households&#39; consumption</span></span>
+
+<details>
+	<summary><span style="font-size:12pt">Abstract </span></summary>
+<span style="font-size:12.0pt"><span style="color:black">A one-factor model based on long-run consumption growth explains the risk premiums on corporate bond portfolios sorted on credit rating, credit spreads, downside risk, idiosyncratic volatility, long-term reversals, maturity, and sensitivity to the financial intermediary capital factor. The estimated risk-aversion coefficient is lower when we use the consumption growth of wealthy households over a longer horizon as a risk factor, and a model with a 20-quarter horizon yields a risk-aversion coefficient of 15, a value similar to the one estimated from equity portfolios.</span></span>
+</details>
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
 <span style="color:black"><span style="font-size:14.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a></span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi</span></span>
@@ -20,21 +37,6 @@ nav_order: 1
 <details>
 	<summary><span style="font-size:12pt">Abstract </span></summary>
 <span style="font-size:12.0pt"><span style="color:black">We test the conditional consumption-CAPM using asset holders' consumption and find that the time variation in the prices of asset holders' consumption risk is procyclical. This puzzling time variation is at odds with the implication of existing consumption-based equilibrium asset pricing models. We show that our finding is a salient feature of the data observed in multiple asset classes (aggregate equity market, equity portfolios, bond portfolios, and commodities portfolios), using different measures of consumption (household survey data and high-frequency retail shopping data) and alternative empirical methodologies.</span></span>
-</details>
-
-<p style="margin-left:40px">&nbsp;</p>
-
-<span style="color:black"><span style="font-size:14.0pt"><a href = "https://doi.org/10.1287/mnsc.2023.4784">A One-Factor Model of Corporate Bond Premia</a></span></span>
-
- <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa</span></span>
-
-<span style="font-size:12.0pt"><strong><span style="color:#000080">Management Science</span></strong>, forthcoming, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Nozawa_MS_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023one.txt">[+ bibtex]</a></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing, long-run risk, wealthy households&#39; consumption</span></span>
-
-<details>
-	<summary><span style="font-size:12pt">Abstract </span></summary>
-<span style="font-size:12.0pt"><span style="color:black">A one-factor model based on long-run consumption growth explains the risk premiums on corporate bond portfolios sorted on credit rating, credit spreads, downside risk, idiosyncratic volatility, long-term reversals, maturity, and sensitivity to the financial intermediary capital factor. The estimated risk-aversion coefficient is lower when we use the consumption growth of wealthy households over a longer horizon as a risk factor, and a model with a 20-quarter horizon yields a risk-aversion coefficient of 15, a value similar to the one estimated from equity portfolios.</span></span>
 </details>
 
 <p style="margin-left:40px">&nbsp;</p>
