@@ -16,7 +16,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><strong><span style="color:#000080">Management Science</span></strong>, 2024, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Nozawa_MS_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023one.txt">[+ bibtex]</a></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing, long-run risk, wealthy households&#39; consumption</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing, Long-run risk, Wealthy households&#39; Consumption</span></span>
 
 <details>
 	<summary><span style="font-size:12pt">Abstract </span></summary>
@@ -32,7 +32,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial Economics</span></strong>, 2023, <a href = "https://data.mendeley.com/public-files/datasets/64sr8nwn64/files/4f1a0130-914a-4561-8e9d-42e112b3732a/file_downloaded">Data and code</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_JFE_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023asset.txt">[+ bibtex]</a></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption,&nbsp;conditional tests</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing,&nbsp;Asset holders&#39;&nbsp;Consumption,&nbsp;Conditional tests</span></span>
 
 <details>
 	<summary><span style="font-size:12pt">Abstract </span></summary>
@@ -84,7 +84,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Media coverage:&nbsp;<a href = "https://www.marketwatch.com/story/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals-11659104629">MarketWatch</a></span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Household finance, subjective expectation, &nbsp;asset pricing, <a href = "../assets/bibliography/jo2023negative.txt">[+ bibtex]</a></span></span>
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Subjective expectation, &nbsp;Asset pricing, <a href = "../assets/bibliography/jo2023negative.txt">[+ bibtex]</a></span></span>
 
 <details>
  <summary> <span style="font-size:12pt">Abstract </span> </summary>
@@ -97,7 +97,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: UNSW (2023), UYSD (2023), UTS (2023), Labor and Finance (2023), SIPP Virtual Conference (2023),&nbsp;EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Household finance, stock market participation, and labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
 
 <details>
  <summary> <span style="font-size:12pt">Abstract </span> </summary>
@@ -112,7 +112,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: CICF (2024, scheduled), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Household finance, stock market participation, and&nbsp;climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span>
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and&nbsp;Climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span>
 
 <details>
 	<summary> <span style="font-size:12pt">Abstract </span></summary>
@@ -157,7 +157,7 @@ nav_order: 1
 <p>&nbsp;</p>
 <p><strong><span style="font-size:14.0pt"><span style="color:black">Other Publications</span></span></strong></p>
 
-<span style="color:black"><span style="font-size:12.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</a> with Kiryoung Lee&nbsp;and&nbsp;Yoontae Jeon, <strong><a href = "https://www.sciencedirect.com/journal/pacific-basin-finance-journal">Pacific-Basin Finance Journal</a></strong>, Volume 64, 2020&nbsp;[Economic uncertainty, household finance, stock market participation, and Chinese economy],  <a href = "../assets/bibliography/lee2020chinese.txt">[+ bibtex]</a></span></span>
+<span style="color:black"><span style="font-size:12.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</a> with Kiryoung Lee&nbsp;and&nbsp;Yoontae Jeon, <strong><a href = "https://www.sciencedirect.com/journal/pacific-basin-finance-journal">Pacific-Basin Finance Journal</a></strong>, Volume 64, 2020&nbsp;[Economic uncertainty, Household finance, Stock market participation, and Chinese economy],  <a href = "../assets/bibliography/lee2020chinese.txt">[+ bibtex]</a></span></span>
 
 <p>&nbsp;</p>
 
