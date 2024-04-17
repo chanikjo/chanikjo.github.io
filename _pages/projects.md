@@ -121,6 +121,27 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
+<span style="font-size:14.0pt">The Impact of AI on Minority Mortgage Borrowers</span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Sean Cao and&nbsp;Zhenyu Gao &nbsp;</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: A Workshop to Advance Research on Diversity, Equity, and Inclusion (2024)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">AI, Mortgage racial disparities,</span></span>
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt">Local Grocery Basket Inflation and Institutional Investors' Portfolio Choices</span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Byoung Uk Kang and Zhecheng Luo</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Yonsei University (2024)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
+
+<p style="margin-left:40px">&nbsp;</p>
+
 <span style="font-size:14.0pt"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349840">The Composition of Market Participants and Asset dynamics</a></span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: &nbsp;SFS Cavalcade (2021), RCFS/RAPS Winter Conference (2020), EFA (2019), CICF (2019), APAD (2019), EFMA (2019), ABFER, CEPR and CUHK (2019), SFS Cavalcade Asia (2018), NFA (2018), FMA (2018), YES (2018), TADC (2018), AFM (2017), AFBC (2017), Indiana University (2017)&nbsp;</span></span>
