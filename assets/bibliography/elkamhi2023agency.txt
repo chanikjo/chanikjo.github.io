@@ -1,6 +1,10 @@
-@article{elkamhi2023agency,
-  title={Agency Conflicts and Investment: Evidence from a Structural Estimation},
+@article{elkamhi2024agency,
+  title={Agency conflicts and investment: Evidence from a structural estimation},
   author={Elkamhi, Redouane and Kim, Daniel and Jo, Chanik and Salerno, Marco},
-  journal={Review of Corporate Finance Studies, forthcoming},
-  year={2023}
+  journal={The Review of Corporate Finance Studies},
+  volume={13},
+  number={2},
+  pages={539--582},
+  year={2024},
+  publisher={Oxford University Press}
 }
