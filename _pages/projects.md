@@ -62,7 +62,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno</span></span>
 
-<strong><span style="font-size:12.0pt"><span style="color:#000080">Review of Corporate Finance Studies</span></span></strong><span style="font-size:12.0pt"><span style="color:black">,&nbsp;forthcoming,&nbsp;<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, <a href = "../assets/bibliography/elkamhi2023agency.txt">[+ bibtex]</a></span></span>
+<strong><span style="font-size:12.0pt"><span style="color:#000080">Review of Corporate Finance Studies</span></span></strong><span style="font-size:12.0pt"><span style="color:black">,&nbsp;2024,&nbsp;<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, <a href = "../assets/bibliography/elkamhi2023agency.txt">[+ bibtex]</a></span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Dynamic capital structure model</span></span>
 
