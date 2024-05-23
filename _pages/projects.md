@@ -119,6 +119,13 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">This paper studies a novel channel through which climate risks affect households&rsquo; choices of risky asset allocation: a stringent climate change regulation elevates labor income risk for households employed by high-emission industries which in turn discourages households&#39; financial risk-taking. Using staggered adoptions of climate change action plans across states, we find that climate change action plans lead to a reduction in the share of risky assets by 15% for households in high-emission industries. We also find a reduction in risky asset holdings after the stringent EPA regulation. These results are stronger with experiences of climate change-related disasters. Our study implies an unintended consequence of climate regulations for wealth inequality by discouraging low-wealth households&#39; financial risk-taking.</span></span>
 </details> 
 
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt">CEOs' Early-life Inflation Experiences, Inflation Attention, and Corporate Decisions</span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Diego Garcia, Michael Shin, and Siyuan Wu</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Inflation, Attention, Corporate Finance</span></span>
 
 <p style="margin-left:40px">&nbsp;</p>
 
