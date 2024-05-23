@@ -125,7 +125,9 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Diego Garcia, Michael Shin, and Siyuan Wu</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Inflation, Attention, Corporate Finance</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Inflation, Attention, and Corporate Finance</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: KAIST, SKKU (2024, scheduled)</span></span>
 
 <p style="margin-left:40px">&nbsp;</p>
 
@@ -135,6 +137,8 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
 
+<span style="font-size:12.0pt"><span style="color:black">Presentation: CUHK (2023)</span></span>
+
 <p style="margin-left:40px">&nbsp;</p>
 
 <span style="font-size:14.0pt">The Big Data (Scientists) Arms Race: How Data Scientists Shape Stock Price Informativeness</span>
@@ -143,7 +147,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Institutions, Data Scientists, and Stock Price Informativeness</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Yonsei University (2024, scheduled)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Yonsei University (2024)</span></span>
 
 <p style="margin-left:40px">&nbsp;</p>
 
