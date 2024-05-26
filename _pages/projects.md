@@ -121,16 +121,6 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt">CEOs' Early-life Inflation Experiences, Inflation Attention, and Corporate Decisions</span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Diego Garcia, Michael Shin, and Siyuan Wu</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Inflation, Attention, and Corporate Finance</span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: KAIST, SKKU (2024, scheduled)</span></span>
-
-<p style="margin-left:40px">&nbsp;</p>
-
 <span style="font-size:14.0pt">Local Grocery Basket Inflation and Institutional Investors' Portfolio Choices</span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Byoung Uk Kang and Zhecheng Luo</span></span> 
