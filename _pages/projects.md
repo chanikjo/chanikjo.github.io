@@ -76,9 +76,9 @@ nav_order: 1
 
 <p><strong><span style="font-size:14.0pt"><span style="color:black">Working Papers</span></span></strong></p>
 
-<span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a></span></span>, submitted
+<span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a></span></span>
 
- <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Chen Lin and&nbsp;Yang You</span></span>
+ <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Chen Lin and&nbsp;Yang You, submitted</span></span>
  
 <span style="font-size:12.0pt"><span style="color:black">Presentation: MFA (2024), SNU (2023), Korea University (2023), KAIST (2023), &nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span>
 
