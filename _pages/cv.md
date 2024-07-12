@@ -47,6 +47,8 @@ nav_order: 3
 
 <p><strong><span style="font-size:14.0pt">Awards</span></strong></p>
 
+<p><span style="font-size:12.0pt">FMA Asia/Pacific Best Paper Award (Asset Pricing/Investment), 2024</span></p>
+
 <p><span style="font-size:12.0pt">Shinhan Bank & KAFA Best Paper Award, 2023</span></p>
   
 <p><span style="font-size:12.0pt">Outstanding Paper Award, Joint Conference with the Allied Korea Finance Associations, 2023</span></p>
@@ -64,6 +66,14 @@ nav_order: 3
 <p>&nbsp;</p>
 
 <p><strong><span style="font-size:14.0pt">Discussion</span></strong></p>
+
+<p><span style="font-size:12.0pt">"Dirty Air and Green Investments: the Impact of Pollution Information on Portfolio Allocations" by Raymond Fisman, Pulak Ghosh, Arkodipta Sarkar, Jian Zhang, CICF, July 2024</span></p>
+
+<p><span style="font-size:12.0pt">"Risk-Adjusting the Returns to Private Debt Funds" by Isil Erel, Thomas Flanagan, Michael Weisbach, CICF, July 2024</span></p>
+
+<p><span style="font-size:12.0pt">"What Can Macro-Active Bond Funds Tell Us About Monetary Policy Changes?" by Claire Yurong Hong, Jun Pan, Shiwen Tian, FMA Asia/Pacific, July 2024</span></p>
+
+<p><span style="font-size:12.0pt">"Game of Thrones: A Study of Multinational Corporations in the midst of International Politics" by Jiaxing You, Wei Liu, Jingjing Xia, FMA Asia/Pacific, July 2024</span></p>
 
 <p><span style="font-size:12.0pt">"Forecasting Option Returns with News" by Jie Cao, Bing Han, Gang Li, Ruijing Yang, and Xintong (Eunice) Zhan, MFA, March 2024</span></p>
 
