@@ -131,6 +131,16 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
+<span style="font-size:14.0pt">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Diego Garcia, Michael Shin, Siyuan Wu</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Decisions</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: KAIST (2024), SKKU (2024, scheduled), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024, scheduled) </span></span>
+
+<p style="margin-left:40px">&nbsp;</p>
+
 <span style="font-size:14.0pt">The Big Data (Scientists) Arms Race: How Data Scientists Shape Stock Price Informativeness</span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Ling Cen and Yanru Han</span></span> 
