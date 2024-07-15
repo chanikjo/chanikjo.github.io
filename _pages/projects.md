@@ -119,15 +119,6 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">This paper studies a novel channel through which climate risks affect households&rsquo; choices of risky asset allocation: a stringent climate change regulation elevates labor income risk for households employed by high-emission industries which in turn discourages households&#39; financial risk-taking. Using staggered adoptions of climate change action plans across states, we find that climate change action plans lead to a reduction in the share of risky assets by 15% for households in high-emission industries. We also find a reduction in risky asset holdings after the stringent EPA regulation. These results are stronger with experiences of climate change-related disasters. Our study implies an unintended consequence of climate regulations for wealth inequality by discouraging low-wealth households&#39; financial risk-taking.</span></span>
 </details> 
 
-<p style="margin-left:40px">&nbsp;</p>
-
-<span style="font-size:14.0pt">Local Grocery Basket Inflation and Institutional Investors' Portfolio Choices</span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Byoung Uk Kang and Zhecheng Luo</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: CUHK (2023)</span></span>
 
 <p style="margin-left:40px">&nbsp;</p>
 
@@ -138,6 +129,22 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Decisions</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: KAIST (2024), SKKU (2024, scheduled), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024, scheduled) </span></span>
+
+<details>
+ <summary> <span style="font-size:12pt">Abstract </span> </summary>
+<span style="font-size:12.0pt"><span style="color:black">We develop a firm-level inflation attention measure using earnings calls from 2002-2023.  Our identification strategy exploits CEO childhood experiences during the Great Inflation to capture exogenous variation in attention. We find that 1960s-born CEOs pay more attention to inflation than other cohorts. Attentive CEOs adopt cautious policies –- holding more cash, investing less, hiring less, and using less leverage. Moreover, they tend to raise output prices and exhibit higher equity valuations. Our results are robust to excluding the COVID-19 period. Our analysis highlights how CEO experience and attention shape corporate decisions and performance in response to the macroeconomic environment. </span></span>
+</details>
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt">Local Grocery Basket Inflation and Institutional Investors' Portfolio Choices</span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Byoung Uk Kang and Zhecheng Luo</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: CUHK (2023)</span></span>
+
 
 <p style="margin-left:40px">&nbsp;</p>
 
