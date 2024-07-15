@@ -141,10 +141,9 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Byoung Uk Kang and Zhecheng Luo</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
-
 <span style="font-size:12.0pt"><span style="color:black">Presentation: CUHK (2023)</span></span>
 
+<span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
 
 <p style="margin-left:40px">&nbsp;</p>
 
