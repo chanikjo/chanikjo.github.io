@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 Email: <a href = "mailto:chanikjo@cuhk.edu.hk">chanikjo@cuhk.edu.hk</a> 
 
-Research interest: Household Finance, Asset Pricing, Climate Finance
+Research interest: Household Finance, Asset Pricing, Climate Finance, Inflation
 
 
 <a href = "../assets/pdf/CV_chanikjo.pdf">CV</a> 
