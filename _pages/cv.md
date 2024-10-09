@@ -61,7 +61,8 @@ nav_order: 3
 
 <p><strong><span style="font-size:14.0pt">Journal referee</span></strong></p>
 
-<p><span style="font-size:12.0pt">Review of Financial Studies, Management Science, Review of Asset Pricing Studies, Journal of Banking and Finance (X6), Research Policy, Journal of Empirical Finance (X2), International Journal of Finance and Economics, Asia-Pacific Journal of Financial Studies</span></p>
+<p><span style="font-size:12.0pt">Review of Financial Studies, Management Science, 
+Journal of Financial and Quantitative Analysis, Review of Asset Pricing Studies, Journal of Banking and Finance (X6), Research Policy, Journal of Empirical Finance (X2), International Journal of Finance and Economics, Asia-Pacific Journal of Financial Studies</span></p>
 
 <p>&nbsp;</p>
 
@@ -70,7 +71,7 @@ nav_order: 3
 <p><span style="font-size:12.0pt">"The Effect of Local Stock Market Participation on Local Housing Prices" by Casey Dougal and Rodney Ndum, FMA, October 2024</span></p>
 
 <p><span style="font-size:12.0pt">"Intermediary Balance Sheet Constraints, Bond Mutual Funds’ Strategies, and Bond Returns" by Mariassunta Giannetti, Chotibhak Jotikasthira, Andreas C. Rapp, Martin Waibel, EFA, August 2024</span></p>
-
+, 
 <p><span style="font-size:12.0pt">"Dirty Air and Green Investments: the Impact of Pollution Information on Portfolio Allocations" by Raymond Fisman, Pulak Ghosh, Arkodipta Sarkar, Jian Zhang, CICF, July 2024</span></p>
 
 <p><span style="font-size:12.0pt">"Risk-Adjusting the Returns to Private Debt Funds" by Isil Erel, Thomas Flanagan, Michael Weisbach, CICF, July 2024</span></p>
