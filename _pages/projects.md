@@ -162,9 +162,9 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt">The Big Data (Scientists) Arms Race: How Data Scientists Shape Stock Price Informativeness</span>
+<span style="font-size:14.0pt">Data Scientists in Financial Markets</span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Ling Cen and Yanru Han</span></span> 
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Ling Cen, Bing Han, and Yanru Han</span></span> 
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: Yonsei University (2024)</span></span>
 
