@@ -124,20 +124,14 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Diego Garcia, Michael Shin, and Siyuan Wu</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: CU Boulder (2024), KAIST (2024), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024) </span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Decisions</span></span>
 
-<details>
- <summary> <span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">We develop a firm-level inflation attention measure using earnings calls from 2002-2023.  Our identification strategy exploits CEO childhood experiences during the Great Inflation to capture exogenous variation in attention. We find that 1960s-born CEOs pay more attention to inflation than other cohorts. Attentive CEOs adopt cautious policies –- holding more cash, investing less, hiring less, and using less leverage. Moreover, they tend to raise output prices and exhibit higher equity valuations. Our results are robust to excluding the COVID-19 period. Our analysis highlights how CEO experience and attention shape corporate decisions and performance in response to the macroeconomic environment. </span></span>
-</details>
 
-<p style="margin-left:40px">&nbsp;</p>
+
+
+
 
 <span style="font-size:14.0pt">Is Greenium a Reflection of Inflation Risk?</span>
 
@@ -156,15 +150,10 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt">Local Grocery Basket Inflation and Institutional Investors' Portfolio Choices</span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Byoung Uk Kang and Zhecheng Luo</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: CUHK (2023)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
 
-<p style="margin-left:40px">&nbsp;</p>
 
 <span style="font-size:14.0pt">Data Scientists in Financial Markets</span>
 
@@ -175,6 +164,45 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Institutions, Data Scientists, and Stock Price Informativeness</span></span>
 
 <p style="margin-left:40px">&nbsp;</p>
+
+
+
+
+
+<span style="font-size:14.0pt">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Diego Garcia, Michael Shin, and Siyuan Wu</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: CU Boulder (2024), KAIST (2024), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024) </span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Decisions</span></span>
+
+<details>
+ <summary> <span style="font-size:12pt">Abstract </span> </summary>
+<span style="font-size:12.0pt"><span style="color:black">We develop a firm-level inflation attention measure using earnings calls from 2002-2023.  Our identification strategy exploits CEO childhood experiences during the Great Inflation to capture exogenous variation in attention. We find that 1960s-born CEOs pay more attention to inflation than other cohorts. Attentive CEOs adopt cautious policies –- holding more cash, investing less, hiring less, and using less leverage. Moreover, they tend to raise output prices and exhibit higher equity valuations. Our results are robust to excluding the COVID-19 period. Our analysis highlights how CEO experience and attention shape corporate decisions and performance in response to the macroeconomic environment. </span></span>
+</details>
+
+<p style="margin-left:40px">&nbsp;</p>
+
+
+
+
+
+<span style="font-size:14.0pt">Local Grocery Basket Inflation and Institutional Investors' Portfolio Choices</span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Byoung Uk Kang and Zhecheng Luo</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: CUHK (2023)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
+
+<p style="margin-left:40px">&nbsp;</p>
+
+
+
+
+
+
 
 <span style="font-size:14.0pt"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349840">The Composition of Market Participants and Asset dynamics</a></span></span>
 
