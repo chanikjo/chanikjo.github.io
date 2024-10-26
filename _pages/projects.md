@@ -95,7 +95,9 @@ nav_order: 1
 
 <span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869">Unintended Benefits of Employment Protection Laws: Households&#39; Stock Market Participation</a> </span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: NTU (2024), FMA Asia/Pacific (2024, scheduled), UNSW (2023), UYSD (2023), UTS (2023), Labor and Finance (2023), SIPP Virtual Conference (2023),&nbsp;EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: The 18th NYCU International Finance Conference (2024, scheduled), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">FMA Asia/Pacific Best Paper Award (Asset pricing/Investment) (2024), Shinhan Bank & KAFA Best Paper Award (2023)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
 
@@ -110,7 +112,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam &nbsp;</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: CICF (2024, scheduled), CFRC (2024, scheduled), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: SBFC (2024, scheduled), CICF (2024), CFRC (2024), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022), CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and&nbsp;Climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span>
 
@@ -126,7 +128,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Diego Garcia, Michael Shin, and Siyuan Wu</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: KAIST (2024), SKKU (2024, scheduled), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024, scheduled) </span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: CU Boulder (2024), KAIST (2024), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024) </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Decisions</span></span>
 
@@ -141,7 +143,9 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Zhenyu Gao and Yuyi He</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Sydney Banking and Financial Stability Conference (2024, scheduled) </span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Sydney Banking and Financial Stability Conference (2024, scheduled), Korean Finance Association Autumn Conference (2024)  </span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Best Paper Award, Korean Finance Association Autumn Conference (2024) </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Greenium, Inflation, and Asset Pricing </span></span>
 
