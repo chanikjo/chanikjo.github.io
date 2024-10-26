@@ -145,7 +145,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: Sydney Banking and Financial Stability Conference (2024, scheduled), Korean Finance Association Autumn Conference (2024)  </span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Best Paper Award, Korean Finance Association Autumn Conference (2024) </span></span>
+<span style="font-size:12.0pt"><span style="color:black"><em>Best Paper Award, Korean Finance Association Autumn Conference (2024)</em></span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Greenium, Inflation, and Asset Pricing </span></span>
 
