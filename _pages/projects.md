@@ -99,7 +99,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">FMA Asia/Pacific Best Paper Award (Asset pricing/Investment) (2024), Shinhan Bank & KAFA Best Paper Award (2023)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
+<span style="font-size:12.0pt"><span style="color:black"; font-style:italic>Household finance, Stock market participation, and Labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
 
 <details>
  <summary> <span style="font-size:12pt">Abstract </span> </summary>
