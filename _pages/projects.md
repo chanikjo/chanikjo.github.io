@@ -97,9 +97,9 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: The 18th NYCU International Finance Conference (2024, scheduled), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">FMA Asia/Pacific Best Paper Award (Asset pricing/Investment) (2024), Shinhan Bank & KAFA Best Paper Award (2023)</span></span>
+<span style="font-size:12.0pt"><span style="color:black"><em>FMA Asia/Pacific Best Paper Award (Asset pricing/Investment) (2024), Shinhan Bank & KAFA Best Paper Award (2023)</em></span></span>
 
-<span style="font-size:12.0pt"><span style="color:black"; font-style:italic>Household finance, Stock market participation, and Labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
 
 <details>
  <summary> <span style="font-size:12pt">Abstract </span> </summary>
