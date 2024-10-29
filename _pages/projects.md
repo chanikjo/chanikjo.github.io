@@ -133,23 +133,6 @@ nav_order: 1
 
 
 
-<span style="font-size:14.0pt">Is Greenium a Reflection of Inflation Risk?</span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Zhenyu Gao and Yuyi He</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Sydney Banking and Financial Stability Conference (2024, scheduled), Korean Finance Association Autumn Conference (2024)  </span></span>
-
-<span style="font-size:12.0pt"><span style="color:black"><em>Best Paper Award, Korean Finance Association Autumn Conference (2024)</em></span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Greenium, Inflation, and Asset Pricing </span></span>
-
-<details>
- <summary> <span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">We present a novel stylized fact that green stocks carry higher inflation risk compared to brown stocks, performing poorly at times of unexpected inflation. Given this fact, can the outperformance of green stocks over brown stocks (the "greenium") be explained as compensation for inflation risk? We find that the magnitude of the greenium decreases by 31% and 54% for Scope 1 and Scope 2, and the greenium becomes statistically insignificant after controlling for individual stocks' core inflation risk exposure. These findings are robust to excluding brown industries and are not driven by the post-COVID inflationary period. Overall, our results suggest that the greenium is in part a reflection of inflation risk compensation. </span></span>
-</details>
-
-<p style="margin-left:40px">&nbsp;</p>
-
 
 
 
@@ -169,6 +152,10 @@ nav_order: 1
 </details>
 
 <p style="margin-left:40px">&nbsp;</p>
+
+
+
+
 
 
 
