@@ -138,7 +138,7 @@ nav_order: 1
 
 
 
-<span style="font-size:14.0pt">Data Scientists in Financial Markets</span>
+<span style="font-size:14.0pt">Data Scientists on Wall Street</span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Ling Cen, Bing Han, and Yanru Han</span></span> 
 
