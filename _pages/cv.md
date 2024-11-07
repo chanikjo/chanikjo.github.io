@@ -47,6 +47,8 @@ nav_order: 3
 
 <p><strong><span style="font-size:14.0pt">Awards</span></strong></p>
 
+<p><span style="font-size:12.0pt">Best Paper Award, Korean Finance Association Fall meeting, 2024</span></p>
+
 <p><span style="font-size:12.0pt">The SHB-KAFA Young Scholar Award, 2024</span></p>
 
 <p><span style="font-size:12.0pt">FMA Asia/Pacific Best Paper Award (Asset Pricing/Investment), 2024</span></p>
