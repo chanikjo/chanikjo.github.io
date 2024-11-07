@@ -93,7 +93,9 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869">Unintended Benefits of Employment Protection Laws: Households&#39; Stock Market Participation</a> </span></span>
+<span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869">Safe Jobs, Risky Investments: Employment Protection and Household Portfolio Choices</a> </span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with Changhyun Ahn and Singsen Lam</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: The 18th NYCU International Finance Conference (2024, scheduled), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
 
