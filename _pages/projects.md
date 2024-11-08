@@ -144,7 +144,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Ling Cen, Bing Han, and Yanru Han</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Yonsei University (2024)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: SKKU (2024, scheduled), Yonsei University (2024)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Institutions, Data Scientists, and Stock Price Informativeness</span></span>
 
