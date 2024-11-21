@@ -137,7 +137,7 @@ nav_order: 1
 
 
 
-<span style="font-size:14.0pt"><a href = "[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769967)">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</a></span>
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769967">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam &nbsp;</span></span> 
 
