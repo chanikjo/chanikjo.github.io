@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-<p><strong><span style="font-size:14.0pt"><span style="color:black">Publications</span></span></strong></p>
+<p><strong><span style="font-size:18.0pt"><span style="color:black">Publications</span></span></strong></p>
 
 
 <span style="color:black"><span style="font-size:14.0pt"><a href = "https://doi.org/10.1287/mnsc.2023.4784">A One-Factor Model of Corporate Bond Premia</a></span></span>
@@ -74,7 +74,7 @@ nav_order: 1
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p><strong><span style="font-size:14.0pt"><span style="color:black">Working Papers</span></span></strong></p>
+<p><strong><span style="font-size:18.0pt"><span style="color:black">Working Papers</span></span></strong></p>
 
 <span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a></span></span>
 
