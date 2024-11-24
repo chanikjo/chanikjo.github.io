@@ -8,7 +8,7 @@ nav_order: 3
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:navy"><a href="../assets/pdf/CV_chanikjo.pdf" style="color:#000080; text-decoration:underline"><span style="color:#000080">PDF File</span></a></span></span></span></span></p> <br> 
 
-<p><strong><span style="font-size:14.0pt">Employment</span></strong></p>
+<p><strong><span style="font-size:16.0pt">Employment</span></strong></p>
 
 <p><strong><span style="font-size:12.0pt">Chinese University of Hong Kong Business School, Hong Kong</span></strong></p>
 
@@ -18,7 +18,7 @@ nav_order: 3
 
 <p>&nbsp;</p>
 
-<p><strong><span style="font-size:14.0pt">Education</span></strong></p>
+<p><strong><span style="font-size:16.0pt">Education</span></strong></p>
 
 <p><strong><span style="font-size:12.0pt">University of Toronto, Toronto, Canada</span></strong></p>
 
@@ -45,7 +45,7 @@ nav_order: 3
 
 <p>&nbsp;</p>
 
-<p><strong><span style="font-size:14.0pt">Awards</span></strong></p>
+<p><strong><span style="font-size:16.0pt">Awards</span></strong></p>
 
 <p><span style="font-size:12.0pt">Best Paper Award, Korean Finance Association Fall meeting, 2024</span></p>
 
@@ -63,14 +63,14 @@ nav_order: 3
 
 <p>&nbsp;</p>
 
-<p><strong><span style="font-size:14.0pt">Journal referee</span></strong></p>
+<p><strong><span style="font-size:16.0pt">Journal referee</span></strong></p>
 
 <p><span style="font-size:12.0pt">Review of Financial Studies, Management Science, 
 Journal of Financial and Quantitative Analysis, Review of Asset Pricing Studies, Journal of Banking and Finance (X6), Research Policy, Journal of Empirical Finance (X2), International Journal of Finance and Economics, Asia-Pacific Journal of Financial Studies</span></p>
 
 <p>&nbsp;</p>
 
-<p><strong><span style="font-size:14.0pt">Discussion</span></strong></p>
+<p><strong><span style="font-size:16.0pt">Discussion</span></strong></p>
 
 <p><span style="font-size:12.0pt">"The Effect of Local Stock Market Participation on Local Housing Prices" by Casey Dougal and Rodney Ndum, FMA, October 2024</span></p>
 
