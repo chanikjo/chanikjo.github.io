@@ -137,26 +137,6 @@ nav_order: 1
 
 
 
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769967">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</a></span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam &nbsp;</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: SBFC (2024, scheduled), AsianFA Annual Meeting (2024), Singapore Rising Scholars Conference (2024), Central University of Finance and Economics (2024), AFA PhD Poster Session (2024), FMA Doctoral Consortium (2023), CUHK (2023)</span></span>
-
-<span style="font-size:12.0pt"><span style="color:black"><em>Best Paper Award, Singapore Rising Scholars Conference (2024)</em></span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, Intra-Household Risk-Sharing</span></span>
-
-<details>
-	<summary> <span style="font-size:12pt">Abstract </span></summary>
-<span style="font-size:12.0pt"><span style="color:black">This paper proposes a novel channel for households’ risky asset allocation: better intrahousehold risk-sharing reduces overall labor income risk for dual-earner couples, thus encouraging households’ financial risk-taking. Capturing intra-household risk-sharing dynamics using the conditional income correlation between spouses’ industries, we find that better income risk-sharing within couples increases households’ financial risktaking. Exploiting unexpected events of spousal death, we causally identify the impact of intra-household risk-sharing on households’ asset choices. Our study implies an unintended consequence of positive assortative mating, a growing tendency of couples choosing partners with similar socioeconomic statuses, which limits risk-sharing between spouses, thereby discouraging financial risk-taking.</span></span>
-</details> 
-
-
-<p style="margin-left:40px">&nbsp;</p>
-
-
-
 
 
 
