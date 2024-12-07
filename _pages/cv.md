@@ -72,6 +72,10 @@ Journal of Financial and Quantitative Analysis, Review of Asset Pricing Studies,
 
 <p><strong><span style="font-size:18.0pt">Discussion</span></strong></p>
 
+<p><span style="font-size:12.0pt">"The demand for government debt" by Dora Xia, Andreas Schrimpf, and Eren Egemen, SFS Cavalcade Asia-Pacific 2024, December 2024</span></p>
+
+<p><span style="font-size:12.0pt">"Save more or less? The impact of government health insurance change on saving behavior" by Ye (Lyren) Lu, Sydney Banking and Financial Stability Conference, December 2024</span></p>
+
 <p><span style="font-size:12.0pt">"Do Connections to the U.S. President Enable Regulatory Capture? Evidence from Antitrust Merger Reviews" by Claire Liu and Jared Stanfield, Sydney Banking and Financial Stability Conference, December 2024</span></p>
 
 <p><span style="font-size:12.0pt">"How One Country's Policy Rate Changes Are Induced by Another: A Linear Hawkes Process Approach" by Ping Chen Tsai, Ray Yeutien Chou, Chi-Feng Tzeng, and Cheoljun Eom, 18th NYCU International Finance Conference, December 2024</span></p>
