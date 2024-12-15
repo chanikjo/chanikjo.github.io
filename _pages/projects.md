@@ -141,10 +141,7 @@ nav_order: 1
 
 
 
-
-
-
-<span style="font-size:14.0pt">Data Scientists on Wall Street</span>
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055695">Data Scientists on Wall Street</a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Ling Cen, Bing Han, and Yanru Han</span></span> 
 
