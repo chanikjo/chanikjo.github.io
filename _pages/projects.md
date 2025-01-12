@@ -28,7 +28,7 @@ nav_order: 1
 
 <span style="color:black"><span style="font-size:14.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a></span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi</span></span>
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a></span></span>
 
 <span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial Economics</span></strong>, 2023, <a href = "https://data.mendeley.com/public-files/datasets/64sr8nwn64/files/4f1a0130-914a-4561-8e9d-42e112b3732a/file_downloaded">Data and code</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_JFE_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023asset.txt">[+ bibtex]</a></span>
 
@@ -43,7 +43,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><span style="color:black"><a href = "https://doi.org/10.1017/S0022109023000807">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a></span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno</span></span>
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a> and&nbsp;<a href = "https://sites.google.com/view/marco-salerno">Marco Salerno</a></span></span>
 
 <span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, forthcoming, <a href = "https://data.mendeley.com/public-files/datasets/bm3bn4r5d4/files/18f4ba70-0e3f-4b4d-9f79-69ab0dd07c69/file_downloaded">Data</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Salerno_JFQA_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023measuring.txt">[+ bibtex]</a></span>
 
@@ -60,7 +60,7 @@ nav_order: 1
 <span style="font-size:14.0pt"><span style="color:black"><a href = "https://academic.oup.com/rcfs/advance-article-abstract/doi/10.1093/rcfs/cfac019/6576649?redirectedFrom=fulltext">Agency Conflicts and Investment: Evidence from a Structural Estimation</a></span></span>
 
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno</span></span>
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a>,&nbsp;<a href = "https://sites.google.com/view/danielsangkim/home">Daniel Kim</a>, and&nbsp;<a href = "https://sites.google.com/view/marco-salerno">Marco Salerno</a></span></span>
 
 <strong><span style="font-size:12.0pt"><span style="color:#000080">Review of Corporate Finance Studies</span></span></strong><span style="font-size:12.0pt"><span style="color:black">,&nbsp;2024,&nbsp;<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, <a href = "../assets/bibliography/elkamhi2023agency.txt">[+ bibtex]</a></span></span>
 
