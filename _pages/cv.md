@@ -65,12 +65,13 @@ nav_order: 3
 
 <p><strong><span style="font-size:18.0pt">Journal referee</span></strong></p>
 
-<p><span style="font-size:12.0pt">Review of Financial Studies, Management Science, 
-Journal of Financial and Quantitative Analysis, Review of Asset Pricing Studies, Journal of Banking and Finance (X6), Research Policy, Journal of Empirical Finance (X2), International Journal of Finance and Economics, Asia-Pacific Journal of Financial Studies</span></p>
+<p><span style="font-size:12.0pt">Review of Financial Studies, Management Science, Journal of Financial and Quantitative Analysis, Review of Asset Pricing Studies, Journal of Banking and Finance (X7), Journal of Empirical Finance (X2), International Journal of Finance and Economics, Research Policy, Asia-Pacific Journal of Financial Studies, Economics Letters</span></p>
 
 <p>&nbsp;</p>
 
 <p><strong><span style="font-size:18.0pt">Discussion</span></strong></p>
+
+<p><span style="font-size:12.0pt">"Local Rules, Distant Woes: Shifting Consumption Preference Through Social Ties" by Haiqiang Chen, Jing Li, and Wenlan Qian, Winter Finance Summit in Asia 2025, February 2025</span></p>
 
 <p><span style="font-size:12.0pt">"The demand for government debt" by Dora Xia, Andreas Schrimpf, and Eren Egemen, SFS Cavalcade Asia-Pacific 2024, December 2024</span></p>
 
