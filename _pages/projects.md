@@ -78,7 +78,7 @@ nav_order: 1
 
 <span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a></span></span>
 
- <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Chen Lin and&nbsp;Yang You, submitted</span></span>
+ <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.hkubs.hku.hk/people/chen-lin/">Chen Lin</a> and&nbsp;<a href = "https://yangyou1.weebly.com/">Yang You</a>, submitted</span></span>
  
 <span style="font-size:12.0pt"><span style="color:black">Presentation: MFA (2024), SNU (2023), Korea University (2023), KAIST (2023), &nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span>
 
@@ -98,7 +98,7 @@ nav_order: 1
 
 <span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869">Safe Jobs, Risky Investments: Employment Protection and Household Portfolio Choices</a> </span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with Changhyun Ahn and Singsen Lam</span></span>
+<span style="font-size:12.0pt"><span style="color:black">with <a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: The 18th NYCU International Finance Conference (2024, scheduled), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
 
@@ -119,7 +119,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360">Climate Change and Households&#39; Risk-Taking</a></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam &nbsp;</span></span> 
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: Finance Down Under (2025, scheduled), SBFC (2024, scheduled), CICF (2024), CFRC (2024), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022), CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
 
@@ -143,7 +143,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055695">Data Scientists on Wall Street</a></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Ling Cen, Bing Han, and Yanru Han</span></span> 
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/cenling/">Ling Cen</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and <a href = "https://sites.google.com/view/yanruhan/">Yanru Han</a></span></span> 
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: SKKU (2024, scheduled), Yonsei University (2024)</span></span>
 
@@ -166,7 +166,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Diego Garcia, Michael Shin, and Siyuan Wu</span></span> 
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://leeds-faculty.colorado.edu/garcia/">Diego Garcia</a>, <a href = "https://www.mikejshin.com/">Michael Shin</a>, and <a href = "https://grad.bschool.cuhk.edu.hk/students/wu-siyuan/">Siyuan Wu</a></span></span> 
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: CU Boulder (2024), KAIST (2024), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024) </span></span>
 
