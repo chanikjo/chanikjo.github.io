@@ -185,7 +185,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt">Local Grocery Basket Inflation and Institutional Investors' Portfolio Choices</span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Byoung Uk Kang and Zhecheng Luo</span></span> 
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.polyu.edu.hk/af/bkang/">Byoung Uk Kang</a> and <a href = "https://cuhk.converis.clarivate.com/converis/portal/detail/Person/186619902?auxfun=&lang=zh_HK">Zhecheng Luo</a></span></span> 
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: CUHK (2023)</span></span>
 
