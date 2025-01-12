@@ -199,6 +199,13 @@ nav_order: 1
 
 
 
+
+
+
+
+
+
+
 <span style="font-size:14.0pt"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349840">The Composition of Market Participants and Asset dynamics</a></span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: &nbsp;SFS Cavalcade (2021), RCFS/RAPS Winter Conference (2020), EFA (2019), CICF (2019), APAD (2019), EFMA (2019), ABFER, CEPR and CUHK (2019), SFS Cavalcade Asia (2018), NFA (2018), FMA (2018), YES (2018), TADC (2018), AFM (2017), AFBC (2017), Indiana University (2017)&nbsp;</span></span>
@@ -214,7 +221,7 @@ nav_order: 1
 <p>&nbsp;</p>
 <p><strong><span style="font-size:14.0pt"><span style="color:black">Other Publications</span></span></strong></p>
 
-<span style="color:black"><span style="font-size:12.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</a> with Kiryoung Lee&nbsp;and&nbsp;Yoontae Jeon, <strong><a href = "https://www.sciencedirect.com/journal/pacific-basin-finance-journal">Pacific-Basin Finance Journal</a></strong>, Volume 64, 2020&nbsp;[Economic uncertainty, Household finance, Stock market participation, and Chinese economy],  <a href = "../assets/bibliography/lee2020chinese.txt">[+ bibtex]</a></span></span>
+<span style="color:black"><span style="font-size:12.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</a> with <a href = "https://gsias.hufs.ac.kr/gsias/7178/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZnc2lhcyUyRjMzOCUyRjM4OTElMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2">Kiryoung Lee</a>&nbsp;and&nbsp;<a href = "https://experts.mcmaster.ca/display/jeony5">Yoontae Jeon</a>, <strong><a href = "https://www.sciencedirect.com/journal/pacific-basin-finance-journal">Pacific-Basin Finance Journal</a></strong>, Volume 64, 2020&nbsp;[Economic uncertainty, Household finance, Stock market participation, and Chinese economy],  <a href = "../assets/bibliography/lee2020chinese.txt">[+ bibtex]</a></span></span>
 
 <p>&nbsp;</p>
 
