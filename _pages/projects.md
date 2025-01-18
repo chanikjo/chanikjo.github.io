@@ -141,6 +141,67 @@ nav_order: 1
 
 
 
+
+
+
+
+
+
+
+
+
+<span style="font-size:14.0pt">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: AsianFA Annual Meeting (2024), Singapore Rising Scholars Conference (2024), Central University of Finance and Economics (2024), AFA PhD Poster Session (2024), FMA Doctoral Consortium (2023), CUHK (2023)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Intra-household risk-sharing</span></span>
+
+<details>
+	<summary> <span style="font-size:12pt">Abstract </span></summary>
+<span style="font-size:12.0pt"><span style="color:black">This paper proposes a novel channel for households' risky asset allocation: better intra-household risk-sharing reduces overall labor income risk for dual-earner couples, thus encouraging households' financial risk-taking. Capturing intra-household risk-sharing dynamics using the conditional income correlation between spouses' industries, we find that better income risk-sharing within couples increases households' financial risk-taking. Exploiting unexpected events of spousal death, we causally identify the impact of intra-household risk-sharing on households' asset choices. Our study implies an unintended consequence of positive assortative mating, a growing tendency of couples choosing partners with similar socioeconomic statuses, which limits risk-sharing between spouses, thereby discouraging financial risk-taking.</span></span>
+</details> 
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+
+
+
+
+
+
+
+
+<span style="font-size:14.0pt">Do Minority Neighborhoods Pay More for Affordable Housing Finance?</span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a></span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Fostering Inclusion: A Workshop to Advance Research on Diversity, Equity, and Inclusion at the University of Washington Foster School of Business (2024)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Affordable housing, Multi-family housing, Municipal bonds, Racial disparities, Racial segregation</span></span>
+
+<details>
+	<summary> <span style="font-size:12pt">Abstract </span></summary>
+<span style="font-size:12.0pt"><span style="color:black">State and local governments issue tax-exempt bonds to finance developments of affordable multi-family rental housing. These bonds represent a crucial funding source for addressing the affordable housing crisis in the United States. We find that affordable housing projects in predominantly minority neighborhoods face significantly higher borrowing costs. This disparity persists even among FHA-insured bonds where credit risk is essentially eliminated through federal guarantees. The effect is stronger when project neighborhoods have a higher minority concentration compared to surrounding areas, suggesting that financing costs may incentivize development in racially homogeneous communities, potentially reinforcing existing patterns of racial segregation.</span></span>
+</details> 
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055695">Data Scientists on Wall Street</a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/cenling/">Ling Cen</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and <a href = "https://sites.google.com/view/yanruhan/">Yanru Han</a></span></span> 
