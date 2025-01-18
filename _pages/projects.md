@@ -84,7 +84,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Media coverage:&nbsp;<a href = "https://www.marketwatch.com/story/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals-11659104629">MarketWatch</a></span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Household finance, Subjective expectation, &nbsp;Asset pricing, <a href = "../assets/bibliography/jo2023negative.txt">[+ bibtex]</a></span></span>
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Subjective expectation, Asset pricing, <a href = "../assets/bibliography/jo2023negative.txt">[+ bibtex]</a></span></span>
 
 <details>
  <summary> <span style="font-size:12pt">Abstract </span> </summary>
