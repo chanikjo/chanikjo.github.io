@@ -24,20 +24,13 @@ nav_order: 1
 </details>
 
 
-<p style="margin-left:40px">&nbsp;</p>
 
-<span style="color:black"><span style="font-size:14.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a></span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a></span></span>
 
-<span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial Economics</span></strong>, 2023, <a href = "https://data.mendeley.com/public-files/datasets/64sr8nwn64/files/4f1a0130-914a-4561-8e9d-42e112b3732a/file_downloaded">Data and code</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_JFE_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023asset.txt">[+ bibtex]</a></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing,&nbsp;Asset holders&#39;&nbsp;Consumption,&nbsp;Conditional tests</span></span>
 
-<details>
-	<summary><span style="font-size:12pt">Abstract </span></summary>
-<span style="font-size:12.0pt"><span style="color:black">We test the conditional consumption-CAPM using asset holders' consumption and find that the time variation in the prices of asset holders' consumption risk is procyclical. This puzzling time variation is at odds with the implication of existing consumption-based equilibrium asset pricing models. We show that our finding is a salient feature of the data observed in multiple asset classes (aggregate equity market, equity portfolios, bond portfolios, and commodities portfolios), using different measures of consumption (household survey data and high-frequency retail shopping data) and alternative empirical methodologies.</span></span>
-</details>
+
+
 
 <p style="margin-left:40px">&nbsp;</p>
 
@@ -45,7 +38,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a> and&nbsp;<a href = "https://sites.google.com/view/marco-salerno">Marco Salerno</a></span></span>
 
-<span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, forthcoming, <a href = "https://data.mendeley.com/public-files/datasets/bm3bn4r5d4/files/18f4ba70-0e3f-4b4d-9f79-69ab0dd07c69/file_downloaded">Data</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Salerno_JFQA_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023measuring.txt">[+ bibtex]</a></span>
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, 2024, <a href = "https://data.mendeley.com/public-files/datasets/bm3bn4r5d4/files/18f4ba70-0e3f-4b4d-9f79-69ab0dd07c69/file_downloaded">Data</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Salerno_JFQA_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023measuring.txt">[+ bibtex]</a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing</span></span>
 
@@ -53,6 +46,20 @@ nav_order: 1
 	<summary><span style="font-size:12pt">Abstract </span></summary>
 <span style="font-size:12.0pt"><span style="color:black">We develop 50 indices of State-level Economic Policy Uncertainty (SEPU) based on newspaper coverage frequency using 204 million newspaper articles from March 1984 to December 2019. We assess the validity of our measures. Our SEPU indices vary counter-cyclically with respect to state-specific economic conditions, rise before close gubernatorial elections, and exhibit a large cross-sectional variation. We demonstrate that SEPU indices are associated with the cross-sectional variation in state-level GDP, employment, income as well as industry investment decisions. Our findings highlight the importance of economic policy uncertainty at the state level in addition to the nationwide level.</span></span>
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p style="margin-left:40px">&nbsp;</p>
@@ -70,6 +77,47 @@ nav_order: 1
 	<summary><span style="font-size:12pt">Abstract </span></summary>
 <span style="font-size:12.0pt"><span style="color:black">We develop a dynamic capital structure model to study how agency conflicts between managers and shareholders affect the joint determination of financing and investment decisions. We show that there are two agency conflicts with opposing effects on a manager’s choice of investment: first, the consumption of private benefits channel leads managers not only to choose a lower optimal leverage, but also to underinvest, and second, compensation linked to firm size may lead managers to overinvest. We fit the model to the data and show that the average firm slightly overinvests, younger CEOs invest more than older ones, while CEOs with longer tenure overinvest more than CEOs with shorter tenure.</span></span>
 </details>
+
+
+
+
+
+
+
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="color:black"><span style="font-size:14.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a></span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a></span></span>
+
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial Economics</span></strong>, 2023, <a href = "https://data.mendeley.com/public-files/datasets/64sr8nwn64/files/4f1a0130-914a-4561-8e9d-42e112b3732a/file_downloaded">Data and code</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_JFE_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023asset.txt">[+ bibtex]</a></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing,&nbsp;Asset holders&#39;&nbsp;Consumption,&nbsp;Conditional tests</span></span>
+
+<details>
+	<summary><span style="font-size:12pt">Abstract </span></summary>
+<span style="font-size:12.0pt"><span style="color:black">We test the conditional consumption-CAPM using asset holders' consumption and find that the time variation in the prices of asset holders' consumption risk is procyclical. This puzzling time variation is at odds with the implication of existing consumption-based equilibrium asset pricing models. We show that our finding is a salient feature of the data observed in multiple asset classes (aggregate equity market, equity portfolios, bond portfolios, and commodities portfolios), using different measures of consumption (household survey data and high-frequency retail shopping data) and alternative empirical methodologies.</span></span>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
