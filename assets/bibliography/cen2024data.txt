@@ -1,0 +1,6 @@
+@article{cen2024data,
+  title={Data Scientists on Wall Street},
+  author={Cen, Ling and Han, Bing and Han, Yanru and Jo, Chanik},
+  journal={Available at SSRN},
+  year={2024}
+}
