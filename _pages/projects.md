@@ -208,7 +208,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: SKKU (2024, scheduled), Yonsei University (2024)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Institutions, Data Scientists, and Stock Price Informativeness</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Institutions, Data Scientists, and Stock Price Informativeness, <a href = "../assets/bibliography/cen2024data.txt">[+ bibtex]</a></span></span>
 
 <details>
 	<summary><span style="font-size:12pt">Abstract </span></summary>
