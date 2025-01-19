@@ -1,6 +1,6 @@
-@article{jo2023negative,
-  title={Subjective risk-return trade-offs},
+@article{jo2024subjective,
+  title={Subjective risk-return trade-off},
   author={Jo, Chanik and Lin, Chen and You, Yang},
   journal={Available at SSRN 4096443},
-  year={2023}
+  year={2024}
 }
