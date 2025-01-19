@@ -153,7 +153,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103141">Do Minority Neighborhoods Pay More for Affordable Housing Finance?</a></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a></span></span> 
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a>, submitted</span></span> 
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: Fostering Inclusion: A Workshop to Advance Research on Diversity, Equity, and Inclusion at the University of Washington Foster School of Business (2024)</span></span>
 
