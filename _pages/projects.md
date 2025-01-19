@@ -161,7 +161,7 @@ nav_order: 1
 
 <details>
 	<summary> <span style="font-size:12pt">Abstract </span></summary>
-<span style="font-size:12.0pt"><span style="color:black">State and local governments issue tax-exempt bonds to finance developments of affordable multi-family rental housing. These bonds represent a crucial funding source for addressing the affordable housing crisis in the United States. We find affordable housing projects in predominantly minority neighborhoods face significantly higher borrowing costs. This disparity persists even among FHA-insured bonds where credit risk is essentially eliminated through federal guarantees. The effect is stronger when project neighborhoods have a higher minority concentration compared to surrounding areas, suggesting that financing costs may incentivize development in racially homogeneous communities, potentially reinforcing existing patterns of racial segregation.</span></span>
+<span style="font-size:12.0pt"><span style="color:black">State and local governments issue tax-exempt bonds to finance developments of affordable multi-family rental housing. These bonds represent a crucial funding source for addressing the affordable housing crisis in the United States. We find that affordable housing projects in predominantly minority neighborhoods face significantly higher borrowing costs. This disparity persists even among FHA-insured bonds where credit risk is essentially eliminated through federal guarantees. The effect is stronger when project neighborhoods have a higher minority concentration compared to surrounding areas, suggesting that financing costs may incentivize development in racially homogeneous communities, potentially reinforcing existing patterns of racial segregation.</span></span>
 </details> 
 
 
