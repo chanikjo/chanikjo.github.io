@@ -144,6 +144,40 @@ nav_order: 1
 
 
 
+
+
+
+
+
+
+
+<span style="font-size:14.0pt">Do Minority Neighborhoods Pay More for Affordable Housing Finance?</span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a></span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Fostering Inclusion: A Workshop to Advance Research on Diversity, Equity, and Inclusion at the University of Washington Foster School of Business (2024)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Affordable housing, Multi-family housing, Municipal bonds, Racial disparities, Racial segregation</span></span>
+
+<details>
+	<summary> <span style="font-size:12pt">Abstract </span></summary>
+<span style="font-size:12.0pt"><span style="color:black">State and local governments issue tax-exempt bonds to finance developments of affordable multi-family rental housing. These bonds represent a crucial funding source for addressing the affordable housing crisis in the United States. We find that affordable housing projects in predominantly minority neighborhoods face significantly higher borrowing costs. This disparity persists even among FHA-insured bonds where credit risk is essentially eliminated through federal guarantees. The effect is stronger when project neighborhoods have a higher minority concentration compared to surrounding areas, suggesting that financing costs may incentivize development in racially homogeneous communities, potentially reinforcing existing patterns of racial segregation.</span></span>
+</details> 
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
+
+
 <span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869">Safe Jobs, Risky Investments: Employment Protection and Household Portfolio Choices</a> </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with <a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
@@ -213,31 +247,6 @@ nav_order: 1
 
 
 <p style="margin-left:40px">&nbsp;</p>
-
-
-
-
-
-
-
-
-
-<span style="font-size:14.0pt">Do Minority Neighborhoods Pay More for Affordable Housing Finance?</span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a></span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Fostering Inclusion: A Workshop to Advance Research on Diversity, Equity, and Inclusion at the University of Washington Foster School of Business (2024)</span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Affordable housing, Multi-family housing, Municipal bonds, Racial disparities, Racial segregation</span></span>
-
-<details>
-	<summary> <span style="font-size:12pt">Abstract </span></summary>
-<span style="font-size:12.0pt"><span style="color:black">State and local governments issue tax-exempt bonds to finance developments of affordable multi-family rental housing. These bonds represent a crucial funding source for addressing the affordable housing crisis in the United States. We find that affordable housing projects in predominantly minority neighborhoods face significantly higher borrowing costs. This disparity persists even among FHA-insured bonds where credit risk is essentially eliminated through federal guarantees. The effect is stronger when project neighborhoods have a higher minority concentration compared to surrounding areas, suggesting that financing costs may incentivize development in racially homogeneous communities, potentially reinforcing existing patterns of racial segregation.</span></span>
-</details> 
-
-
-<p style="margin-left:40px">&nbsp;</p>
-
 
 
 
