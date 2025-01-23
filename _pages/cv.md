@@ -8,7 +8,7 @@ nav_order: 3
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:navy"><a href="../assets/pdf/CV_chanikjo.pdf" style="color:#000080; text-decoration:underline"><span style="color:#000080">PDF File</span></a></span></span></span></span></p> <br> 
 
-<p><strong><span style="font-size:18.0pt">Employments</span></strong></p>
+<p><strong><span style="font-size:18.0pt">Employment</span></strong></p>
 
 <p><strong><span style="font-size:12.0pt">Chinese University of Hong Kong Business School, Hong Kong</span></strong></p>
 
