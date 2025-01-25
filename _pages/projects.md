@@ -157,7 +157,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: Fostering Inclusion: A Workshop to Advance Research on Diversity, Equity, and Inclusion at the University of Washington Foster School of Business (2024)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Affordable housing, Multi-family housing, Municipal bonds, Racial disparities, Racial segregation</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Affordable housing, Multi-family housing, Municipal bonds, Racial disparities, and Racial segregation, <a href = "../assets/bibliography/ahn2025minority.txt">[+ bibtex]</a></span></span>
 
 <details>
 	<summary> <span style="font-size:12pt">Abstract </span></summary>
