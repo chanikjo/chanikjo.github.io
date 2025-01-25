@@ -71,6 +71,8 @@ nav_order: 3
 
 <p><strong><span style="font-size:18.0pt">Discussion</span></strong></p>
 
+<p><span style="font-size:12.0pt">"More than Money: The Role of Inherited Preferences on Wealth Mobility" by Mehran Ebrahimian and Paolo Sodini, HEC-McGill Winter Finance Workshop, March 2025</span></p>
+
 <p><span style="font-size:12.0pt">"Income Shocks and Demand for Sustainable Products" by Pedro A. Pires, Miguel A. Ferreira, Margarida Soares, and Andre Trindade, SGFIN Annual Research Conference on Sustainability, March 2025</span></p>
 
 <p><span style="font-size:12.0pt">"Local Rules, Distant Woes: Shifting Consumption Preference Through Social Ties" by Haiqiang Chen, Jing Li, and Wenlan Qian, Winter Finance Summit in Asia 2025, February 2025</span></p>
