@@ -1,0 +1,6 @@
+@article{ahn2025minority,
+  title={Do Minority Neighborhoods Pay More for Affordable Housing Finance?},
+  author={Ahn, Changhyun and Jo, Chanik},
+  journal={Available at SSRN 5103141},
+  year={2025}
+}
