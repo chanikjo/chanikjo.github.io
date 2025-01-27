@@ -6,20 +6,8 @@ nav: true
 nav_order: 3
 ---
 
-    <iframe src="../assets/pdf/CV_chanikjo.pdf" width="100%" height="600px">
-        This browser does not support PDFs. Please download the PDF to view it: 
-        <a href="../assets/pdf/CV_chanikjo.pdf">Download CV</a>
-    </iframe>
+<a class="download-link" href="../assets/pdf/CV_chanikjo.pdf" download>Download My CV (PDF)</a>
 
-
-    <!-- Download Link -->
-    <a class="download-link" href="../assets/pdf/CV_chanikjo.pdf" download>Download My CV (PDF)</a>
-
-
-
-
-
- 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:navy"><a href="../assets/pdf/CV_chanikjo.pdf" style="color:#000080; text-decoration:underline"><span style="color:#000080">PDF File</span></a></span></span></span></span></p> <br> 
 
 <p><strong><span style="font-size:18.0pt">Employment</span></strong></p>
