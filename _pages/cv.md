@@ -10,6 +10,10 @@ nav_order: 3
 <embed src="../assets/pdf/CV_chanikjo.pdf" type="application/pdf" width="100%" height="100%">
 </div>
 
+<iframe src="../assets/pdf/CV_chanikjo.pdf" width="100%" height="600px">
+This browser does not support PDFs. Please download the PDF to view it: 
+<a href="../assets/pdf/CV_chanikjo.pdf">Download CV</a>
+</iframe>
     
 <a class="download-link" href="../assets/pdf/CV_chanikjo.pdf" download>Download My CV (PDF)</a>
 
