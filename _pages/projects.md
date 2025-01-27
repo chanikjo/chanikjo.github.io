@@ -182,7 +182,8 @@ nav_order: 1
 
 
 
-<span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869">Safe Jobs, Risky Investments: Employment Protection and Household Portfolio Choices</a> </span></span>
+
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869"><strong><span style="color:#000080">Safe Jobs, Risky Investments: Employment Protection and Household Portfolio Choices</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with <a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
 
@@ -202,8 +203,7 @@ nav_order: 1
 
 
 
-
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360">Climate Change and Households&#39; Risk-Taking</a></span>
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360"><strong><span style="color:#000080">Climate Change and Households&#39; Risk-Taking</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
 
@@ -236,7 +236,7 @@ nav_order: 1
 
 
 
-<span style="font-size:14.0pt">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</span></strong></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
 
@@ -259,7 +259,7 @@ nav_order: 1
 
 
 
-<span style="font-size:14.0pt">Is Greenium a Reflection of Inflation Risk?</span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Is Greenium a Reflection of Inflation Risk?</span></strong></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Zhenyu Gao and Yuyi He</span></span> 
 
@@ -283,8 +283,7 @@ nav_order: 1
 
 
 
-
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055695">Data Scientists on Wall Street</a></span>
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055695"><strong><span style="color:#000080">Data Scientists on Wall Street</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/cenling/">Ling Cen</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and <a href = "https://sites.google.com/view/yanruhan/">Yanru Han</a></span></span> 
 
@@ -305,9 +304,7 @@ nav_order: 1
 
 
 
-
-
-<span style="font-size:14.0pt">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span></strong></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://leeds-faculty.colorado.edu/garcia/">Diego Garcia</a>, <a href = "https://www.mikejshin.com/">Michael Shin</a>, and <a href = "https://grad.bschool.cuhk.edu.hk/students/wu-siyuan/">Siyuan Wu</a></span></span> 
 
@@ -325,8 +322,7 @@ nav_order: 1
 
 
 
-
-<span style="font-size:14.0pt">Local Grocery Basket Inflation and Institutional Investors' Portfolio Choices</span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Local Grocery Basket Inflation and Institutional Investors' Portfolio Choices</span></strong></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.polyu.edu.hk/af/bkang/">Byoung Uk Kang</a> and <a href = "https://cuhk.converis.clarivate.com/converis/portal/detail/Person/186619902?auxfun=&lang=zh_HK">Zhecheng Luo</a></span></span> 
 
@@ -348,8 +344,7 @@ nav_order: 1
 
 
 
-
-<span style="font-size:14.0pt"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349840">The Composition of Market Participants and Asset dynamics</a></span></span>
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349840"><strong><span style="color:#000080">The Composition of Market Participants and Asset dynamics</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: &nbsp;SFS Cavalcade (2021), RCFS/RAPS Winter Conference (2020), EFA (2019), CICF (2019), APAD (2019), EFMA (2019), ABFER, CEPR and CUHK (2019), SFS Cavalcade Asia (2018), NFA (2018), FMA (2018), YES (2018), TADC (2018), AFM (2017), AFBC (2017), Indiana University (2017)&nbsp;</span></span>
 
