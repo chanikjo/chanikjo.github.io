@@ -7,11 +7,6 @@ nav_order: 3
 ---
 
 
-<iframe src="https://github.com/username/repository-name/blob/main/assets/CV.pdf?raw=true" width="100%" height="600px">
-This browser does not support PDFs. Please download the PDF to view it: 
-<a href="https://github.com/username/repository-name/blob/main/assets/CV.pdf?raw=true">Download CV</a>
-</iframe>
-
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:navy"><a href="../assets/pdf/CV_chanikjo.pdf" style="color:#000080; text-decoration:underline"><span style="color:#000080">Download My CV (PDF)</span></a></span></span></span></span></p> <br> 
 
