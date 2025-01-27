@@ -37,7 +37,7 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><span style="color:black"><a href = "https://doi.org/10.1017/S0022109023000807">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a></span></span>
+<span style="font-size:14.0pt"><a href = "https://doi.org/10.1017/S0022109023000807"><strong><span style="color:#000080">Measuring &quot;State-level&quot; Economic Policy Uncertainty</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a> and&nbsp;<a href = "https://sites.google.com/view/marco-salerno">Marco Salerno</a></span></span>
 
@@ -51,7 +51,7 @@ nav_order: 1
 </details>
 <details>
 	<summary><span style="font-size:12pt">Key result </span></summary>
-  <img src="../assets/img/EJS_2024JFQA" alt="SEPU Index for California, Florida, and Texas">
+  <img src="../assets/img/EJS_2024JFQA.png" alt="SEPU Index for California, Florida, and Texas">
 </details>
 
 
