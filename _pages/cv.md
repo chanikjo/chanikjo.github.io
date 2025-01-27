@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-<a class="download-link" href="../assets/pdf/CV_chanikjo.pdf" download>Download My CV (PDF)</a>
+<a href="../assets/pdf/CV_chanikjo.pdf" download>Download My CV (PDF)</a>
 
 <p>&nbsp;</p>
 
