@@ -13,7 +13,7 @@ Email: <a href = "mailto:chanikjo@cuhk.edu.hk">chanikjo@cuhk.edu.hk</a>
 
 <div class="map-container">
     <iframe 
-        src="https://www.google.com/maps/embed?pb=YOUR_EMBED_CODE_HERE" 
+        src="https://maps.app.goo.gl/1jJ4jkHaWHpMny8H6" 
         width="600" 
         height="450" 
         style="border:0;" 
