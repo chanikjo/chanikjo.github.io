@@ -49,7 +49,10 @@ nav_order: 1
 	<summary><span style="font-size:12pt">Abstract </span></summary>
 <span style="font-size:12.0pt"><span style="color:black">We develop 50 indices of State-level Economic Policy Uncertainty (SEPU) based on newspaper coverage frequency using 204 million newspaper articles from March 1984 to December 2019. We assess the validity of our measures. Our SEPU indices vary counter-cyclically with respect to state-specific economic conditions, rise before close gubernatorial elections, and exhibit a large cross-sectional variation. We demonstrate that SEPU indices are associated with the cross-sectional variation in state-level GDP, employment, income as well as industry investment decisions. Our findings highlight the importance of economic policy uncertainty at the state level in addition to the nationwide level.</span></span>
 </details>
-
+<details>
+	<summary><span style="font-size:12pt">Key result </span></summary>
+  <img src="../assets/img/EJS_2024JFQA" alt="SEPU Index for California, Florida, and Texas">
+</details>
 
 
 
