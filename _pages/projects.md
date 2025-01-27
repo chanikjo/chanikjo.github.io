@@ -23,7 +23,10 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">A one-factor model based on long-run consumption growth explains the risk premiums on corporate bond portfolios sorted on credit rating, credit spreads, downside risk, idiosyncratic volatility, long-term reversals, maturity, and sensitivity to the financial intermediary capital factor. The estimated risk-aversion coefficient is lower when we use the consumption growth of wealthy households over a longer horizon as a risk factor, and a model with a 20-quarter horizon yields a risk-aversion coefficient of 15, a value similar to the one estimated from equity portfolios.</span></span>
 </details>
 
-
+<details>
+	<summary><span style="font-size:12pt">Key result </span></summary>
+  <img src="../assets/img/EJN_2024MS.png" alt="Average Bond Returns and Covariances Between Bond Returns and Consumption Growth">
+</details>
 
 
 
