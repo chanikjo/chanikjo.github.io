@@ -7,13 +7,13 @@ nav_order: 3
 ---
 
 
-   <div class="pdf-container">
-        <embed src="../assets/pdf/CV_chanikjo.pdf" type="application/pdf" width="100%" height="100%">
-    </div>
+<iframe src="https://github.com/username/repository-name/blob/main/assets/CV.pdf?raw=true" width="100%" height="600px">
+This browser does not support PDFs. Please download the PDF to view it: 
+<a href="https://github.com/username/repository-name/blob/main/assets/CV.pdf?raw=true">Download CV</a>
+</iframe>
 
-    <a class="download-link" href="../assets/pdf/CV_chanikjo.pdf" download>Download My CV (PDF)</a>
-    
-<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:navy"><a href="../assets/pdf/CV_chanikjo.pdf" style="color:#000080; text-decoration:underline"><span style="color:#000080">PDF File</span></a></span></span></span></span></p> <br> 
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:navy"><a href="../assets/pdf/CV_chanikjo.pdf" style="color:#000080; text-decoration:underline"><span style="color:#000080">Download My CV (PDF)</span></a></span></span></span></span></p> <br> 
 
 <p><strong><span style="font-size:18.0pt">Employment</span></strong></p>
 
