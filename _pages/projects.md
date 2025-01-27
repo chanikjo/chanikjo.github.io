@@ -107,7 +107,10 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">We test the conditional consumption-CAPM using asset holders' consumption and find that the time variation in the prices of asset holders' consumption risk is procyclical. This puzzling time variation is at odds with the implication of existing consumption-based equilibrium asset pricing models. We show that our finding is a salient feature of the data observed in multiple asset classes (aggregate equity market, equity portfolios, bond portfolios, and commodities portfolios), using different measures of consumption (household survey data and high-frequency retail shopping data) and alternative empirical methodologies.</span></span>
 </details>
 
-
+<details>
+	<summary><span style="font-size:12pt">Key result </span></summary>
+  <img src="../assets/img/EJ_2023JFE.png" alt="Conditional Price of Consumption risk from Aggregate market">
+</details>
 
 
 
@@ -146,6 +149,10 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
+<details>
+	<summary><span style="font-size:12pt">Key result </span></summary>
+  <img src="../assets/img/JLY_subjective.png" alt="Risk-Return Trade-offs frompooled regressions">
+</details>
 
 
 
