@@ -8,6 +8,9 @@ nav_order: 3
 
 <a class="download-link" href="../assets/pdf/CV_chanikjo.pdf" download>Download My CV (PDF)</a>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <p><strong><span style="font-size:18.0pt">Employment</span></strong></p>
 
 <p><strong><span style="font-size:12.0pt">Chinese University of Hong Kong Business School, Hong Kong</span></strong></p>
