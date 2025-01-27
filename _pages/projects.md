@@ -188,7 +188,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with <a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: The 18th NYCU International Finance Conference (2024, scheduled), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: The 18th NYCU International Finance Conference (2024), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black"><em>FMA Asia/Pacific Best Paper Award (Asset pricing/Investment) (2024), Shinhan Bank & KAFA Best Paper Award (2023)</em></span></span>
 
@@ -213,7 +213,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Finance Down Under (2025, scheduled), SBFC (2024, scheduled), CICF (2024), CFRC (2024), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022), CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Finance Down Under (2025, scheduled), SBFC (2024), CICF (2024), CFRC (2024), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022), CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and&nbsp;Climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span>
 
@@ -256,7 +256,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Zhenyu Gao and Yuyi He</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: SBFC (2024, scheduled), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black"><em>Best Paper Award, Korean Finance Association Autumn Conference (2024)</em></span></span>
 
@@ -284,7 +284,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/cenling/">Ling Cen</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and <a href = "https://sites.google.com/view/yanruhan/">Yanru Han</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: SKKU (2024, scheduled), Yonsei University (2024)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: SKKU (2024), Yonsei University (2024)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Institutions, Data Scientists, and Stock Price Informativeness, <a href = "../assets/bibliography/cen2024data.txt">[+ bibtex]</a></span></span>
 
