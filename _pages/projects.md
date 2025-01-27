@@ -14,7 +14,7 @@ nav_order: 1
 
  <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a> and&nbsp;<a href = "https://yoshionozawa.github.io/">Yoshio Nozawa</a></span></span>
 
-<span style="font-size:12.0pt"><strong><span style="color:#000080">Management Science</span></strong>, 2024, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Nozawa_MS_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023one.txt">[+ bibtex]</a></span>
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Management Science</span></strong>, 2024, <a href = "https://services.informs.org/dataset/download.php?doi=mnsc.2023.4784">Data and code</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Nozawa_MS_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023one.txt">[+ bibtex]</a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing, Long-run risk, Wealthy households&#39; Consumption</span></span>
 
