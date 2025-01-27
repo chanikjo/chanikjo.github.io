@@ -10,12 +10,6 @@ nav_order: 3
 
 <p>&nbsp;</p>
 
-<div class="pdf-container">
-<embed src="https://chanikjo.github.io/assets/pdf/CV_chanikjo.pdf" type="application/pdf" width="100%" height="100%">
-</div>
-
-<p>&nbsp;</p>
-
 <p><strong><span style="font-size:18.0pt">Employment</span></strong></p>
 
 <p><strong><span style="font-size:12.0pt">Chinese University of Hong Kong Business School, Hong Kong</span></strong></p>
