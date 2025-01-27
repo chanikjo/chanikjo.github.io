@@ -7,9 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-Email: <a href = "mailto:chanikjo@cuhk.edu.hk">chanikjo@cuhk.edu.hk</a> 
-<br> Phone: +852 3943 0508
-<br> Address: Room 1252, 12/F, Cheng Yu Tung Building, 12 Chak Cheung Street, Shatin, New Territories, Hong Kong SAR, China
+<strong>Email</strong>: <a href = "mailto:chanikjo@cuhk.edu.hk">chanikjo@cuhk.edu.hk</a> 
+<br> <br> <strong>Phone</strong>: +852 3943 0508
+<br> <br> <strong>Address</strong>: Room 1252, 12/F, Cheng Yu Tung Building, 12 Chak Cheung Street, Shatin, New Territories, Hong Kong SAR, China
 
 
 <div class="map-container">
