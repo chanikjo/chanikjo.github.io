@@ -6,28 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-<style>
-/* Optional: Style the embedded PDF */
-.pdf-container {
-    width: 100%;
-    height: 600px; /* Adjust height as needed */
-    border: 1px solid #ccc;
-    margin-bottom: 20px;
-}
-.download-link {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-}
-.download-link:hover {
-    background-color: #0056b3;
-}
-</style>
-
-    
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:navy"><a href="../assets/pdf/CV_chanikjo.pdf" style="color:#000080; text-decoration:underline"><span style="color:#000080">PDF File</span></a></span></span></span></span></p> <br> 
 
 <p><strong><span style="font-size:18.0pt">Employment</span></strong></p>
