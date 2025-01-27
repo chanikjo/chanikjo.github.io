@@ -9,7 +9,6 @@ nav_order: 3
 <a class="download-link" href="../assets/pdf/CV_chanikjo.pdf" download>Download My CV (PDF)</a>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <p><strong><span style="font-size:18.0pt">Employment</span></strong></p>
 
