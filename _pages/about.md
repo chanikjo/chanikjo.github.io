@@ -25,4 +25,4 @@ Research interest: Household Finance, Asset Pricing, Climate Finance, Inflation
 | [SSRN Page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2641232) | [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=5&user=4uNaol0AAAAJ) | [Twitter](https://mobile.twitter.com/jo_chanik) | [Department webpage](https://www.bschool.cuhk.edu.hk/staff/jo-chanik/) <br>
 
 
-I am an Assistant Professor of Finance at the Chinese University of Hong Kong (CUHK) Business school. I received my PhD in Finance at the University of Toronto in 2021.
+I am an Assistant Professor of Finance at the Chinese University of Hong Kong (CUHK) Business School. I received my PhD in Finance at the University of Toronto in 2021.
