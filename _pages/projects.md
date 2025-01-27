@@ -360,7 +360,7 @@ nav_order: 1
 
  <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://gsias.hufs.ac.kr/gsias/7178/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZnc2lhcyUyRjMzOCUyRjM4OTElMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2">Kiryoung Lee</a> and&nbsp;<a href = "https://experts.mcmaster.ca/display/jeony5">Yoontae Jeon</a></span></span>
 
-<span style="font-size:12.0pt"><strong><span style="color:#000080">Pacific-Basin Finance Journal</span></strong>, Volume 64, 2020, <a href = "../assets/bibliography/lee2020chinese.txt">[+ bibtex]</a></span>
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Pacific-Basin Finance Journal</span></strong>, 2020, <a href = "../assets/bibliography/lee2020chinese.txt">[+ bibtex]</a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Economic Uncertainty, Household Finance, Stock Market Participation, and Chinese Economy </span></span>
 
