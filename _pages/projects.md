@@ -70,8 +70,7 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><span style="color:black"><a href = "https://academic.oup.com/rcfs/advance-article-abstract/doi/10.1093/rcfs/cfac019/6576649?redirectedFrom=fulltext">Agency Conflicts and Investment: Evidence from a Structural Estimation</a></span></span>
-
+<span style="font-size:14.0pt"><a href = "https://academic.oup.com/rcfs/advance-article-abstract/doi/10.1093/rcfs/cfac019/6576649?redirectedFrom=fulltext"><strong><span style="color:#000080">Agency Conflicts and Investment: Evidence from a Structural Estimation</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a>,&nbsp;<a href = "https://sites.google.com/view/danielsangkim/home">Daniel Kim</a>, and&nbsp;<a href = "https://sites.google.com/view/marco-salerno">Marco Salerno</a></span></span>
 
@@ -95,7 +94,7 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="color:black"><span style="font-size:14.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a></span></span>
+<span style="font-size:14.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624"><strong><span style="color:#000080">Asset holders' Consumption Risk and Tests of Conditional CCAPM</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a></span></span>
 
@@ -130,7 +129,7 @@ nav_order: 1
 
 <p><strong><span style="font-size:18.0pt"><span style="color:black">Working Papers</span></span></strong></p>
 
-<span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a></span></span>
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443"><strong><span style="color:#000080">Subjective Risk-Return Trade-off</span></strong></a></span>
 
  <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.hkubs.hku.hk/people/chen-lin/">Chen Lin</a> and&nbsp;<a href = "https://yangyou1.weebly.com/">Yang You</a>, submitted</span></span>
  
@@ -156,8 +155,7 @@ nav_order: 1
 
 
 
-
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103141">Do Minority Neighborhoods Pay More for Affordable Housing Finance?</a></span>
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103141"><strong><span style="color:#000080">Do Minority Neighborhoods Pay More for Affordable Housing Finance?</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a>, submitted</span></span> 
 
