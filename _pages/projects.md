@@ -354,8 +354,19 @@ nav_order: 1
 <p>&nbsp;</p>
 <p><strong><span style="font-size:14.0pt"><span style="color:black">Other Publications</span></span></strong></p>
 
-<span style="color:black"><strong><span style="font-size:12.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</a></strong> with <a href = "https://gsias.hufs.ac.kr/gsias/7178/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZnc2lhcyUyRjMzOCUyRjM4OTElMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2">Kiryoung Lee</a>&nbsp;and&nbsp;<a href = "https://experts.mcmaster.ca/display/jeony5">Yoontae Jeon</a>, <strong><a href = "https://www.sciencedirect.com/journal/pacific-basin-finance-journal">Pacific-Basin Finance Journal</a></strong>, Volume 64, 2020&nbsp;[Economic uncertainty, Household finance, Stock market participation, and Chinese economy],  <a href = "../assets/bibliography/lee2020chinese.txt">[+ bibtex]</a></span></span>
 
-<p>&nbsp;</p>
+
+<span style="font-size:14.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510"><strong><span style="color:#000080">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</span></strong></a></span>
+
+ <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://gsias.hufs.ac.kr/gsias/7178/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZnc2lhcyUyRjMzOCUyRjM4OTElMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2">Kiryoung Lee</a> and&nbsp;<a href = "https://experts.mcmaster.ca/display/jeony5">Yoontae Jeon</a></span></span>
+
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Pacific-Basin Finance Journal</span></strong>, Volume 64, 2020, <a href = "../assets/bibliography/lee2020chinese.txt">[+ bibtex]</a></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Economic Uncertainty, Household Finance, Stock Market Participation, and Chinese Economy </span></span>
+
+<details>
+	<summary><span style="font-size:12pt">Abstract </span></summary>
+<span style="font-size:12.0pt"><span style="color:black">We find that U.S. households reduce their exposure to the stock market in response to an increase in the economic policy uncertainty (EPU) of not only U.S., but also to an increase in the Chinese EPU. We identify income uncertainty as a key driver of this relationship. In response to an increase in the Chinese EPU, households whose jobs belong to the industries that heavily export to China react more sensitively by lowering their stock shares in financial wealth. Moreover, the response is stronger for households in states that export to China more than other states. This evidence suggests that U.S. households respond to the Chinese EPU because an increase in the Chinese EPU potentially increases their income uncertainty. Our findings provide the first evidence on the importance of considering foreign economic policy uncertainty in explaining households' portfolio decisions.</span></span>
+</details>
 
 
