@@ -147,8 +147,6 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">We survey 2,548 representative U.S. respondents to estimate subjective risk-return trade-offs across savings, government bonds, stocks, real estate, gold, and cryptocurrencies. We document robust negative relationships between perceptions of risk and return among risky assets, which are observed even among financially literate respondents. Strong asset-specific sentiments, reflected in large deviations of return perceptions from average perceptions, drive these significant negative risk-return trade-offs. Both strong optimism and pessimism contribute to negative risk-return trade-offs with similar magnitudes. These negative risk-return trade-offs translate into under-diversified portfolios, as investors avoid assets they perceive to generate low returns and high risk.</span></span>
 </details>
 
-<p style="margin-left:40px">&nbsp;</p>
-
 <details>
 	<summary><span style="font-size:12pt">Key result </span></summary>
   <img src="../assets/img/JLY_subjective.png" alt="Risk-Return Trade-offs frompooled regressions">
@@ -161,6 +159,8 @@ nav_order: 1
 
 
 
+
+<p style="margin-left:40px">&nbsp;</p>
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103141"><strong><span style="color:#000080">Do Minority Neighborhoods Pay More for Affordable Housing Finance?</span></strong></a></span>
 
@@ -176,19 +176,10 @@ nav_order: 1
 </details> 
 
 
+
+
+
 <p style="margin-left:40px">&nbsp;</p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869"><strong><span style="color:#000080">Safe Jobs, Risky Investments: Employment Protection and Household Portfolio Choices</span></strong></a></span>
 
@@ -205,10 +196,15 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">By leveraging US state-level employment protection laws, we provide evidence that such laws increase stock market participation, on both intensive and extensive margins. Young, low-income, low-wealth, and less-educated households exhibit stronger effects. Conversely, when the protection law is reversed, we observe the opposite risk-taking behaviors. Our findings remain robust across various stock market participation measures, datasets, and stacked difference-in-differences research design, underscoring the significance of employment protection in encouraging households to take financial risks, and potentially enhancing wealth accumulation. This represents a novel economic channel through which employment protection can benefit households.</span></span>
 </details> 
 
+
+
+
+
+
+
+
+
 <p style="margin-left:40px">&nbsp;</p>
-
-
-
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360"><strong><span style="color:#000080">Climate Change and Households&#39; Risk-Taking</span></strong></a></span>
 
@@ -224,23 +220,11 @@ nav_order: 1
 </details> 
 
 
+
+
+
+
 <p style="margin-left:40px">&nbsp;</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</span></strong></span>
@@ -257,14 +241,13 @@ nav_order: 1
 </details> 
 
 
+
+
+
+
+
+
 <p style="margin-left:40px">&nbsp;</p>
-
-
-
-
-
-
-
 
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Is Greenium a Reflection of Inflation Risk?</span></strong></span>
 
@@ -281,13 +264,17 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">We present a novel stylized fact that green stocks carry higher inflation risk compared to brown stocks, performing poorly at times of unexpected inflation. Given this fact, can the outperformance of green stocks over brown stocks (the "greenium") be explained as compensation for inflation risk? We find that the magnitude of the greenium decreases by 31% and 54% for Scope 1 and Scope 2, and the greenium becomes statistically insignificant after controlling for individual stocks' core inflation risk exposure. These findings are robust to excluding brown industries and are not driven by the post-COVID inflationary period. Overall, our results suggest that the greenium is in part a reflection of inflation risk compensation. </span></span>
 </details>
 
+
+
+
+
+
+
+
+
+
+
 <p style="margin-left:40px">&nbsp;</p>
-
-
-
-
-
-
 
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055695"><strong><span style="color:#000080">Data Scientists on Wall Street</span></strong></a></span>
@@ -303,13 +290,19 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Financial institutions have significantly increased their recruitment of data scientists in the last two decades. We find that the number of data scientists employed by financial institutions causally affects their ability to earn abnormal profits. Data scientists' ability to generate abnormal profits on a stock is positively correlated to the concentration of data scientists across all institutional investors holding the stock. Institutional investors strategically adjust portfolio allocation and recruitment decisions to maximize the benefits generated by their data scientists. Consistent with the notion that the competition among data scientists speeds up the production and trade of private information, we also show that the concentration of data scientists covering a stock reduces its price informativeness in the capital market.</span></span>
 </details>
 
+
+
+
+
+
+
+
+
+
+
+
+
 <p style="margin-left:40px">&nbsp;</p>
-
-
-
-
-
-
 
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span></strong></span>
 
@@ -337,19 +330,14 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
 
+
+
+
+
+
+
+
 <p style="margin-left:40px">&nbsp;</p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349840"><strong><span style="color:#000080">The Composition of Market Participants and Asset dynamics</span></strong></a></span>
 
