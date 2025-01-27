@@ -10,7 +10,7 @@ nav_order: 1
 <p><strong><span style="font-size:18.0pt"><span style="color:black">Publications</span></span></strong></p>
 
 
-<span style="color:black"><span style="font-size:14.0pt"><a href = "https://doi.org/10.1287/mnsc.2023.4784">A One-Factor Model of Corporate Bond Premia</a></span></span>
+<span style="color:black"><span style="font-size:14.0pt"><a href = "https://doi.org/10.1287/mnsc.2023.4784"><strong>A One-Factor Model of Corporate Bond Premia</strong></a></span></span>
 
  <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a> and&nbsp;<a href = "https://yoshionozawa.github.io/">Yoshio Nozawa</a></span></span>
 
