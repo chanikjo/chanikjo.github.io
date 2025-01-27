@@ -19,12 +19,12 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing, Long-run risk, Wealthy households&#39; Consumption</span></span>
 
 <details>
-	<summary><span style="font-size:12pt">Abstract </span></summary>
+	<summary><span style="font-size:12pt">Abstract</span></summary>
 <span style="font-size:12.0pt"><span style="color:black">A one-factor model based on long-run consumption growth explains the risk premiums on corporate bond portfolios sorted on credit rating, credit spreads, downside risk, idiosyncratic volatility, long-term reversals, maturity, and sensitivity to the financial intermediary capital factor. The estimated risk-aversion coefficient is lower when we use the consumption growth of wealthy households over a longer horizon as a risk factor, and a model with a 20-quarter horizon yields a risk-aversion coefficient of 15, a value similar to the one estimated from equity portfolios.</span></span>
 </details>
 
 <details>
-	<summary><span style="font-size:12pt">Key result </span></summary>
+	<summary><span style="font-size:12pt">Key result</span></summary>
   <img src="../assets/img/EJN_2024MS.png" alt="Average Bond Returns and Covariances Between Bond Returns and Consumption Growth">
 </details>
 
@@ -46,11 +46,11 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing</span></span>
 
 <details>
-	<summary><span style="font-size:12pt">Abstract </span></summary>
+	<summary><span style="font-size:12pt">Abstract</span></summary>
 <span style="font-size:12.0pt"><span style="color:black">We develop 50 indices of State-level Economic Policy Uncertainty (SEPU) based on newspaper coverage frequency using 204 million newspaper articles from March 1984 to December 2019. We assess the validity of our measures. Our SEPU indices vary counter-cyclically with respect to state-specific economic conditions, rise before close gubernatorial elections, and exhibit a large cross-sectional variation. We demonstrate that SEPU indices are associated with the cross-sectional variation in state-level GDP, employment, income as well as industry investment decisions. Our findings highlight the importance of economic policy uncertainty at the state level in addition to the nationwide level.</span></span>
 </details>
 <details>
-	<summary><span style="font-size:12pt">Key result </span></summary>
+	<summary><span style="font-size:12pt">Key result</span></summary>
   <img src="../assets/img/EJS_2024JFQA.png" alt="SEPU Index for California, Florida, and Texas">
 </details>
 
@@ -79,7 +79,7 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Dynamic capital structure model</span></span>
 
 <details>
-	<summary><span style="font-size:12pt">Abstract </span></summary>
+	<summary><span style="font-size:12pt">Abstract</span></summary>
 <span style="font-size:12.0pt"><span style="color:black">We develop a dynamic capital structure model to study how agency conflicts between managers and shareholders affect the joint determination of financing and investment decisions. We show that there are two agency conflicts with opposing effects on a manager’s choice of investment: first, the consumption of private benefits channel leads managers not only to choose a lower optimal leverage, but also to underinvest, and second, compensation linked to firm size may lead managers to overinvest. We fit the model to the data and show that the average firm slightly overinvests, younger CEOs invest more than older ones, while CEOs with longer tenure overinvest more than CEOs with shorter tenure.</span></span>
 </details>
 
@@ -103,12 +103,12 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing,&nbsp;Asset holders&#39;&nbsp;Consumption,&nbsp;Conditional tests</span></span>
 
 <details>
-	<summary><span style="font-size:12pt">Abstract </span></summary>
+	<summary><span style="font-size:12pt">Abstract</span></summary>
 <span style="font-size:12.0pt"><span style="color:black">We test the conditional consumption-CAPM using asset holders' consumption and find that the time variation in the prices of asset holders' consumption risk is procyclical. This puzzling time variation is at odds with the implication of existing consumption-based equilibrium asset pricing models. We show that our finding is a salient feature of the data observed in multiple asset classes (aggregate equity market, equity portfolios, bond portfolios, and commodities portfolios), using different measures of consumption (household survey data and high-frequency retail shopping data) and alternative empirical methodologies.</span></span>
 </details>
 
 <details>
-	<summary><span style="font-size:12pt">Key result </span></summary>
+	<summary><span style="font-size:12pt">Key result</span></summary>
   <img src="../assets/img/EJ_2023JFE.png" alt="Conditional Price of Consumption risk from Aggregate market">
 </details>
 
@@ -143,12 +143,12 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Household finance, Subjective expectation, Asset pricing, <a href = "../assets/bibliography/jo2024subjective.txt">[+ bibtex]</a></span></span>
 
 <details>
- <summary> <span style="font-size:12pt">Abstract </span> </summary>
+ <summary><span style="font-size:12pt">Abstract</span> </summary>
 <span style="font-size:12.0pt"><span style="color:black">We survey 2,548 representative U.S. respondents to estimate subjective risk-return trade-offs across savings, government bonds, stocks, real estate, gold, and cryptocurrencies. We document robust negative relationships between perceptions of risk and return among risky assets, which are observed even among financially literate respondents. Strong asset-specific sentiments, reflected in large deviations of return perceptions from average perceptions, drive these significant negative risk-return trade-offs. Both strong optimism and pessimism contribute to negative risk-return trade-offs with similar magnitudes. These negative risk-return trade-offs translate into under-diversified portfolios, as investors avoid assets they perceive to generate low returns and high risk.</span></span>
 </details>
 
 <details>
-	<summary><span style="font-size:12pt">Key result </span></summary>
+<summary><span style="font-size:12pt">Key result </span></summary>
   <img src="../assets/img/JLY_subjective.png" alt="Risk-Return Trade-offs frompooled regressions">
 </details>
 
@@ -171,7 +171,7 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Affordable housing, Multi-family housing, Municipal bonds, Racial disparities, and Racial segregation, <a href = "../assets/bibliography/ahn2025minority.txt">[+ bibtex]</a></span></span>
 
 <details>
-	<summary> <span style="font-size:12pt">Abstract </span></summary>
+	<summary><span style="font-size:12pt">Abstract </span></summary>
 <span style="font-size:12.0pt"><span style="color:black">State and local governments issue tax-exempt bonds to finance developments of affordable multi-family rental housing. These bonds represent a crucial funding source for addressing the U.S. affordable housing crisis. We find that affordable housing projects in predominantly minority neighborhoods face significantly higher borrowing costs than those in predominantly white neighborhoods. This disparity persists even among FHA-insured bonds where credit risk is essentially eliminated through federal guarantees. The effect is stronger when project neighborhoods have a higher minority concentration compared to surrounding areas, suggesting that financing costs may incentivize development in racially homogeneous communities, potentially reinforcing existing patterns of racial segregation.</span></span>
 </details> 
 
@@ -195,7 +195,7 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
 
 <details>
- <summary> <span style="font-size:12pt">Abstract </span> </summary>
+ <summary><span style="font-size:12pt">Abstract </span> </summary>
 <span style="font-size:12.0pt"><span style="color:black">By leveraging US state-level employment protection laws, we provide evidence that such laws increase stock market participation, on both intensive and extensive margins. Young, low-income, low-wealth, and less-educated households exhibit stronger effects. Conversely, when the protection law is reversed, we observe the opposite risk-taking behaviors. Our findings remain robust across various stock market participation measures, datasets, and stacked difference-in-differences research design, underscoring the significance of employment protection in encouraging households to take financial risks, and potentially enhancing wealth accumulation. This represents a novel economic channel through which employment protection can benefit households.</span></span>
 </details> 
 
@@ -218,7 +218,7 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and&nbsp;Climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span>
 
 <details>
-	<summary> <span style="font-size:12pt">Abstract </span></summary>
+<summary><span style="font-size:12pt">Abstract </span></summary>
 <span style="font-size:12.0pt"><span style="color:black">This paper studies a novel channel through which climate risks affect households&rsquo; choices of risky asset allocation: a stringent climate change regulation elevates labor income risk for households employed by high-emission industries which in turn discourages households&#39; financial risk-taking. Using staggered adoptions of climate change action plans across states, we find that climate change action plans lead to a reduction in the share of risky assets by 15% for households in high-emission industries. We also find a reduction in risky asset holdings after the stringent EPA regulation. These results are stronger with experiences of climate change-related disasters. Our study implies an unintended consequence of climate regulations for wealth inequality by discouraging low-wealth households&#39; financial risk-taking.</span></span>
 </details> 
 
@@ -239,7 +239,7 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Intra-household risk-sharing</span></span>
 
 <details>
-	<summary> <span style="font-size:12pt">Abstract </span></summary>
+<summary><span style="font-size:12pt">Abstract</span></summary>
 <span style="font-size:12.0pt"><span style="color:black">This paper proposes a novel channel for households' risky asset allocation: better intra-household risk-sharing reduces overall labor income risk for dual-earner couples, thus encouraging households' financial risk-taking. Capturing intra-household risk-sharing dynamics using the conditional income correlation between spouses' industries, we find that better income risk-sharing within couples increases households' financial risk-taking. Exploiting unexpected events of spousal death, we causally identify the impact of intra-household risk-sharing on households' asset choices. Our study implies an unintended consequence of positive assortative mating, a growing tendency of couples choosing partners with similar socioeconomic statuses, which limits risk-sharing between spouses, thereby discouraging financial risk-taking.</span></span>
 </details> 
 
@@ -263,7 +263,7 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Greenium, Inflation, and Asset Pricing </span></span>
 
 <details>
- <summary> <span style="font-size:12pt">Abstract </span> </summary>
+<summary><span style="font-size:12pt">Abstract </span> </summary>
 <span style="font-size:12.0pt"><span style="color:black">We present a novel stylized fact that green stocks carry higher inflation risk compared to brown stocks, performing poorly at times of unexpected inflation. Given this fact, can the outperformance of green stocks over brown stocks (the "greenium") be explained as compensation for inflation risk? We find that the magnitude of the greenium decreases by 31% and 54% for Scope 1 and Scope 2, and the greenium becomes statistically insignificant after controlling for individual stocks' core inflation risk exposure. These findings are robust to excluding brown industries and are not driven by the post-COVID inflationary period. Overall, our results suggest that the greenium is in part a reflection of inflation risk compensation. </span></span>
 </details>
 
@@ -289,7 +289,7 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Institutions, Data Scientists, and Stock Price Informativeness, <a href = "../assets/bibliography/cen2024data.txt">[+ bibtex]</a></span></span>
 
 <details>
-	<summary><span style="font-size:12pt">Abstract </span></summary>
+<summary><span style="font-size:12pt">Abstract </span></summary>
 <span style="font-size:12.0pt"><span style="color:black">Financial institutions have significantly increased their recruitment of data scientists in the last two decades. We find that the number of data scientists employed by financial institutions causally affects their ability to earn abnormal profits. Data scientists' ability to generate abnormal profits on a stock is positively correlated to the concentration of data scientists across all institutional investors holding the stock. Institutional investors strategically adjust portfolio allocation and recruitment decisions to maximize the benefits generated by their data scientists. Consistent with the notion that the competition among data scientists speeds up the production and trade of private information, we also show that the concentration of data scientists covering a stock reduces its price informativeness in the capital market.</span></span>
 </details>
 
@@ -316,7 +316,7 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Decisions</span></span>
 
 <details>
- <summary> <span style="font-size:12pt">Abstract </span> </summary>
+ <summary><span style="font-size:12pt">Abstract </span> </summary>
 <span style="font-size:12.0pt"><span style="color:black">We develop a firm-level inflation attention measure using earnings calls from 2002-2023.  Our identification strategy exploits CEO childhood experiences during the Great Inflation to capture exogenous variation in attention. We find that 1960s-born CEOs pay more attention to inflation than other cohorts. Attentive CEOs adopt cautious policies –- holding more cash, investing less, hiring less, and using less leverage. Moreover, they tend to raise output prices and exhibit higher equity valuations. Our results are robust to excluding the COVID-19 period. Our analysis highlights how CEO experience and attention shape corporate decisions and performance in response to the macroeconomic environment. </span></span>
 </details>
 
@@ -349,7 +349,7 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Theoretical asset pricing and stock market participation,  <a href = "../assets/bibliography/jo2022composition.txt">[+ bibtex]</a></span></span>
 
 <details>
- <summary> <span style="font-size:12pt">Abstract </span> </summary>
+ <summary><span style="font-size:12pt">Abstract </span> </summary>
 <span style="font-size:12.0pt"><span style="color:black">We develop a dynamic equilibrium model where heterogeneous investors endogenously choose to enter/exit the stock market. We characterize the equilibrium and present a conditional consumption&nbsp;CAPM. The model implies small changes in the composition of stockholders, which generate a strongly countercyclical stockholders&rsquo; amount of consumption risk. The model provides a new perspective on the main drivers of asset dynamics. It is the procyclical consumption risk-sharing implied by changes in stockholders&#39; composition that contribute to the dynamics of risk premium, excess volatility, and price-dividend ratio. We provide empirical evidence on market participation, amount of risk, and price of risk, supporting our theory. </span></span>
 </details>
 
