@@ -10,10 +10,14 @@ nav_order: 3
 
 <p>&nbsp;</p>
 
-
+<!--
 <div class="pdf-container">
-<embed src="../assets/pdf/CV_chanikjo.pdf?raw=true" type="application/pdf" width="100%" height="100%">
-</div>
+<embed src= width="100%" height="100%">
+</div
+-->
+
+<iframe src="../assets/pdf/CV_chanikjo.pdf?raw=true" type="application/pdf" width="100%" height="100%">
+</iframe>
 
 
 <p>&nbsp;</p>
