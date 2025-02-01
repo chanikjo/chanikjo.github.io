@@ -373,7 +373,7 @@ nav_order: 1
 </details>
 <details>
 <summary><span style="font-size:12pt">Key result</span></summary>
-<img src="../assets/img/LJJ" alt="Dynamics of effects of Chinese EPU on Stock share">
+<img src="../assets/img/LJJ.png" alt="Dynamics of effects of Chinese EPU on Stock share">
 </details>
 
 
