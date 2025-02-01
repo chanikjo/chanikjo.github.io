@@ -371,6 +371,7 @@ nav_order: 1
 	<summary><span style="font-size:12pt">Abstract </span></summary>
 <span style="font-size:12.0pt"><span style="color:black">We find that U.S. households reduce their exposure to the stock market in response to an increase in the economic policy uncertainty (EPU) of not only U.S., but also to an increase in the Chinese EPU. We identify income uncertainty as a key driver of this relationship. In response to an increase in the Chinese EPU, households whose jobs belong to the industries that heavily export to China react more sensitively by lowering their stock shares in financial wealth. Moreover, the response is stronger for households in states that export to China more than other states. This evidence suggests that U.S. households respond to the Chinese EPU because an increase in the Chinese EPU potentially increases their income uncertainty. Our findings provide the first evidence on the importance of considering foreign economic policy uncertainty in explaining households' portfolio decisions.</span></span>
 </details>
+<details>
 <summary><span style="font-size:12pt">Key result</span></summary>
 <img src="../assets/img/LJJ" alt="Dynamics of effects of Chinese EPU on Stock share">
 </details>
