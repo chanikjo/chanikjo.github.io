@@ -8,6 +8,8 @@ nav_order: 3
 
 <a href="../assets/pdf/CV_chanikjo.pdf"><strong><span style="color:#000080">Download My CV (PDF)</span></strong></a>
 
+<iframe src="https://drive.google.com/file/d/178M0l969F1tW76VeVq9H_cZLPY66xPRh/view?usp=drive_link" class="google-drive-iframe"></iframe>
+    
 <p>&nbsp;</p>
 
 <p><strong><span style="font-size:18.0pt">Employment</span></strong></p>
