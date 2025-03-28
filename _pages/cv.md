@@ -75,6 +75,8 @@ nav_order: 3
 
 <p><strong><span style="font-size:18.0pt">Discussion</span></strong></p>
 
+<p><span style="font-size:12.0pt">"Mispricing and Firm Investment" by Dora Horstman and Yong Chen, Financial Intermediation Research Society, May 2025</span></p>
+
 <p><span style="font-size:12.0pt">"Now You See It, Now You Don’t: Financial Constraints, Minimum Wage Policies, and Employment" by Alona Bilokha, Iftekhar Hasan, Stefano Manfredonia, Ronald Masulis, Midwest Finance Association, March 2025</span></p>
 
 <p><span style="font-size:12.0pt">"Income Shocks and Demand for Sustainable Products" by Miguel A. Ferreira, Pedro A. Pires, Margarida Soares, and Andre Trindade, SGFIN Annual Research Conference on Sustainability, March 2025</span></p>
