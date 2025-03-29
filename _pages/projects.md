@@ -134,7 +134,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443"><strong><span style="color:#000080">Subjective Risk-Return Trade-off</span></strong></a></span>
 
- <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.hkubs.hku.hk/people/chen-lin/">Chen Lin</a> and&nbsp;<a href = "https://yangyou1.weebly.com/">Yang You</a>, submitted</span></span>
+ <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.hkubs.hku.hk/people/chen-lin/">Chen Lin</a> and&nbsp;<a href = "https://yangyou1.weebly.com/">Yang You</a></span></span>
  
 <span style="font-size:12.0pt"><span style="color:black">Presentation: MFA (2024), SNU (2023), Korea University (2023), KAIST (2023), &nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span>
 
@@ -164,9 +164,9 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103141"><strong><span style="color:#000080">Do Minority Neighborhoods Pay More for Affordable Housing Finance?</span></strong></a></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a>, submitted</span></span> 
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Fostering Inclusion: A Workshop to Advance Research on Diversity, Equity, and Inclusion at the University of Washington Foster School of Business (2024)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: CICF (2025, scheduled), FMA Europe (2025, scheduled), Fostering Inclusion: A Workshop to Advance Research on Diversity, Equity, and Inclusion at the University of Washington Foster School of Business (2024)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Affordable housing, Multi-family housing, Municipal bonds, Racial disparities, and Racial segregation, <a href = "../assets/bibliography/ahn2025minority.txt">[+ bibtex]</a></span></span>
 
@@ -213,7 +213,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Finance Down Under (2025, scheduled), SBFC (2024), CICF (2024), CFRC (2024), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022), CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: FMA Europe (2025, scheduled), Finance Down Under (2025), SBFC (2024), CICF (2024), CFRC (2024), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022), CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and&nbsp;Climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span>
 
