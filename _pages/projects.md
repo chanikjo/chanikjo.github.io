@@ -284,7 +284,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/cenling/">Ling Cen</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and <a href = "https://sites.google.com/view/yanruhan/">Yanru Han</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: CICF (2025, scheduled), Hong Kong Conference on FinTech, AI & Big Data in Business (2025, scheduled), SKKU (2024), Yonsei University (2024)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Hong Kong Conference on FinTech, AI & Big Data in Business (2025, scheduled), SKKU (2024), Yonsei University (2024)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Institutions, Data Scientists, and Stock Price Informativeness, <a href = "../assets/bibliography/cen2024data.txt">[+ bibtex]</a></span></span>
 
