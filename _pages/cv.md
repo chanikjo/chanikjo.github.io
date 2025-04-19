@@ -75,7 +75,7 @@ nav_order: 3
 
 <p><strong><span style="font-size:18.0pt">Discussion</span></strong></p>
 
-<p><span style="font-size:12.0pt">"A Nudge to Female Home Ownership and Mortgage Market Outcomes " by Sumit Agarwal, Abhiman Das, Pulak Ghosh, Anand Srinivasan, Man Zhang, China International Conference in Finance, July, 2025</span></p>
+<p><span style="font-size:12.0pt">"A Nudge to Female Home Ownership and Mortgage Market Outcomes" by Sumit Agarwal, Abhiman Das, Pulak Ghosh, Anand Srinivasan, Man Zhang, China International Conference in Finance, July, 2025</span></p>
 
 <p><span style="font-size:12.0pt">"Mispricing and Firm Investment" by Dora Horstman and Yong Chen, Financial Intermediation Research Society, May 2025</span></p>
 
