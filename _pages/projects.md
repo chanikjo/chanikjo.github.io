@@ -329,7 +329,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.polyu.edu.hk/af/bkang/">Byoung Uk Kang</a> and <a href = "https://cuhk.converis.clarivate.com/converis/portal/detail/Person/186619902?auxfun=&lang=zh_HK">Zhecheng Luo</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: National Taiwan University (2025, scheduled), Korea University (2025, scheduled), CUHK (2023)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: University of Sydney (2025, scheduled), National Taiwan University (2025, scheduled), Korea University (2025, scheduled), CUHK (2023)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
 
