@@ -320,10 +320,13 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">We develop a firm-level inflation attention measure using earnings calls from 2002-2023.  Our identification strategy exploits CEO childhood experiences during the Great Inflation to capture exogenous variation in attention. We find that 1960s-born CEOs pay more attention to inflation than other cohorts. Attentive CEOs adopt cautious policies –- holding more cash, investing less, hiring less, and using less leverage. Moreover, they tend to raise output prices and exhibit higher equity valuations. Our results are robust to excluding the COVID-19 period. Our analysis highlights how CEO experience and attention shape corporate decisions and performance in response to the macroeconomic environment. </span></span>
 </details>
 
+
+
+
+
+
+
 <p style="margin-left:40px">&nbsp;</p>
-
-
-
 
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Do Institutional Investors Use Local Grocery Inflation For Portfolio Choices?</span></strong></span>
 
@@ -332,6 +335,13 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">Presentation: University of Sydney (2025, scheduled), National Taiwan University (2025, scheduled), Korea University (2025, scheduled), CUHK (2023)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
+
+<details>
+ <summary><span style="font-size:12pt">Abstract </span> </summary>
+<span style="font-size:12.0pt"><span style="color:black">We find that institutional investors utilize local grocery inflation as a signal for broader aggregate inflation. Upon observing an increase in local grocery prices, investors strategically adjust portfolios toward high inflation-beta stocks. This trading behavior is more pronounced among small institutions and hedge funds, in counties where recent local grocery inflation reliably predicts aggregate inflation, and prior to periods of high realized inflation. While such a trading strategy does not, on average, translate into subsequent returns, hedge funds are an exception: they achieve significantly positive subsequent returns. Overall, our findings provide empirical evidence that investors use local grocery inflation as an important signal for their portfolio choices. </span></span>
+</details> 
+
+
 
 
 
