@@ -334,7 +334,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: University of Sydney (2025, scheduled), National Taiwan University (2025, scheduled), Korea University (2025, scheduled), CUHK (2023)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Inflation and Institutions</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Local grocery inflation, Institutional investors, Portfolio choices, Inflation expectations</span></span>
 
 <details>
  <summary><span style="font-size:12pt">Abstract </span> </summary>
