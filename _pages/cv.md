@@ -131,7 +131,7 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"The Sensitivity of Cash Savings to the Cost of Capital" by  Viral V. Acharya, Soku Byoun, and Zhaoxia Xu, KIF-KAEA-KAFA, June 2023</span></p>
 
-<p><span style="font-size:12.0pt">"Digital currencies: Payment choices and commercial bank profitability" by Jaemin Son, Doojin Ryu, and Robert Webb, KAFA-KFMA-KAFE, May 2023</span></p>
+<p><span style="font-size:12.0pt"><a href = "https://doi.org/10.1016/j.irfa.2023.102874">"Central bank digital currency: Payment choices and commercial bank profitability"</a> by Jaemin Son, Doojin Ryu, and Robert Webb, KAFA-KFMA-KAFE, May 2023</span></p>
 
 <p><span style="font-size:12.0pt">"Economic Links from Bonds and Cross-Stock Return Predictability" by Jian Feng,  Xiaolin Huo, Xin Liu, Yifei Mao, and Hong Xiang, FMA, Oct 2022</span></p>
 
