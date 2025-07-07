@@ -69,7 +69,7 @@ nav_order: 3
 
 <p><strong><span style="font-size:18.0pt">Journal referee</span></strong></p>
 
-<p><span style="font-size:12.0pt">Review of Financial Studies (X2), Management Science, Journal of Financial and Quantitative Analysis, Review of Asset Pricing Studies, Journal of Banking and Finance (X7), Journal of Empirical Finance (X2), International Journal of Finance and Economics, Research Policy, Asia-Pacific Journal of Financial Studies, Economics Letters</span></p>
+<p><span style="font-size:12.0pt">Review of Financial Studies (X2), Management Science, Journal of Financial and Quantitative Analysis (X2), Review of Asset Pricing Studies, Journal of Banking and Finance (X7), Journal of Empirical Finance (X2), International Journal of Finance and Economics, Research Policy, Asia-Pacific Journal of Financial Studies, Economics Letters</span></p>
 
 <p>&nbsp;</p>
 
