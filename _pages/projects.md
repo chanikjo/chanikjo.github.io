@@ -80,7 +80,7 @@ nav_order: 1
 
 <details>
 	<summary><span style="font-size:12pt">Abstract</span></summary>
-<span style="font-size:12.0pt"><span style="color:black">We study how firm-level inflation attention influences corporate decisions. Using earnings call transcripts from 2003 to 2024, we construct a measure of inflation attention. Our identification strategy exploits exogenous variation in attention from CEOs’ childhood exposure to inflation. We find that CEOs who experienced higher inflation in their formative years exhibit greater inflation attention following inflation shocks. Firms led by these CEOs increase leverage, especially fixed-rate debts, reduce cash holdings, and expand employment, consistent with inflation attention reflecting expectations of demand-driven inflation. Our analysis highlights how early-life experiences shape inflation attention and corporate decisions in response to macroeconomic environments.</span></span>
+<span style="font-size:12.0pt"><span style="color:black">We develop a dynamic capital structure model to study how agency conflicts between managers and shareholders affect the joint determination of financing and investment decisions. We show that there are two agency conflicts with opposing effects on a manager’s choice of investment: first, the consumption of private benefits channel leads managers not only to choose a lower optimal leverage, but also to underinvest, and second, compensation linked to firm size may lead managers to overinvest. We fit the model to the data and show that the average firm slightly overinvests, younger CEOs invest more than older ones, while CEOs with longer tenure overinvest more than CEOs with shorter tenure.</span></span>
 </details>
 
 
@@ -145,7 +145,7 @@ nav_order: 1
 
 <details>
  <summary><span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">We develop a firm-level inflation attention measure using earnings calls from 2002-2023.  Our identification strategy exploits CEO childhood experiences during the Great Inflation to capture exogenous variation in attention. We find that 1960s-born CEOs pay more attention to inflation than other cohorts. Attentive CEOs adopt cautious policies –- holding more cash, investing less, hiring less, and using less leverage. Moreover, they tend to raise output prices and exhibit higher equity valuations. Our results are robust to excluding the COVID-19 period. Our analysis highlights how CEO experience and attention shape corporate decisions and performance in response to the macroeconomic environment. </span></span>
+<span style="font-size:12.0pt"><span style="color:black">We study how firm-level inflation attention influences corporate decisions. Using earnings call transcripts from 2003 to 2024, we construct a measure of inflation attention. Our identification strategy exploits exogenous variation in attention from CEOs’ childhood exposure to inflation. We find that CEOs who experienced higher inflation in their formative years exhibit greater inflation attention following inflation shocks. Firms led by these CEOs increase leverage, especially fixed-rate debts, reduce cash holdings, and expand employment, consistent with inflation attention reflecting expectations of demand-driven inflation. Our analysis highlights how early-life experiences shape inflation attention and corporate decisions in response to macroeconomic environments.</span></span>
 </details>
 
 
