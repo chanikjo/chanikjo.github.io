@@ -132,26 +132,21 @@ nav_order: 1
 
 <p><strong><span style="font-size:18.0pt"><span style="color:black">Working Papers</span></span></strong></p>
 
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443"><strong><span style="color:#000080">Subjective Risk-Return Trade-off</span></strong></a></span>
 
- <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.hkubs.hku.hk/people/chen-lin/">Chen Lin</a> and&nbsp;<a href = "https://yangyou1.weebly.com/">Yang You</a></span></span>
- 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: MFA (2024), SNU (2023), Korea University (2023), KAIST (2023), &nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Media coverage:&nbsp;<a href = "https://www.marketwatch.com/story/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals-11659104629">MarketWatch</a></span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Household finance, Subjective expectation, Asset pricing, <a href = "../assets/bibliography/jo2024subjective.txt">[+ bibtex]</a></span></span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span></strong></span>
 
-<details>
- <summary><span style="font-size:12pt">Abstract</span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">We survey 2,548 representative U.S. respondents to estimate subjective risk-return trade-offs across savings, government bonds, stocks, real estate, gold, and cryptocurrencies. We document robust negative relationships between perceptions of risk and return among risky assets, which are observed even among financially literate respondents. Strong asset-specific sentiments, reflected in large deviations of return perceptions from average perceptions, drive these significant negative risk-return trade-offs. Both strong optimism and pessimism contribute to negative risk-return trade-offs with similar magnitudes. These negative risk-return trade-offs translate into under-diversified portfolios, as investors avoid assets they perceive to generate low returns and high risk.</span></span>
-</details>
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://leeds-faculty.colorado.edu/garcia/">Diego Garcia</a>, <a href = "https://www.mikejshin.com/">Michael Shin</a>, and <a href = "https://grad.bschool.cuhk.edu.hk/students/wu-siyuan/">Siyuan Wu</a></span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Econometric Society-ASSA (2026, scheduled), FMA (2025, scheduled), World Congress of the Econometric Society (2025, scheduled), CU Boulder (2024), KAIST (2024), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024) </span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Decisions</span></span>
 
 <details>
-<summary><span style="font-size:12pt">Key result </span></summary>
-  <img src="../assets/img/JLY_subjective.png" alt="Risk-Return Trade-offs frompooled regressions">
+ <summary><span style="font-size:12pt">Abstract </span> </summary>
+<span style="font-size:12.0pt"><span style="color:black">We develop a firm-level inflation attention measure using earnings calls from 2002-2023.  Our identification strategy exploits CEO childhood experiences during the Great Inflation to capture exogenous variation in attention. We find that 1960s-born CEOs pay more attention to inflation than other cohorts. Attentive CEOs adopt cautious policies –- holding more cash, investing less, hiring less, and using less leverage. Moreover, they tend to raise output prices and exhibit higher equity valuations. Our results are robust to excluding the COVID-19 period. Our analysis highlights how CEO experience and attention shape corporate decisions and performance in response to the macroeconomic environment. </span></span>
 </details>
-
 
 
 
@@ -294,19 +289,6 @@ nav_order: 1
 
 
 
-<p style="margin-left:40px">&nbsp;</p>
-
-<span style="font-size:14.0pt"><strong><span style="color:#000080">Do Institutional Investors Use Local Grocery Inflation For Portfolio Choices?</span></strong></span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.polyu.edu.hk/af/bkang/">Byoung Uk Kang</a> and <a href = "https://cuhk.converis.clarivate.com/converis/portal/detail/Person/186619902?auxfun=&lang=zh_HK">Zhecheng Luo</a></span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: University of Sydney (2025, scheduled), National Taiwan University (2025, scheduled), Korea University (2025, scheduled), CUHK (2023)</span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Local grocery inflation, Institutional investors, Portfolio choices, Inflation expectations</span></span>
-
-
-
-
 
 
 
@@ -341,19 +323,49 @@ nav_order: 1
 
 
 
+
+
+
+
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><strong><span style="color:#000080">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span></strong></span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Do Institutional Investors Use Local Grocery Inflation For Portfolio Choices?</span></strong></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://leeds-faculty.colorado.edu/garcia/">Diego Garcia</a>, <a href = "https://www.mikejshin.com/">Michael Shin</a>, and <a href = "https://grad.bschool.cuhk.edu.hk/students/wu-siyuan/">Siyuan Wu</a></span></span> 
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.polyu.edu.hk/af/bkang/">Byoung Uk Kang</a> and <a href = "https://cuhk.converis.clarivate.com/converis/portal/detail/Person/186619902?auxfun=&lang=zh_HK">Zhecheng Luo</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Econometric Society-ASSA (2026, scheduled), FMA (2025, scheduled), World Congress of the Econometric Society (2025, scheduled), CU Boulder (2024), KAIST (2024), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024) </span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Summer Finance Roundtable (2025), University of Sydney (2025), National Taiwan University (2025), Korea University (2025), CUHK (2023)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Decisions</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Local grocery inflation, Institutional investors, Portfolio choices, Inflation expectations</span></span>
+
+
+
+
+
+
+
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443"><strong><span style="color:#000080">Subjective Risk-Return Trade-off</span></strong></a></span>
+
+ <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.hkubs.hku.hk/people/chen-lin/">Chen Lin</a> and&nbsp;<a href = "https://yangyou1.weebly.com/">Yang You</a></span></span>
+ 
+<span style="font-size:12.0pt"><span style="color:black">Presentation: MFA (2024), SNU (2023), Korea University (2023), KAIST (2023), &nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Media coverage:&nbsp;<a href = "https://www.marketwatch.com/story/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals-11659104629">MarketWatch</a></span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Subjective expectation, Asset pricing, <a href = "../assets/bibliography/jo2024subjective.txt">[+ bibtex]</a></span></span>
 
 <details>
- <summary><span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">We develop a firm-level inflation attention measure using earnings calls from 2002-2023.  Our identification strategy exploits CEO childhood experiences during the Great Inflation to capture exogenous variation in attention. We find that 1960s-born CEOs pay more attention to inflation than other cohorts. Attentive CEOs adopt cautious policies –- holding more cash, investing less, hiring less, and using less leverage. Moreover, they tend to raise output prices and exhibit higher equity valuations. Our results are robust to excluding the COVID-19 period. Our analysis highlights how CEO experience and attention shape corporate decisions and performance in response to the macroeconomic environment. </span></span>
+ <summary><span style="font-size:12pt">Abstract</span> </summary>
+<span style="font-size:12.0pt"><span style="color:black">We survey 2,548 representative U.S. respondents to estimate subjective risk-return trade-offs across savings, government bonds, stocks, real estate, gold, and cryptocurrencies. We document robust negative relationships between perceptions of risk and return among risky assets, which are observed even among financially literate respondents. Strong asset-specific sentiments, reflected in large deviations of return perceptions from average perceptions, drive these significant negative risk-return trade-offs. Both strong optimism and pessimism contribute to negative risk-return trade-offs with similar magnitudes. These negative risk-return trade-offs translate into under-diversified portfolios, as investors avoid assets they perceive to generate low returns and high risk.</span></span>
+</details>
+
+<details>
+<summary><span style="font-size:12pt">Key result </span></summary>
+  <img src="../assets/img/JLY_subjective.png" alt="Risk-Return Trade-offs frompooled regressions">
 </details>
 
 
