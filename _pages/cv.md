@@ -75,11 +75,15 @@ nav_order: 3
 
 <p><strong><span style="font-size:18.0pt">Discussion</span></strong></p>
 
+<p><span style="font-size:12.0pt">"Paid Sick Leave Mandates and Household Portfolio Choice" by Yibing Wang, Steven Ongena, Duc Duy Nguyen, Tarik Driouchi, FMA Asia/Pacific, December 2025</span></p>
+
+<p><span style="font-size:12.0pt">"A Segmented Green Premium" by Sul Kim, Joost Driessen, Olivier David Zerbib, HEC-HKUST Sustainable Finance Workshop, October 2025</span></p>
+
 <p><span style="font-size:12.0pt">"A Nudge to Female Home Ownership and Mortgage Market Outcomes" by Sumit Agarwal, Abhiman Das, Pulak Ghosh, Anand Srinivasan, Man Zhang, China International Conference in Finance, July 2025</span></p>
 
-<p><span style="font-size:12.0pt">"Fama-MacBeth Regression with Asset Pricing Restriction" by Guofu Zhou, Yuanqi Yang, and, Yifeng Zhu, AsiaFA Conference, June 2025</span></p>
+<p><span style="font-size:12.0pt">"Fama-MacBeth Regression with Asset Pricing Restriction" by Guofu Zhou, Yuanqi Yang, and Yifeng Zhu, AsiaFA Conference, June 2025</span></p>
 
-<p><span style="font-size:12.0pt">"The Fed and the Wall Street Put" by Jan Harren, Mete Kilic, and, Zhao Zhang, FMA Europe, June 2025</span></p>
+<p><span style="font-size:12.0pt">"The Fed and the Wall Street Put" by Jan Harren, Mete Kilic, and Zhao Zhang, FMA Europe, June 2025</span></p>
 
 <p><span style="font-size:12.0pt">"Mispricing and Firm Investment" by Dora Horstman and Yong Chen, Financial Intermediation Research Society, May 2025</span></p>
 
