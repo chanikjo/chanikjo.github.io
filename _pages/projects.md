@@ -139,7 +139,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://leeds-faculty.colorado.edu/garcia/">Diego Garcia</a>, <a href = "https://www.mikejshin.com/">Michael Shin</a>, and <a href = "https://grad.bschool.cuhk.edu.hk/students/wu-siyuan/">Siyuan Wu</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Econometric Society-ASSA (2026, scheduled), FMA (2025, scheduled), World Congress of the Econometric Society (2025, scheduled), CU Boulder (2024), KAIST (2024), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024) </span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Econometric Society-ASSA (2026, scheduled), FMA (2025, scheduled), World Congress of the Econometric Society (2025), CU Boulder (2024), KAIST (2024), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024) </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Decisions</span></span>
 
@@ -333,7 +333,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.polyu.edu.hk/af/bkang/">Byoung Uk Kang</a> and <a href = "https://cuhk.converis.clarivate.com/converis/portal/detail/Person/186619902?auxfun=&lang=zh_HK">Zhecheng Luo</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Summer Finance Roundtable (2025), University of Sydney (2025), National Taiwan University (2025), Korea University (2025), CUHK (2023)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: FMA Asia/Pacific (2025, scheduled), Summer Finance Roundtable (2025), University of Sydney (2025), National Taiwan University (2025), Korea University (2025), CUHK (2023)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Local grocery inflation, Institutional investors, Portfolio choices, Inflation expectations</span></span>
 
