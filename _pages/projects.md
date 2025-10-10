@@ -229,7 +229,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: CAFM (2025, scheduled), UNSW Corporate Finance Workshop (2025), AsianFA (2024), Singapore Rising Scholars Conference (2024), Central University of Finance and Economics (2024), AFA PhD Poster Session (2024), FMA Doctoral Consortium (2023), CUHK (2023)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: UNSW Corporate Finance Workshop (2025), AsianFA (2024), Singapore Rising Scholars Conference (2024), Central University of Finance and Economics (2024), AFA PhD Poster Session (2024), FMA Doctoral Consortium (2023), CUHK (2023)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Intra-household risk-sharing</span></span>
 
