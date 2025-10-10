@@ -161,7 +161,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: AREUEA-ASSA (2026, scheduled), CICF (2025, scheduled), FMA Europe (2025, scheduled), Fostering Inclusion: A Workshop to Advance Research on Diversity, Equity, and Inclusion at the University of Washington Foster School of Business (2024)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: AREUEA-ASSA (2026, scheduled), CICF (2025), FMA Europe (2025), Fostering Inclusion: A Workshop to Advance Research on Diversity, Equity, and Inclusion at the University of Washington Foster School of Business (2024)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Affordable housing, Multi-family housing, Municipal bonds, Racial disparities, and Racial segregation, <a href = "../assets/bibliography/ahn2025minority.txt">[+ bibtex]</a></span></span>
 
