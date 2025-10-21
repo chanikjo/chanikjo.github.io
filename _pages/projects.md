@@ -134,7 +134,7 @@ nav_order: 1
 
 
 
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103141"><strong><span style="color:#000080">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span></strong></a></span>
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5632590"><strong><span style="color:#000080">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span></strong></a></span>
 
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://leeds-faculty.colorado.edu/garcia/">Diego Garcia</a>, <a href = "https://www.mikejshin.com/">Michael Shin</a>, and <a href = "https://grad.bschool.cuhk.edu.hk/students/wu-siyuan/">Siyuan Wu</a></span></span> 
