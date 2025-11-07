@@ -77,6 +77,8 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"Paid Sick Leave Mandates and Household Portfolio Choice" by Yibing Wang, Steven Ongena, Duc Duy Nguyen, Tarik Driouchi, FMA Asia/Pacific, December 2025</span></p>
 
+<p><span style="font-size:12.0pt">"What Drives Global Corporate Bond Returns?" by Jiarui Deng, Kewei Hou, Zhan Shi, SFS Cavalcade Asia-Pacific, December 2025</span></p>
+
 <p><span style="font-size:12.0pt">"A Segmented Green Premium" by Sul Kim, Joost Driessen, Olivier David Zerbib, HEC-HKUST Sustainable Finance Workshop, October 2025</span></p>
 
 <p><span style="font-size:12.0pt">"A Nudge to Female Home Ownership and Mortgage Market Outcomes" by Sumit Agarwal, Abhiman Das, Pulak Ghosh, Anand Srinivasan, Man Zhang, China International Conference in Finance, July 2025</span></p>
@@ -95,7 +97,7 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"Local Rules, Distant Woes: Shifting Consumption Preference Through Social Ties" by Haiqiang Chen, Jing Li, and Wenlan Qian, Winter Finance Summit in Asia 2025, February 2025</span></p>
 
-<p><span style="font-size:12.0pt">"The demand for government debt" by Dora Xia, Andreas Schrimpf, and Eren Egemen, SFS Cavalcade Asia-Pacific 2024, December 2024</span></p>
+<p><span style="font-size:12.0pt">"The demand for government debt" by Dora Xia, Andreas Schrimpf, and Eren Egemen, SFS Cavalcade Asia-Pacific, December 2024</span></p>
 
 <p><span style="font-size:12.0pt">"Save more or less? The impact of government health insurance change on saving behavior" by Ye (Lyren) Lu, Sydney Banking and Financial Stability Conference, December 2024</span></p>
 
