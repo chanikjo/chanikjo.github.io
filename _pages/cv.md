@@ -77,6 +77,8 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"Paid Sick Leave Mandates and Household Portfolio Choice" by Yibing Wang, Steven Ongena, Duc Duy Nguyen, Tarik Driouchi, FMA Asia/Pacific, December 2025</span></p>
 
+<p><span style="font-size:12.0pt">"Segmented Multipliers: Evidence from Welfare Cuts" by Manuel Adelino and Jim Goldman, The 20th Annual Conference on Asia-Pacific Financial Markets (CAFM), December 2025</span></p>
+
 <p><span style="font-size:12.0pt">"What Drives Global Corporate Bond Returns?" by Jiarui Deng, Kewei Hou, Zhan Shi, SFS Cavalcade Asia-Pacific, December 2025</span></p>
 
 <p><span style="font-size:12.0pt">"A Segmented Green Premium" by Sul Kim, Joost Driessen, Olivier David Zerbib, HEC-HKUST Sustainable Finance Workshop, October 2025</span></p>
