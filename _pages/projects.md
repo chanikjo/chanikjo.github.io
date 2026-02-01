@@ -182,7 +182,7 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869"><strong><span style="color:#000080">Safe Jobs, Risky Investments: Employment Protection and Household Portfolio Choices</span></strong></a></span>
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869"><strong><span style="color:#000080">Left-Tail Income Risk and Stock Market Participation: Evidence from U.S. Wrongful Discharge Laws</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with <a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
 
@@ -196,6 +196,11 @@ nav_order: 1
  <summary><span style="font-size:12pt">Abstract </span> </summary>
 <span style="font-size:12.0pt"><span style="color:black">By leveraging US state-level employment protection laws, we provide evidence that such laws increase stock market participation, on both intensive and extensive margins. Young, low-income, low-wealth, and less-educated households exhibit stronger effects. Conversely, when the protection law is reversed, we observe the opposite risk-taking behaviors. Our findings remain robust across various stock market participation measures, datasets, and stacked difference-in-differences research design, underscoring the significance of employment protection in encouraging households to take financial risks, and potentially enhancing wealth accumulation. This represents a novel economic channel through which employment protection can benefit households.</span></span>
 </details> 
+
+<details>
+	<summary><span style="font-size:12pt">Key result</span></summary>
+  <img src="../assets/img/wdl.png">
+</details>
 
 
 
@@ -300,7 +305,7 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><strong><span style="color:#000080">Is Greenium a Reflection of Inflation Risk?</span></strong></span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Is Greenium a Reflection of Core Inflation Risk?</span></strong></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Zhenyu Gao and Yuyi He</span></span> 
 
