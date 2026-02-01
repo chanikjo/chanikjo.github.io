@@ -150,7 +150,7 @@ nav_order: 1
 
 <details>
 	<summary><span style="font-size:12pt">Key result</span></summary>
-  <img src="../assets/img/GJSW">
+  <img src="../assets/img/GJSW.png">
 </details>
 
 
