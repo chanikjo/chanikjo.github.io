@@ -148,7 +148,10 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">We study how firm-level inflation attention influences corporate decisions. We construct a measure of inflation attention, using earnings calls from 2003 to 2024. Our identification strategy exploits exogenous variation in attention from CEOs’ childhood exposure to inflation. We find that CEOs who experience higher inflation in their formative years exhibit greater inflation attention following inflation shocks. Firms led by these CEOs increase leverage, especially fixed-rate debts, reduce cash holdings, and expand employment, consistent with inflation attention reflecting expectations of demand-driven inflation. Our analysis highlights how early-life experiences shape inflation attention and corporate decisions in response to macroeconomic environments.</span></span>
 </details>
 
-
+<details>
+	<summary><span style="font-size:12pt">Key result</span></summary>
+  <img src="../assets/img/GJSW">
+</details>
 
 
 
