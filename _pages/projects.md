@@ -194,7 +194,7 @@ nav_order: 1
 
 <details>
  <summary><span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">By leveraging US state-level employment protection laws, we provide evidence that such laws increase stock market participation, on both intensive and extensive margins. Young, low-income, low-wealth, and less-educated households exhibit stronger effects. Conversely, when the protection law is reversed, we observe the opposite risk-taking behaviors. Our findings remain robust across various stock market participation measures, datasets, and stacked difference-in-differences research design, underscoring the significance of employment protection in encouraging households to take financial risks, and potentially enhancing wealth accumulation. This represents a novel economic channel through which employment protection can benefit households.</span></span>
+<span style="font-size:12.0pt"><span style="color:black">We exploit the adoption of employment protection laws as a quasi-natural experiment to examine how unconditional left-tail income risk influences stock market participation. Following adoption, participation rises significantly by 7.9% with a dollar holding increase of $1,627. This effect is observed extensively across broad income groups. Conversely, when the laws are reversed, participation declines. Our results are robust to multiple datasets, a stacked difference-in-differences design, and a border discontinuity design. Our calibrated portfolio choice model shows that left-tail income risk alone significantly reduces participation, whereas overall income volatility has a material effect only in the absence of left-tail risk.</span></span>
 </details> 
 
 <details>
