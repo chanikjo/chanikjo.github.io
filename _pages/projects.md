@@ -307,7 +307,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Is Greenium a Reflection of Core Inflation Risk?</span></strong></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Zhenyu Gao and Yuyi He</span></span> 
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and Yuyi He</span></span> 
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: Workshop on Climate Risk, Sustainability, and Real Estate (2026, scheduled), SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
 
@@ -326,6 +326,22 @@ nav_order: 1
 
 
 
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Social Transmission of Consumption</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and Zhecheng Luo</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: WFA (2026, scheduled)  </span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Social finance, Consumption </span></span>
+
+<details>
+<summary><span style="font-size:12pt">Abstract </span> </summary>
+<span style="font-size:12.0pt"><span style="color:black">We find that consumption spreads through social networks via a "visibility bias" channel, consistent with the model of Han et al. (2023). Using county-level Facebook data and exogenous fracking-induced income shocks, we find that a 1% increase in a closely con- nected county’s consumption raises local spending by 0.35% in the following year. The effect is stronger for more socially connected households and for socially visible goods. Lacking a corresponding income boost, households respond by buying cheaper goods. This peer-induced spending strains household finances and increases local delinquency rates, underscoring how biased social observation can undermine financial stability. </span></span>
+</details>
 
 
 
