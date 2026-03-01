@@ -374,7 +374,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and Joonwoo Yang</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Under Review at Management Science</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Under review at Management Science</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: HKU (2026, scheduled), PHBS (2026, scheduled)</span></span>
 
