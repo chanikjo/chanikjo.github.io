@@ -143,7 +143,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: Econometric Society-ASSA (2026), CAFM (2025), FMA (2025), World Congress of the Econometric Society (2025), CU Boulder (2024), KAIST (2024), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024) </span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Decisions</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Finance</span></span>
 
 <details>
  <summary><span style="font-size:12pt">Abstract </span> </summary>
@@ -211,20 +211,6 @@ nav_order: 1
 </details>
 
 
-
-
-
-
-<p style="margin-left:40px">&nbsp;</p>
-
-
-<span style="font-size:14.0pt"><strong><span style="color:#000080">Does Government Listen to the Public? Measuring Democratic Responsiveness and Its Impact on Business Performance</span></strong></span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and Joonwoo Yang</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Under review </span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: HKU (2026, scheduled), PHBS (2026, scheduled)</span></span>
 
 
 
@@ -375,6 +361,24 @@ nav_order: 1
 <summary><span style="font-size:12pt">Abstract </span> </summary>
 <span style="font-size:12.0pt"><span style="color:black">We find that consumption spreads through social networks via a "visibility bias" channel, consistent with the model of Han et al. (2023). Using county-level Facebook data and exogenous fracking-induced income shocks, we find that a 1% increase in a closely con- nected county’s consumption raises local spending by 0.35% in the following year. The effect is stronger for more socially connected households and for socially visible goods. Lacking a corresponding income boost, households respond by buying cheaper goods. This peer-induced spending strains household finances and increases local delinquency rates, underscoring how biased social observation can undermine financial stability. </span></span>
 </details>
+
+
+
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Does Government Listen to the Public? Measuring Democratic Responsiveness and Its Impact on Business Performance</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and Joonwoo Yang</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Under Review at Management Science</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: HKU (2026, scheduled), PHBS (2026, scheduled)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Government, Democracy, and Corporate Finance</span></span>
 
 
 
