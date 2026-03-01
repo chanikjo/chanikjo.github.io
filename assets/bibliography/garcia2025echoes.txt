@@ -2,5 +2,5 @@
   title={Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions},
   author={Garc{\'\i}a, Diego and Jo, Chanik and Shin, Michael and Wu, Siyuan},
   journal={Available at SSRN 5632590},
-  year={2025}
+  year={2026}
 }
