@@ -182,11 +182,15 @@ nav_order: 1
 
 
 
+
+
+
+
 <p style="margin-left:40px">&nbsp;</p>
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869"><strong><span style="color:#000080">Left-Tail Income Risk and Stock Market Participation: Evidence from U.S. Wrongful Discharge Laws</span></strong></a></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with <a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
+<span style="font-size:12.0pt"><span style="color:black">with <a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Under review </span></span>
 
@@ -205,6 +209,25 @@ nav_order: 1
 	<summary><span style="font-size:12pt">Key result</span></summary>
   <img src="../assets/img/wdl.png">
 </details>
+
+
+
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Does Government Listen to the Public? Measuring Democratic Responsiveness and Its Impact on Business Performance</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and Joonwoo Yang</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Under review </span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: HKU (2026, scheduled), PHBS (2026, scheduled)</span></span>
+
+
+
 
 
 
