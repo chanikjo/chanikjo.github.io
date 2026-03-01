@@ -139,6 +139,8 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://leeds-faculty.colorado.edu/garcia/">Diego Garcia</a>, <a href = "https://www.mikejshin.com/">Michael Shin</a>, and <a href = "https://grad.bschool.cuhk.edu.hk/students/wu-siyuan/">Siyuan Wu</a></span></span> 
 
+<span style="font-size:12.0pt"><span style="color:black">Under review </span></span>
+
 <span style="font-size:12.0pt"><span style="color:black">Presentation: Econometric Society-ASSA (2026), CAFM (2025), FMA (2025), World Congress of the Econometric Society (2025), CU Boulder (2024), KAIST (2024), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024) </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Inflation, Experience, Attention, and Corporate Decisions</span></span>
@@ -186,6 +188,8 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with <a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
 
+<span style="font-size:12.0pt"><span style="color:black">Under review </span></span>
+
 <span style="font-size:12.0pt"><span style="color:black">Presentation: The 18th NYCU International Finance Conference (2024), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black"><em>FMA Asia/Pacific Best Paper Award (Asset pricing/Investment) (2024), Shinhan Bank & KAFA Best Paper Award (2023)</em></span></span>
@@ -209,50 +213,6 @@ nav_order: 1
 
 
 
-
-<p style="margin-left:40px">&nbsp;</p>
-
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360"><strong><span style="color:#000080">Climate Change and Households&#39; Risk-Taking</span></strong></a></span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: FMA Europe (2025), Finance Down Under (2025), SBFC (2024), CICF (2024), CFRC (2024), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022), CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and&nbsp;Climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span>
-
-<details>
-<summary><span style="font-size:12pt">Abstract </span></summary>
-<span style="font-size:12.0pt"><span style="color:black">This paper studies a novel channel through which climate risks affect households&rsquo; choices of risky asset allocation: a stringent climate change regulation elevates labor income risk for households employed by high-emission industries which in turn discourages households&#39; financial risk-taking. Using staggered adoptions of climate change action plans across states, we find that climate change action plans lead to a reduction in the share of risky assets by 15% for households in high-emission industries. We also find a reduction in risky asset holdings after the stringent EPA regulation. These results are stronger with experiences of climate change-related disasters. Our study implies an unintended consequence of climate regulations for wealth inequality by discouraging low-wealth households&#39; financial risk-taking.</span></span>
-</details> 
-
-
-
-
-
-
-<p style="margin-left:40px">&nbsp;</p>
-
-
-<span style="font-size:14.0pt"><strong><span style="color:#000080">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</span></strong></span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: UNSW Corporate Finance Workshop (2025), AsianFA (2024), Singapore Rising Scholars Conference (2024), Central University of Finance and Economics (2024), AFA PhD Poster Session (2024), FMA Doctoral Consortium (2023), CUHK (2023)</span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Intra-household risk-sharing</span></span>
-
-<details>
-<summary><span style="font-size:12pt">Abstract</span></summary>
-<span style="font-size:12.0pt"><span style="color:black">This paper proposes a novel channel for households' risky asset allocation: better intra-household risk-sharing reduces overall labor income risk for dual-earner couples, thus encouraging households' financial risk-taking. Capturing intra-household risk-sharing dynamics using the conditional income correlation between spouses' industries, we find that better income risk-sharing within couples increases households' financial risk-taking. Exploiting unexpected events of spousal death, we causally identify the impact of intra-household risk-sharing on households' asset choices. Our study implies an unintended consequence of positive assortative mating, a growing tendency of couples choosing partners with similar socioeconomic statuses, which limits risk-sharing between spouses, thereby discouraging financial risk-taking.</span></span>
-</details> 
-
-
-
-
-
-
-
-
 <p style="margin-left:40px">&nbsp;</p>
 
 
@@ -260,7 +220,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/cenling/">Ling Cen</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and <a href = "https://sites.google.com/view/yanruhan/">Yanru Han</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: ABFER (2026, scheduled), City University of Hong Kong (2026, scheduled), Three Asian Countries Finance Conference (2025), The 3rd Annual Conference on Capital Market Research in the Era of AI (2025), Hong Kong Conference on FinTech, AI & Big Data in Business (2025), PBCSF Tsinghua University (2025), Asian FA (2025), SKKU (2024), Yonsei University (2024)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: CICF (2026, scheduled), ABFER (2026, scheduled), City University of Hong Kong (2026, scheduled), Three Asian Countries Finance Conference (2025), The 3rd Annual Conference on Capital Market Research in the Era of AI (2025), Hong Kong Conference on FinTech, AI & Big Data in Business (2025), PBCSF Tsinghua University (2025), Asian FA (2025), SKKU (2024), Yonsei University (2024)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Institutions, Data Scientists, and Stock Price Informativeness, <a href = "../assets/bibliography/cen2024data.txt">[+ bibtex]</a></span></span>
 
@@ -307,7 +267,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Is Greenium a Reflection of Core Inflation Risk?</span></strong></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and Yuyi He</span></span> 
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, Yuyi He, and <a href = "https://yoshionozawa.github.io/">Yoshio Nozawa</a></span></span> 
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: Workshop on Climate Risk, Sustainability, and Real Estate (2026, scheduled), SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
 
@@ -319,6 +279,56 @@ nav_order: 1
 <summary><span style="font-size:12pt">Abstract </span> </summary>
 <span style="font-size:12.0pt"><span style="color:black">We present a novel stylized fact that green stocks carry higher inflation risk compared to brown stocks, performing poorly at times of unexpected inflation. Given this fact, can the outperformance of green stocks over brown stocks (the "greenium") be explained as compensation for inflation risk? We find that the magnitude of the greenium decreases by 31% and 54% for Scope 1 and Scope 2, and the greenium becomes statistically insignificant after controlling for individual stocks' core inflation risk exposure. These findings are robust to excluding brown industries and are not driven by the post-COVID inflationary period. Overall, our results suggest that the greenium is in part a reflection of inflation risk compensation. </span></span>
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360"><strong><span style="color:#000080">Climate Change and Households&#39; Risk-Taking</span></strong></a></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: FMA Europe (2025), Finance Down Under (2025), SBFC (2024), CICF (2024), CFRC (2024), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022), CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and&nbsp;Climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span>
+
+<details>
+<summary><span style="font-size:12pt">Abstract </span></summary>
+<span style="font-size:12.0pt"><span style="color:black">This paper studies a novel channel through which climate risks affect households&rsquo; choices of risky asset allocation: a stringent climate change regulation elevates labor income risk for households employed by high-emission industries which in turn discourages households&#39; financial risk-taking. Using staggered adoptions of climate change action plans across states, we find that climate change action plans lead to a reduction in the share of risky assets by 15% for households in high-emission industries. We also find a reduction in risky asset holdings after the stringent EPA regulation. These results are stronger with experiences of climate change-related disasters. Our study implies an unintended consequence of climate regulations for wealth inequality by discouraging low-wealth households&#39; financial risk-taking.</span></span>
+</details> 
+
+
+
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: UNSW Corporate Finance Workshop (2025), AsianFA (2024), Singapore Rising Scholars Conference (2024), Central University of Finance and Economics (2024), AFA PhD Poster Session (2024), FMA Doctoral Consortium (2023), CUHK (2023)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Intra-household risk-sharing</span></span>
+
+<details>
+<summary><span style="font-size:12pt">Abstract</span></summary>
+<span style="font-size:12.0pt"><span style="color:black">This paper proposes a novel channel for households' risky asset allocation: better intra-household risk-sharing reduces overall labor income risk for dual-earner couples, thus encouraging households' financial risk-taking. Capturing intra-household risk-sharing dynamics using the conditional income correlation between spouses' industries, we find that better income risk-sharing within couples increases households' financial risk-taking. Exploiting unexpected events of spousal death, we causally identify the impact of intra-household risk-sharing on households' asset choices. Our study implies an unintended consequence of positive assortative mating, a growing tendency of couples choosing partners with similar socioeconomic statuses, which limits risk-sharing between spouses, thereby discouraging financial risk-taking.</span></span>
+</details> 
+
 
 
 
