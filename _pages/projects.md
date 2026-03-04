@@ -376,7 +376,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Under review at Management Science</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: HKU (2026, scheduled), PHBS (2026, scheduled)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: PHBS (2026, scheduled)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Government, Democracy, and Corporate Finance</span></span>
 
