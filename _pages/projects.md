@@ -160,31 +160,6 @@ nav_order: 1
 
 
 
-<p style="margin-left:40px">&nbsp;</p>
-
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103141"><strong><span style="color:#000080">Do Minority Neighborhoods Pay More for Affordable Housing Finance?</span></strong></a></span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a></span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: AREUEA-ASSA (2026), CICF (2025), FMA Europe (2025), Fostering Inclusion: A Workshop to Advance Research on Diversity, Equity, and Inclusion at the University of Washington Foster School of Business (2024)</span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Affordable housing, Multi-family housing, Municipal bonds, Racial disparities, and Racial segregation, <a href = "../assets/bibliography/ahn2025minority.txt">[+ bibtex]</a></span></span>
-
-<details>
-	<summary><span style="font-size:12pt">Abstract </span></summary>
-<span style="font-size:12.0pt"><span style="color:black">State and local governments issue tax-exempt bonds to finance developments of affordable multi-family rental housing. These bonds represent a crucial funding source for addressing the U.S. affordable housing crisis. We find that affordable housing projects in predominantly minority neighborhoods face significantly higher borrowing costs than those in predominantly white neighborhoods. This disparity persists even among FHA-insured bonds where credit risk is essentially eliminated through federal guarantees. The effect is stronger when project neighborhoods have a higher minority concentration compared to surrounding areas, suggesting that financing costs may incentivize development in racially homogeneous communities, potentially reinforcing existing patterns of racial segregation.</span></span>
-</details> 
-
-<details>
-	<summary><span style="font-size:12pt">Key result </span></summary>
-  <img src="../assets/img/AJ_minority.png" alt="Yields by Racial Composition Quintiles">
-</details>
-
-
-
-
-
-
 
 <p style="margin-left:40px">&nbsp;</p>
 
@@ -209,6 +184,37 @@ nav_order: 1
 	<summary><span style="font-size:12pt">Key result</span></summary>
   <img src="../assets/img/wdl.png">
 </details>
+
+
+
+
+
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103141"><strong><span style="color:#000080">Do Minority Neighborhoods Pay More for Affordable Housing Finance?</span></strong></a></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.bschool.cuhk.edu.hk/staff/ahn-changhyun/">Changhyun Ahn</a></span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: AREUEA-ASSA (2026), CICF (2025), FMA Europe (2025), Fostering Inclusion: A Workshop to Advance Research on Diversity, Equity, and Inclusion at the University of Washington Foster School of Business (2024)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Affordable housing, Multi-family housing, Municipal bonds, Racial disparities, and Racial segregation, <a href = "../assets/bibliography/ahn2025minority.txt">[+ bibtex]</a></span></span>
+
+<details>
+	<summary><span style="font-size:12pt">Abstract </span></summary>
+<span style="font-size:12.0pt"><span style="color:black">State and local governments issue tax-exempt bonds to finance developments of affordable multi-family rental housing. These bonds represent a crucial funding source for addressing the U.S. affordable housing crisis. We find that affordable housing projects in predominantly minority neighborhoods face significantly higher borrowing costs than those in predominantly white neighborhoods. This disparity persists even among FHA-insured bonds where credit risk is essentially eliminated through federal guarantees. The effect is stronger when project neighborhoods have a higher minority concentration compared to surrounding areas, suggesting that financing costs may incentivize development in racially homogeneous communities, potentially reinforcing existing patterns of racial segregation.</span></span>
+</details> 
+
+<details>
+	<summary><span style="font-size:12pt">Key result </span></summary>
+  <img src="../assets/img/AJ_minority.png" alt="Yields by Racial Composition Quintiles">
+</details>
+
+
+
+
 
 
 
