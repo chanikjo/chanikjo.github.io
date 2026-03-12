@@ -355,7 +355,7 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055695"><strong><span style="color:#000080">Social Transmission of Consumption</span></strong></a></span>
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6401498"><strong><span style="color:#000080">Social Transmission of Consumption</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and Zhecheng Luo</span></span> 
 
