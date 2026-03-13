@@ -131,7 +131,7 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"Asset Pricing with Misallocation" by Winston Wei Dou, Yan Ji, Di Tian, and Pengfei Wang, 9th Hong Kong Joint Finance Research Conference, August 2023</span></p>
 
-<p><span style="font-size:12.0pt">"Revisiting January and turnover effects: recent evidence around the globe" by Vitor Miguel Ribeiro, CFRI & CIRF Joint Conference, July 2023</span></p>
+<p><span style="font-size:12.0pt"><a href = "https://doi.org/10.1016/B978-0-44-313776-1.00039-8">"Revisiting January and turnover effects: recent evidence around the globe"</a> by Vitor Miguel Ribeiro, CFRI & CIRF Joint Conference, July 2023</span></p>
 
 <p><span style="font-size:12.0pt">"Dollar and Carry Redux" by  Sining Liu, Thomas Maurer, Andrea Vedolin, and Yaoyuan Zhang, CICF, July 2023</span></p>
 
