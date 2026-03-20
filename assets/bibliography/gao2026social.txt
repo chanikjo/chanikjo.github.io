@@ -1,0 +1,6 @@
+@article{gao2026social,
+  title={Social Transmission of Consumption},
+  author={Gao, Zhenyu and Han, Bing and Jo, Chanik and Luo, Zhecheng},
+  journal={Kilts Center at Chicago Booth Marketing Data Center Paper},
+  year={2026}
+}
