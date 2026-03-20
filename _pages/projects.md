@@ -361,7 +361,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: WFA (2026, scheduled)  </span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Social finance, Consumption, , <a href = "../assets/bibliography/gao2026social.txt">[+ bibtex]</a></span></span>
+<span style="font-size:12.0pt"><span style="color:black">Social finance, Consumption, <a href = "../assets/bibliography/gao2026social.txt">[+ bibtex]</a></span></span>
 
 <details>
 <summary><span style="font-size:12pt">Abstract </span> </summary>
