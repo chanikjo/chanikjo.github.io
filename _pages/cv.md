@@ -75,6 +75,8 @@ nav_order: 3
 
 <p><strong><span style="font-size:18.0pt">Discussion</span></strong></p>
 
+<p><span style="font-size:12.0pt">"Global Banks’ Macroeconomic Expectations and Credit Supply" by Xiang Li and Steven Ongena, CICF, June 2026</span></p>
+
 <p><span style="font-size:12.0pt">"Paid Sick Leave Mandates and Household Portfolio Choice" by Yibing Wang, Steven Ongena, Duc Duy Nguyen, Tarik Driouchi, FMA Asia/Pacific, December 2025</span></p>
 
 <p><span style="font-size:12.0pt">"Segmented Multipliers: Evidence from Welfare Cuts" by Manuel Adelino and Jim Goldman, The 20th Annual Conference on Asia-Pacific Financial Markets (CAFM), December 2025</span></p>
@@ -83,7 +85,7 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"A Segmented Green Premium" by Sul Kim, Joost Driessen, Olivier David Zerbib, HEC-HKUST Sustainable Finance Workshop, October 2025</span></p>
 
-<p><span style="font-size:12.0pt">"A Nudge to Female Home Ownership and Mortgage Market Outcomes" by Sumit Agarwal, Abhiman Das, Pulak Ghosh, Anand Srinivasan, Man Zhang, China International Conference in Finance, July 2025</span></p>
+<p><span style="font-size:12.0pt">"A Nudge to Female Home Ownership and Mortgage Market Outcomes" by Sumit Agarwal, Abhiman Das, Pulak Ghosh, Anand Srinivasan, Man Zhang, CICF, July 2025</span></p>
 
 <p><span style="font-size:12.0pt">"Fama-MacBeth Regression with Asset Pricing Restriction" by Guofu Zhou, Yuanqi Yang, and Yifeng Zhu, AsiaFA Conference, June 2025</span></p>
 
