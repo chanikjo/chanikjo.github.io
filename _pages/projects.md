@@ -284,7 +284,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, Yuyi He, and <a href = "https://yoshionozawa.github.io/">Yoshio Nozawa</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Asian FA (2026, scheduled), Workshop on Climate Risk, Sustainability, and Real Estate (2026, scheduled), SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Asian FA (2026, scheduled), Workshop on Climate Risk, Sustainability, and Real Estate (2026), SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black"><em>Best Paper Award, Korean Finance Association Autumn Conference (2024)</em></span></span>
 
@@ -379,8 +379,6 @@ nav_order: 1
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Does Government Listen to the Public? Measuring Democratic Responsiveness and Its Impact on Business Performance</span></strong></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and Joonwoo Yang</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: PHBS (2026, scheduled)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Government, Democracy, and Corporate Finance</span></span>
 
