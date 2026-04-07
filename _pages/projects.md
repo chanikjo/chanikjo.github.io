@@ -284,7 +284,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, Yuyi He, and <a href = "https://yoshionozawa.github.io/">Yoshio Nozawa</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Workshop on Climate Risk, Sustainability, and Real Estate (2026, scheduled), SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Asian FA (2026, scheduled), Workshop on Climate Risk, Sustainability, and Real Estate (2026, scheduled), SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black"><em>Best Paper Award, Korean Finance Association Autumn Conference (2024)</em></span></span>
 
@@ -359,7 +359,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and Zhecheng Luo</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: WFA (2026, scheduled)  </span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Asian FA (2026, scheduled), WFA (2026, scheduled), PHBS (2026, scheduled)  </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Social finance, Consumption, <a href = "../assets/bibliography/gao2026social.txt">[+ bibtex]</a></span></span>
 
