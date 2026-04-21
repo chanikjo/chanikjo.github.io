@@ -359,7 +359,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and Zhecheng Luo</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Asian FA (2026, scheduled), WFA (2026, scheduled), PHBS (2026, scheduled)  </span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Asian FA (2026, scheduled), WFA (2026, scheduled), PHBS (2026)  </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Social finance, Consumption, <a href = "../assets/bibliography/gao2026social.txt">[+ bibtex]</a></span></span>
 
