@@ -373,15 +373,6 @@ nav_order: 1
 
 
 
-<p style="margin-left:40px">&nbsp;</p>
-
-
-<span style="font-size:14.0pt"><strong><span style="color:#000080">Does Government Listen to the Public? Measuring Democratic Responsiveness and Its Impact on Business Performance</span></strong></span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and Joonwoo Yang</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Government, Democracy, and Corporate Finance</span></span>
-
 
 
 
