@@ -365,7 +365,7 @@ nav_order: 1
 
 <details>
 <summary><span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">We find that consumption spreads through social networks via a "visibility bias" channel, consistent with the model of Han et al. (2023). Using county-level Facebook connectedness and exogenous fracking shocks, we show that a 1% increase in a closely linked county's consumption raises local spending by 0.35% next year. Heterogeneous effects-stronger among more socially connected households and for socially visible goods-indicate transmission through social observation instead of economic linkages. Without their own income gains, households respond by buying cheaper goods, and peer-induced spending increases delinquency rates, underscoring that biased social observation, rather than economic connectedness, undermines financial stability. </span></span>
+<span style="font-size:12.0pt"><span style="color:black">We examine whether and how consumption transmits through social networks. Exploiting the U.S. shale boom as an exogenous income shock and county-level Facebook connectedness to identify causal spillovers, we find that 1% increase in a closely connected county's consumption raises the focal county's own consumption by about 0.35\% the following year, despite no local income change. The effect is strongest for socially salient and expensive goods, and for more sociable households, consistent with transmission through social observation rather than economic linkages. This peer-induced spending also raises mortgage delinquency rates, weakening household financial stability.</span></span>
 </details>
 
 
