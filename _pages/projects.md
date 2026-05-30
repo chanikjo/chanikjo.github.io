@@ -365,7 +365,7 @@ nav_order: 1
 
 <details>
 <summary><span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">We examine whether and how consumption transmits through social networks. Exploiting the U.S. shale boom as an exogenous income shock and county-level Facebook connectedness to identify causal spillovers, we find that 1% increase in a closely connected county's consumption raises the focal county's own consumption by about 0.35\% the following year, despite no local income change. The effect is strongest for socially salient and expensive goods, and for more sociable households, consistent with transmission through social observation rather than economic linkages. This peer-induced spending also raises mortgage delinquency rates, weakening household financial stability.</span></span>
+<span style="font-size:12.0pt"><span style="color:black">We examine whether and how consumption transmits through social networks. Exploiting the U.S. shale boom as an exogenous income shock and county-level Facebook connectedness to identify causal spillovers, we find that 1% increase in a closely connected county's consumption raises the focal county's own consumption by about 0.35% the following year, despite no local income change. The effect is strongest for socially salient and expensive goods, and for more sociable households, consistent with transmission through social observation rather than economic linkages. This peer-induced spending also raises mortgage delinquency rates, weakening household financial stability.</span></span>
 </details>
 
 
