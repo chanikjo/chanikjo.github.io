@@ -75,6 +75,10 @@ nav_order: 3
 
 <p><strong><span style="font-size:18.0pt">Discussion</span></strong></p>
 
+<p><span style="font-size:12.0pt">"Political Divergence and Strategic Alliance Formation" by Tingting Que, Miaomiao Yu, and Nuoyao Zong, AsianFA, July 2026</span></p>
+
+<p><span style="font-size:12.0pt">"Political Alignment and Corporate Environmental Policies" by Jinjun (Ricky) Ke, Alok Kumar, and Shiyi Zhang, AsianFA, July 2026</span></p>
+
 <p><span style="font-size:12.0pt">"Global Banks’ Macroeconomic Expectations and Credit Supply" by Xiang Li and Steven Ongena, CICF, June 2026</span></p>
 
 <p><span style="font-size:12.0pt">"Paid Sick Leave Mandates and Household Portfolio Choice" by Yibing Wang, Steven Ongena, Duc Duy Nguyen, Tarik Driouchi, FMA Asia/Pacific, December 2025</span></p>
