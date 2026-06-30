@@ -75,6 +75,8 @@ nav_order: 3
 
 <p><strong><span style="font-size:18.0pt">Discussion</span></strong></p>
 
+<p><span style="font-size:12.0pt">"Talking Their Own Book: Brokerage Proprietary Trading and Analyst Bias" by Xingyu Chen, Zilin Chen, and Ronghua Luo, 2026 HK Joint Finance Research Conference, August 2026</span></p>
+
 <p><span style="font-size:12.0pt">"Political Divergence and Strategic Alliance Formation" by Tingting Que, Miaomiao Yu, and Nuoyao Zong, AsianFA, July 2026</span></p>
 
 <p><span style="font-size:12.0pt">"Political Alignment and Corporate Environmental Policies" by Jinjun (Ricky) Ke, Alok Kumar, and Shiyi Zhang, AsianFA, July 2026</span></p>
