@@ -282,7 +282,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, Yuyi He, and <a href = "https://yoshionozawa.github.io/">Yoshio Nozawa</a></span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: SFR (2026, scheduled), Asian FA (2026, scheduled), Workshop on Climate Risk, Sustainability, and Real Estate (2026), SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: SFR (2026), Inaugural KAIST Finance Alumni Conference (2026), Asian FA (2026), Workshop on Climate Risk, Sustainability, and Real Estate (2026), SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black"><em>Best Paper Award, Korean Finance Association Autumn Conference (2024)</em></span></span>
 
