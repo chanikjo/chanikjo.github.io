@@ -134,6 +134,27 @@ nav_order: 1
 
 
 
+
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Does Government Listen to the Public? Measuring Democratic Responsiveness and Its Impact on Business Performance</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a>, <a href = "https://www.cb.cityu.edu.hk/staff/eunysong/">Camilla (Eunyoung) Song</a>, and Joonwoo Yang</span></span>
+
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Revise and resubmit, Management Science</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Democratic Responsiveness, Policy Uptake Elasticity, Notice-and-Comment Rulemaking, Public Comments, Corporate Political Activity, Firm Performance, Regulatory Policy, <a href = "../assets/sharing.zip">Data</a></span></span>
+
+<details>
+    <summary><span style="font-size:12pt">Abstract</span></summary>
+<span style="font-size:12.0pt"><span style="color:black">This paper introduces Policy Uptake Elasticity (PUE), a measure of agency responsiveness in U.S. notice-and-comment rulemaking. Built from language model classifications of Federal Register rule texts and public comments, PUE measures how much agencies revise proposed regulations toward the position commenters advocate. We validate the classifications against two blind human coders and four other language models. A higher firm-level PUE is associated with lower compliance costs and higher profitability, investment, and sales growth, robust to corrections for classification error and multiple testing. Firms without alternative political access drive the result, consistent with a compliance-cost channel. Responsiveness to individual commenters also declines under acting agency heads, and responsiveness to each commenter group predicts less litigation from that group. Therefore, regulatory responsiveness has measurable relationships with politics, firm performance, and litigation.</span></span>
+</details>
+
+
+
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5632590"><strong><span style="color:#000080">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span></strong></a></span>
 
 
