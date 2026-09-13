@@ -43,7 +43,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, 2024, <a href = "https://data.mendeley.com/public-files/datasets/bm3bn4r5d4/files/18f4ba70-0e3f-4b4d-9f79-69ab0dd07c69/file_downloaded">Data</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Salerno_JFQA_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023measuring.txt">[+ bibtex]</a></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Measuring state-level economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing</span></span>
 
 <details>
 	<summary><span style="font-size:12pt">Abstract</span></summary>
@@ -139,9 +139,9 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a>, <a href = "https://www.cb.cityu.edu.hk/staff/eunysong/">Camilla (Eunyoung) Song</a>, and Joonwoo Yang</span></span>
 
-<span style="font-size:12.0pt"><strong><span style="color:#000080">Revise and resubmit, Management Science</span></strong></span>
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Revise and resubmit, Management Science</span></strong>, <a href = "../assets/sharing.zip">Data</a></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Democratic Responsiveness, Policy Uptake Elasticity, Notice-and-Comment Rulemaking, Public Comments, Corporate Political Activity, Firm Performance, Regulatory Policy, <a href = "../assets/sharing.zip">Data</a></span></span>
+<span style="font-size:12.0pt"><span style="color:black">Measuring Policy Uptake Elasticity and applications to corporate finance</span></span>
 
 <details>
     <summary><span style="font-size:12pt">Abstract</span></summary>
