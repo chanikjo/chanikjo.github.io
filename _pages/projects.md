@@ -141,6 +141,8 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><strong><span style="color:#000080">Revise and resubmit, Management Science</span></strong>, <a href = "../assets/sharing.zip">Data</a></span>
 
+<span style="font-size:12.0pt"><span style="color:black">Presentation: MS Special Issue on Business and Its Interrelationship with Democratic Resilience, Geopolitics, and Society Workshop (2026, scheduled), Journal of Corporate Finance Conference, “Finance at a Time of Change and Uncertainty (2026, scheduled) </span></span>
+
 <span style="font-size:12.0pt"><span style="color:black">Measuring Policy Uptake Elasticity and applications to corporate finance</span></span>
 
 <details>
@@ -185,8 +187,6 @@ nav_order: 1
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869"><strong><span style="color:#000080">Left-Tail Income Risk and Stock Market Participation: Evidence from U.S. Wrongful Discharge Laws</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with <a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Under review </span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: The 18th NYCU International Finance Conference (2024), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
 
