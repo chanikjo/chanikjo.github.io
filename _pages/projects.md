@@ -139,7 +139,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a>, <a href = "https://www.cb.cityu.edu.hk/staff/eunysong/">Camilla (Eunyoung) Song</a>, and Joonwoo Yang</span></span>
 
-<span style="font-size:12.0pt"><strong><span style="color:#000080">Revise and resubmit, Management Science</span></strong>, <a href = "../assets/sharing.zip">Data</a></span>
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Revise and resubmit, Management Science</span></strong>, <a href = "../assets/sharing.zip">PUE Data</a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Presentation: MS Special Issue on Business and Its Interrelationship with Democratic Resilience, Geopolitics, and Society Workshop (2026, scheduled), Journal of Corporate Finance Conference, "Finance at a Time of Change and Uncertainty" (2026, scheduled) </span></span>
 
