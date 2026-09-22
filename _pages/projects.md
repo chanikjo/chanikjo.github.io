@@ -152,7 +152,7 @@ nav_order: 1
 
 <details>
 	<summary><span style="font-size:12pt">Key result</span></summary>
-  <img src="../assets/img/pue_by_agency.png">
+  <img src="../assets/img/pue_by_agency.png" class="img-fluid" alt="Whom do federal agencies listen to? Average PUE by agency and commenter group">
 </details>
 
 
