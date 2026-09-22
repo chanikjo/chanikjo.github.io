@@ -150,7 +150,10 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:black">This paper introduces Policy Uptake Elasticity (PUE), a measure of agency responsiveness in U.S. notice-and-comment rulemaking. Built from language model classifications of Federal Register rule texts and public comments, PUE measures how much agencies revise proposed regulations toward the position commenters advocate. We validate the classifications against two blind human coders and four other language models. A higher firm-level PUE is associated with lower compliance costs and higher profitability, investment, and sales growth, robust to corrections for classification error and multiple testing. Firms without alternative political access drive the result, consistent with a compliance-cost channel. Responsiveness to individual commenters also declines under acting agency heads, and responsiveness to each commenter group predicts less litigation from that group. Therefore, regulatory responsiveness has measurable relationships with politics, firm performance, and litigation.</span></span>
 </details>
 
-
+<details>
+	<summary><span style="font-size:12pt">Key result</span></summary>
+  <img src="../assets/img/pue_by_agency.png">
+</details>
 
 
 
