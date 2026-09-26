@@ -133,7 +133,7 @@ nav_order: 1
 <p><strong><span style="font-size:18.0pt"><span style="color:black">Working Papers</span></span></strong></p>
 
 
-<p><em><span style="font-size:16.0pt"><span style="color:black">Revise and Resubmit</span></span></em></p>
+<p><strong><em><span style="font-size:16.0pt"><span style="color:black">Revise and Resubmit</span></span></em></strong></p>
 
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Does Government Listen to the Public? Measuring Democratic Responsiveness and Its Impact on Business Performance</span></strong></span>
 
@@ -160,7 +160,7 @@ nav_order: 1
 <hr style="border:0; border-top:1px solid #aaaaaa; margin:28px 0 20px 0;">
 
 
-<p><em><span style="font-size:16.0pt"><span style="color:black">Inflation and Monetary Policy</span></span></em></p>
+<p><strong><em><span style="font-size:16.0pt"><span style="color:black">Inflation and Monetary Policy</span></span></em></strong></p>
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5632590"><strong><span style="color:#000080">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span></strong></a></span>
 
@@ -239,7 +239,7 @@ nav_order: 1
 <hr style="border:0; border-top:1px solid #aaaaaa; margin:28px 0 20px 0;">
 
 
-<p><em><span style="font-size:16.0pt"><span style="color:black">Asset Pricing and Investments</span></span></em></p>
+<p><strong><em><span style="font-size:16.0pt"><span style="color:black">Asset Pricing and Investments</span></span></em></strong></p>
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055695"><strong><span style="color:#000080">Data Scientists on Wall Street</span></strong></a></span>
 
@@ -374,7 +374,7 @@ nav_order: 1
 <hr style="border:0; border-top:1px solid #aaaaaa; margin:28px 0 20px 0;">
 
 
-<p><em><span style="font-size:16.0pt"><span style="color:black">Household Finance</span></span></em></p>
+<p><strong><em><span style="font-size:16.0pt"><span style="color:black">Household Finance</span></span></em></strong></p>
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6401498"><strong><span style="color:#000080">Social Transmission of Consumption</span></strong></a></span>
 
