@@ -204,7 +204,7 @@ nav_order: 1
 
 <span style="font-size:11.0pt"><span style="color:#666">Presentation: SFR (2026), Inaugural KAIST Finance Alumni Conference (2026), Asian FA (2026), Workshop on Climate Risk, Sustainability, and Real Estate (2026), SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
 
-<span style="font-size:12.0pt"><span style="color:#9a6700"><em style="color:#9a6700">Best Paper Award, Korean Finance Association Autumn Conference (2024)</em></span></span>
+<span style="font-size:12.0pt"><span style="color:#222"><em style="color:#222">Best Paper Award, Korean Finance Association Autumn Conference (2024)</em></span></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">Greenium, Inflation, and Asset Pricing </span></span>
 
@@ -375,7 +375,7 @@ nav_order: 1
 
 <span style="font-size:11.0pt"><span style="color:#666">Presentation: &nbsp;SFS Cavalcade (2021), RCFS/RAPS Winter Conference (2020), EFA (2019), CICF (2019), APAD (2019), EFMA (2019), ABFER, CEPR and CUHK (2019), SFS Cavalcade Asia (2018), NFA (2018), FMA (2018), YES (2018), TADC (2018), AFM (2017), AFBC (2017), Indiana University (2017)&nbsp;</span></span>
 
-<span style="font-size:12.0pt"><span style="color:#9a6700"><em style="color:#9a6700">Outstanding Paper Award, Joint Conference with the Allied Korea Finance Associations (2023)</em></span></span>
+<span style="font-size:12.0pt"><span style="color:#222"><em style="color:#222">Outstanding Paper Award, Joint Conference with the Allied Korea Finance Associations (2023)</em></span></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">Theoretical asset pricing and stock market participation,  <a href = "../assets/bibliography/jo2022composition.txt">[+ bibtex]</a></span></span>
 
@@ -414,7 +414,7 @@ nav_order: 1
 
 <span style="font-size:11.0pt"><span style="color:#666">Presentation: The 18th NYCU International Finance Conference (2024), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:#9a6700"><em style="color:#9a6700">FMA Asia/Pacific Best Paper Award (Asset pricing/Investment) (2024), Shinhan Bank & KAFA Best Paper Award (2023)</em></span></span>
+<span style="font-size:12.0pt"><span style="color:#222"><em style="color:#222">FMA Asia/Pacific Best Paper Award (Asset pricing/Investment) (2024), Shinhan Bank & KAFA Best Paper Award (2023)</em></span></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">Household finance, Stock market participation, and Labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
 
@@ -455,7 +455,7 @@ nav_order: 1
 
 <span style="font-size:11.0pt"><span style="color:#666">Presentation: UNSW Corporate Finance Workshop (2025), AsianFA (2024), Singapore Rising Scholars Conference (2024), Central University of Finance and Economics (2024), AFA PhD Poster Session (2024), FMA Doctoral Consortium (2023), CUHK (2023)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:#9a6700"><em style="color:#9a6700">Best Paper Award, Singapore Rising Scholars Conference (2024)</em></span></span>
+<span style="font-size:12.0pt"><span style="color:#222"><em style="color:#222">Best Paper Award, Singapore Rising Scholars Conference (2024)</em></span></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">Household finance, Stock market participation, and Intra-household risk-sharing</span></span>
 
