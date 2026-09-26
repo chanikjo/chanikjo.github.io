@@ -133,7 +133,7 @@ nav_order: 1
 <p><strong><span style="font-size:18.0pt"><span style="color:black">Working Papers</span></span></strong></p>
 
 
-
+<p><em><span style="font-size:16.0pt"><span style="color:black">Revise and Resubmit</span></span></em></p>
 
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Does Government Listen to the Public? Measuring Democratic Responsiveness and Its Impact on Business Performance</span></strong></span>
 
@@ -157,8 +157,10 @@ nav_order: 1
 
 
 
+<hr style="border:0; border-top:1px solid #aaaaaa; margin:28px 0 20px 0;">
 
-<p style="margin-left:40px">&nbsp;</p>
+
+<p><em><span style="font-size:16.0pt"><span style="color:black">Inflation and Monetary Policy</span></span></em></p>
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5632590"><strong><span style="color:#000080">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span></strong></a></span>
 
@@ -181,36 +183,93 @@ nav_order: 1
 
 
 
+<p style="margin-left:40px">&nbsp;</p>
 
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Is Greenium a Reflection of Core Inflation Risk?</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, Yuyi He, and <a href = "https://yoshionozawa.github.io/">Yoshio Nozawa</a></span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: SFR (2026), Inaugural KAIST Finance Alumni Conference (2026), Asian FA (2026), Workshop on Climate Risk, Sustainability, and Real Estate (2026), SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
+
+<span style="font-size:12.0pt"><span style="color:black"><em>Best Paper Award, Korean Finance Association Autumn Conference (2024)</em></span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Greenium, Inflation, and Asset Pricing </span></span>
+
+<details>
+<summary><span style="font-size:12pt">Abstract </span> </summary>
+<span style="font-size:12.0pt"><span style="color:black">We present a novel stylized fact that green stocks carry higher inflation risk compared to brown stocks, performing poorly at times of unexpected inflation. Given this fact, can the outperformance of green stocks over brown stocks (the "greenium") be explained as compensation for inflation risk? We find that the magnitude of the greenium decreases by 31% and 54% for Scope 1 and Scope 2, and the greenium becomes statistically insignificant after controlling for individual stocks' core inflation risk exposure. These findings are robust to excluding brown industries and are not driven by the post-COVID inflationary period. Overall, our results suggest that the greenium is in part a reflection of inflation risk compensation. </span></span>
+</details>
 
 
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869"><strong><span style="color:#000080">Left-Tail Income Risk and Stock Market Participation: Evidence from U.S. Wrongful Discharge Laws</span></strong></a></span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">The Transmission of Monetary Policy to Consumption Through Unemployment Insurance</span></strong></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with <a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a>, <a href = "https://yutongyan.xyz/">Yutong Yan</a>, and <a href = "https://www.yannelis.com/">Constantine Yannelis</a></span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: The 18th NYCU International Finance Conference (2024), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: CUHK (2025), CUHK-SZ (2025), Lingnan University (2025)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black"><em>FMA Asia/Pacific Best Paper Award (Asset pricing/Investment) (2024), Shinhan Bank & KAFA Best Paper Award (2023)</em></span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
+<span style="font-size:12.0pt"><span style="color:black">Monetary Policy, Consumption, Unemployment insurance, Measurement error approach</span></span>
 
 <details>
- <summary><span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">We exploit the adoption of employment protection laws as a quasi-natural experiment to examine how unconditional left-tail income risk influences stock market participation. Following adoption, participation rises significantly by 7.9% with a dollar holding increase of $1,627. This effect is observed extensively across broad income groups. Conversely, when the laws are reversed, participation declines. Our results are robust to multiple datasets, a stacked difference-in-differences design, and a border discontinuity design. Our calibrated portfolio choice model shows that left-tail income risk alone significantly reduces participation, whereas overall income risk has a material effect only in the absence of left-tail risk.</span></span>
-</details> 
-
-<details>
-	<summary><span style="font-size:12pt">Key result</span></summary>
-  <img src="../assets/img/wdl.png">
+<summary><span style="font-size:12pt">Abstract</span></summary>
+<span style="font-size:12.0pt"><span style="color:black">We propose a novel channel through which unemployment insurance (UI) influences the transmission of monetary policy to consumption. Greater UI generosity induces households to lower precautionary savings and invest in stocks, which exposes their portfolios to greater interest rate risk. Consequently, when a monetary tightening shock depresses stock prices, households that previously benefited from expanded UI programs reduce their consumption. To empirically identify this potential channel, we exploit UI measurement errors that are plausibly unrelated to economic fundamentals, combined with a border-county discontinuity approach. Using high-frequency household consumption data and monetary policy shocks, we document that following a UI expansion, contractionary monetary policy shocks reduce household spending within two weeks of FOMC meetings. Our findings underscore unintended macro-financial consequences of UI: while intended to provide income stability, it can inadvertently amplify the adverse effects of monetary tightening shocks through interactions between labor policy and monetary policy.</span></span>
 </details>
 
 
 
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Do Institutional Investors Use Local Grocery Inflation For Portfolio Choices?</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.polyu.edu.hk/af/bkang/">Byoung Uk Kang</a> and <a href = "https://cuhk.converis.clarivate.com/converis/portal/detail/Person/186619902?auxfun=&lang=zh_HK">Zhecheng Luo</a></span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: FMA Asia/Pacific (2025), Summer Finance Roundtable (2025), University of Sydney (2025), National Taiwan University (2025), Korea University (2025), CUHK (2023)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Local grocery inflation, Institutional investors, Portfolio choices, Inflation expectations</span></span>
+
+<details>
+<summary><span style="font-size:12pt">Abstract</span></summary>
+<span style="font-size:12.0pt"><span style="color:black">We argue that institutional investors use local grocery price changes as a real-time signal for broader aggregate inflation. Upon observing increases in local grocery prices, they shift portfolios toward high inflation-beta stocks. This behavior is more pronounced among smaller institutions and those with stronger local bias. Some institutions—particularly hedge funds—react differently to local grocery inflation depending on its recent predictive power for aggregate inflation. Their trades also exhibit timing skills, with heightened sensitivity ahead of large impending inflation shocks. While the average institution does not profit from this strategy, hedge funds generate significant subsequent returns, attesting to their ability to exploit local signals effectively.</span></span>
+</details>
 
 
+
+<hr style="border:0; border-top:1px solid #aaaaaa; margin:28px 0 20px 0;">
+
+
+<p><em><span style="font-size:16.0pt"><span style="color:black">Asset Pricing and Investments</span></span></em></p>
+
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055695"><strong><span style="color:#000080">Data Scientists on Wall Street</span></strong></a></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/cenling/">Ling Cen</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and <a href = "https://sites.google.com/view/yanruhan/">Yanru Han</a></span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: CICF (2026, scheduled), ABFER (2026, scheduled), FinTech and Behavioral Finance Conference (2026), University of Connecticut (2026), City University of Hong Kong (2026), Three Asian Countries Finance Conference (2025), The 3rd Annual Conference on Capital Market Research in the Era of AI (2025), Hong Kong Conference on FinTech, AI & Big Data in Business (2025), PBCSF Tsinghua University (2025), Asian FA (2025), SKKU (2024), Yonsei University (2024)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Institutions, Data Scientists, and Stock Price Informativeness, <a href = "../assets/bibliography/cen2024data.txt">[+ bibtex]</a></span></span>
+
+<details>
+<summary><span style="font-size:12pt">Abstract </span></summary>
+<span style="font-size:12.0pt"><span style="color:black">Financial institutions have significantly increased their recruitment of data scientists in the last two decades. We find that the number of data scientists employed by financial institutions causally affects their ability to earn abnormal profits. Data scientists' ability to generate abnormal profits on a stock is positively correlated to the concentration of data scientists across all institutional investors holding the stock. Institutional investors strategically adjust portfolio allocation and recruitment decisions to maximize the benefits generated by their data scientists. Consistent with the notion that the competition among data scientists speeds up the production and trade of private information, we also show that the concentration of data scientists covering a stock reduces its price informativeness in the capital market.</span></span>
+</details>
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Market Value of U.S. Universities</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/benjaminbennettfinance/">Benjamin Bennett</a>, <a href = "https://sites.google.com/site/jaewchoi1203">Jaewon Choi</a>, and <a href = "https://yoshionozawa.github.io/">Yoshio Nozawa</a></span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Fixed Income and Financial Institutions (2026, scheduled), Chicago FED/University of Chicago Conference on Municipal Bond Markets (2026), Australian National University (2026), APAD (2026), University of Melbourne (2026), Deakin University (2026), Monash University (2026), NBER Economics of Education (2026), University of Toronto (2026)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Municipal Bonds, Nonprofits, Structural Model of Debt, Merton Model</span></span>
+
+<details>
+<summary><span style="font-size:12pt">Abstract</span></summary>
+<span style="font-size:12.0pt"><span style="color:black">We estimate the market value of “equities” of U.S. private universities by applying a structural credit risk model to the observed credit spreads of their bonds. We find that Yale University is at the top of the ranking, valued at $151 billion, followed by Harvard and Stanford. Should they be listed, their values would be comparable to McDonald's and Intel. Taking advantage of our panel data on the monthly market value of universities, we conduct a difference-in-differences analysis to assess the impact of recent policy changes on university values. The student debt relief announced in March 2020 increased the market value by 17.4%, while the research funding freeze in March 2025 decreased it by 39.4%.</span></span>
+</details>
 
 
 
@@ -236,189 +295,40 @@ nav_order: 1
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p style="margin-left:40px">&nbsp;</p>
 
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Who Bears the Climate Risk? State Guarantees and the Pricing of Physical Hazard in the Municipal Bond Market</span></strong></span>
 
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055695"><strong><span style="color:#000080">Data Scientists on Wall Street</span></strong></a></span>
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and Yuyi He</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/cenling/">Ling Cen</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and <a href = "https://sites.google.com/view/yanruhan/">Yanru Han</a></span></span> 
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Sydney Banking and Financial Stability Conference (2026)</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: CICF (2026, scheduled), ABFER (2026, scheduled), FinTech and Behavioral Finance Conference (2026), University of Connecticut (2026), City University of Hong Kong (2026), Three Asian Countries Finance Conference (2025), The 3rd Annual Conference on Capital Market Research in the Era of AI (2025), Hong Kong Conference on FinTech, AI & Big Data in Business (2025), PBCSF Tsinghua University (2025), Asian FA (2025), SKKU (2024), Yonsei University (2024)</span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Institutions, Data Scientists, and Stock Price Informativeness, <a href = "../assets/bibliography/cen2024data.txt">[+ bibtex]</a></span></span>
-
-<details>
-<summary><span style="font-size:12pt">Abstract </span></summary>
-<span style="font-size:12.0pt"><span style="color:black">Financial institutions have significantly increased their recruitment of data scientists in the last two decades. We find that the number of data scientists employed by financial institutions causally affects their ability to earn abnormal profits. Data scientists' ability to generate abnormal profits on a stock is positively correlated to the concentration of data scientists across all institutional investors holding the stock. Institutional investors strategically adjust portfolio allocation and recruitment decisions to maximize the benefits generated by their data scientists. Consistent with the notion that the competition among data scientists speeds up the production and trade of private information, we also show that the concentration of data scientists covering a stock reduces its price informativeness in the capital market.</span></span>
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p style="margin-left:40px">&nbsp;</p>
-
-<span style="font-size:14.0pt"><strong><span style="color:#000080">Is Greenium a Reflection of Core Inflation Risk?</span></strong></span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, Yuyi He, and <a href = "https://yoshionozawa.github.io/">Yoshio Nozawa</a></span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: SFR (2026), Inaugural KAIST Finance Alumni Conference (2026), Asian FA (2026), Workshop on Climate Risk, Sustainability, and Real Estate (2026), SBFC (2024), LU-JNU Joint Conference for Sustainable Finance and Development in the Digital Era (2024),  CUHK (2024), KFA Autumn Conference (2024)  </span></span>
-
-<span style="font-size:12.0pt"><span style="color:black"><em>Best Paper Award, Korean Finance Association Autumn Conference (2024)</em></span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Greenium, Inflation, and Asset Pricing </span></span>
-
-<details>
-<summary><span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">We present a novel stylized fact that green stocks carry higher inflation risk compared to brown stocks, performing poorly at times of unexpected inflation. Given this fact, can the outperformance of green stocks over brown stocks (the "greenium") be explained as compensation for inflation risk? We find that the magnitude of the greenium decreases by 31% and 54% for Scope 1 and Scope 2, and the greenium becomes statistically insignificant after controlling for individual stocks' core inflation risk exposure. These findings are robust to excluding brown industries and are not driven by the post-COVID inflationary period. Overall, our results suggest that the greenium is in part a reflection of inflation risk compensation. </span></span>
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p style="margin-left:40px">&nbsp;</p>
-
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360"><strong><span style="color:#000080">Climate Change and Households&#39; Risk-Taking</span></strong></a></span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: FMA Europe (2025), Finance Down Under (2025), SBFC (2024), CICF (2024), CFRC (2024), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022), CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and&nbsp;Climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span>
-
-<details>
-<summary><span style="font-size:12pt">Abstract </span></summary>
-<span style="font-size:12.0pt"><span style="color:black">This paper studies a novel channel through which climate risks affect households&rsquo; choices of risky asset allocation: a stringent climate change regulation elevates labor income risk for households employed by high-emission industries which in turn discourages households&#39; financial risk-taking. Using staggered adoptions of climate change action plans across states, we find that climate change action plans lead to a reduction in the share of risky assets by 15% for households in high-emission industries. We also find a reduction in risky asset holdings after the stringent EPA regulation. These results are stronger with experiences of climate change-related disasters. Our study implies an unintended consequence of climate regulations for wealth inequality by discouraging low-wealth households&#39; financial risk-taking.</span></span>
-</details> 
-
-
-
-
-
-
-<p style="margin-left:40px">&nbsp;</p>
-
-
-<span style="font-size:14.0pt"><strong><span style="color:#000080">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</span></strong></span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: UNSW Corporate Finance Workshop (2025), AsianFA (2024), Singapore Rising Scholars Conference (2024), Central University of Finance and Economics (2024), AFA PhD Poster Session (2024), FMA Doctoral Consortium (2023), CUHK (2023)</span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Intra-household risk-sharing</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Municipal bonds, physical disaster risk, state credit enhancement, school district debt, offering yields</span></span>
 
 <details>
 <summary><span style="font-size:12pt">Abstract</span></summary>
-<span style="font-size:12.0pt"><span style="color:black">This paper proposes a novel channel for households' risky asset allocation: better intra-household risk-sharing reduces overall labor income risk for dual-earner couples, thus encouraging households' financial risk-taking. Capturing intra-household risk-sharing dynamics using the conditional income correlation between spouses' industries, we find that better income risk-sharing within couples increases households' financial risk-taking. Exploiting unexpected events of spousal death, we causally identify the impact of intra-household risk-sharing on households' asset choices. Our study implies an unintended consequence of positive assortative mating, a growing tendency of couples choosing partners with similar socioeconomic statuses, which limits risk-sharing between spouses, thereby discouraging financial risk-taking.</span></span>
-</details> 
-
-
-
-
-
-
-
-
-
-
-<p style="margin-left:40px">&nbsp;</p>
-
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6401498"><strong><span style="color:#000080">Social Transmission of Consumption</span></strong></a></span>
-
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and Zhecheng Luo</span></span> 
-
-<span style="font-size:12.0pt"><span style="color:black">Presentation: Conference on Social and Behavioral Finance (scheduled, 2026), Chung-Ang University (2026), Asian FA (2026), WFA (2026), York University (2026), PHBS (2026)  </span></span>
-
-<span style="font-size:12.0pt"><span style="color:black">Social finance, Consumption, <a href = "../assets/bibliography/gao2026social.txt">[+ bibtex]</a></span></span>
-
-<details>
-<summary><span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">We examine whether and how consumption transmits through social networks. Exploiting the U.S. shale boom as an exogenous income shock and county-level Facebook connectedness to identify causal spillovers, we find that 1% increase in a closely connected county's consumption raises the focal county's own consumption by about 0.35% the following year, despite no local income change. The effect is strongest for socially salient and expensive goods, and for more sociable households, consistent with transmission through social observation rather than economic linkages. This peer-induced spending also raises mortgage delinquency rates, weakening household financial stability.</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Twenty-two states guarantee their school districts' bonds by statute, on the state's credit rather than the district's tax base. We ask who pays for physical disaster risk. Across 716,211 uninsured general obligation maturities, 2009–2022, a standard deviation of county hazard raises an unguaranteed issuer's offering yield 4.58 basis points. A guaranteed issuer pays none of it, and two one-sided tests place the remainder inside two basis points. Clustered on the state, as the statute assigns, the pooled interaction reaches <em>p</em> = 0.066. A statute therefore shifts the cost of geography off the borrower, and the amount depends on the comparison.</span></span>
 </details>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><strong><span style="color:#000080">Do Institutional Investors Use Local Grocery Inflation For Portfolio Choices?</span></strong></span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Beyond Size and Value in China: A Stochastic Discount Factor from Sixty Characteristics</span></strong></span>
 
-<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.polyu.edu.hk/af/bkang/">Byoung Uk Kang</a> and <a href = "https://cuhk.converis.clarivate.com/converis/portal/detail/Person/186619902?auxfun=&lang=zh_HK">Zhecheng Luo</a></span></span> 
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://gsias.hufs.ac.kr/gsias/7178/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZnc2lhcyUyRjMzOCUyRjM4OTElMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2">Kiryoung Lee</a> and Yuyi He</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: FMA Asia/Pacific (2025), Summer Finance Roundtable (2025), University of Sydney (2025), National Taiwan University (2025), Korea University (2025), CUHK (2023)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Stochastic discount factor, Machine learning, Asset pricing, Chinese stock market, Limits to arbitrage</span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Local grocery inflation, Institutional investors, Portfolio choices, Inflation expectations</span></span>
+<details>
+<summary><span style="font-size:12pt">Abstract</span></summary>
+<span style="font-size:12.0pt"><span style="color:black">We compare four factor models and 12 machine-learning models for Chinese A shares out of sample from January 2015 to June 2026. Every machine-learning discount factor built on 60 characteristics attains a Sharpe ratio between 1.42 and 3.00, and every factor model between 0.38 and 0.94. The characteristics a model uses therefore decide more than the estimator that combines them. Net of each stock's transaction cost, a discount factor estimated by adversarial networks earns the highest Sharpe ratio, 1.49 against 1.25 for one estimated by shrinkage and 0.14 for the four-factor China model. Liquidity and volatility characteristics, not size and value, produce that performance, and the Sharpe ratio rises as the universe widens to smaller, less liquid stocks, consistent with mispricing that short-sale constraints and arbitrage costs keep in place. Factor models for A shares should therefore include the liquidity and volatility characteristics that the three- and four-factor models omit.</span></span>
+</details>
 
-
-
-
-
-
-
+<details>
+<summary><span style="font-size:12pt">Key result</span></summary>
+  <img src="../assets/img/chinaSDF.png" class="img-fluid" alt="Cumulative out-of-sample performance">
+</details>
 
 
 
@@ -446,13 +356,6 @@ nav_order: 1
 
 
 
-
-
-
-
-
-
-
 <p style="margin-left:40px">&nbsp;</p>
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349840"><strong><span style="color:#000080">The Composition of Market Participants and Asset dynamics</span></strong></a></span>
@@ -465,6 +368,94 @@ nav_order: 1
  <summary><span style="font-size:12pt">Abstract </span> </summary>
 <span style="font-size:12.0pt"><span style="color:black">We develop a dynamic equilibrium model where heterogeneous investors endogenously choose to enter/exit the stock market. We characterize the equilibrium and present a conditional consumption&nbsp;CAPM. The model implies small changes in the composition of stockholders, which generate a strongly countercyclical stockholders&rsquo; amount of consumption risk. The model provides a new perspective on the main drivers of asset dynamics. It is the procyclical consumption risk-sharing implied by changes in stockholders&#39; composition that contribute to the dynamics of risk premium, excess volatility, and price-dividend ratio. We provide empirical evidence on market participation, amount of risk, and price of risk, supporting our theory. </span></span>
 </details>
+
+
+
+<hr style="border:0; border-top:1px solid #aaaaaa; margin:28px 0 20px 0;">
+
+
+<p><em><span style="font-size:16.0pt"><span style="color:black">Household Finance</span></span></em></p>
+
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6401498"><strong><span style="color:#000080">Social Transmission of Consumption</span></strong></a></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a>, <a href = "https://discover.research.utoronto.ca/21924-bing-han">Bing Han</a>, and Zhecheng Luo</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: Conference on Social and Behavioral Finance (scheduled, 2026), Chung-Ang University (2026), Asian FA (2026), WFA (2026), York University (2026), PHBS (2026)  </span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Social finance, Consumption, <a href = "../assets/bibliography/gao2026social.txt">[+ bibtex]</a></span></span>
+
+<details>
+<summary><span style="font-size:12pt">Abstract </span> </summary>
+<span style="font-size:12.0pt"><span style="color:black">We examine whether and how consumption transmits through social networks. Exploiting the U.S. shale boom as an exogenous income shock and county-level Facebook connectedness to identify causal spillovers, we find that 1% increase in a closely connected county's consumption raises the focal county's own consumption by about 0.35% the following year, despite no local income change. The effect is strongest for socially salient and expensive goods, and for more sociable households, consistent with transmission through social observation rather than economic linkages. This peer-induced spending also raises mortgage delinquency rates, weakening household financial stability.</span></span>
+</details>
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869"><strong><span style="color:#000080">Left-Tail Income Risk and Stock Market Participation: Evidence from U.S. Wrongful Discharge Laws</span></strong></a></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with <a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: The 18th NYCU International Finance Conference (2024), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black"><em>FMA Asia/Pacific Best Paper Award (Asset pricing/Investment) (2024), Shinhan Bank & KAFA Best Paper Award (2023)</em></span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
+
+<details>
+ <summary><span style="font-size:12pt">Abstract </span> </summary>
+<span style="font-size:12.0pt"><span style="color:black">We exploit the adoption of employment protection laws as a quasi-natural experiment to examine how unconditional left-tail income risk influences stock market participation. Following adoption, participation rises significantly by 7.9% with a dollar holding increase of $1,627. This effect is observed extensively across broad income groups. Conversely, when the laws are reversed, participation declines. Our results are robust to multiple datasets, a stacked difference-in-differences design, and a border discontinuity design. Our calibrated portfolio choice model shows that left-tail income risk alone significantly reduces participation, whereas overall income risk has a material effect only in the absence of left-tail risk.</span></span>
+</details> 
+
+<details>
+	<summary><span style="font-size:12pt">Key result</span></summary>
+  <img src="../assets/img/wdl.png">
+</details>
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360"><strong><span style="color:#000080">Climate Change and Households&#39; Risk-Taking</span></strong></a></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: FMA Europe (2025), Finance Down Under (2025), SBFC (2024), CICF (2024), CFRC (2024), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022), CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and&nbsp;Climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span>
+
+<details>
+<summary><span style="font-size:12pt">Abstract </span></summary>
+<span style="font-size:12.0pt"><span style="color:black">This paper studies a novel channel through which climate risks affect households&rsquo; choices of risky asset allocation: a stringent climate change regulation elevates labor income risk for households employed by high-emission industries which in turn discourages households&#39; financial risk-taking. Using staggered adoptions of climate change action plans across states, we find that climate change action plans lead to a reduction in the share of risky assets by 15% for households in high-emission industries. We also find a reduction in risky asset holdings after the stringent EPA regulation. These results are stronger with experiences of climate change-related disasters. Our study implies an unintended consequence of climate regulations for wealth inequality by discouraging low-wealth households&#39; financial risk-taking.</span></span>
+</details> 
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
+
+<span style="font-size:12.0pt"><span style="color:black">Presentation: UNSW Corporate Finance Workshop (2025), AsianFA (2024), Singapore Rising Scholars Conference (2024), Central University of Finance and Economics (2024), AFA PhD Poster Session (2024), FMA Doctoral Consortium (2023), CUHK (2023)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:black">Household finance, Stock market participation, and Intra-household risk-sharing</span></span>
+
+<details>
+<summary><span style="font-size:12pt">Abstract</span></summary>
+<span style="font-size:12.0pt"><span style="color:black">This paper proposes a novel channel for households' risky asset allocation: better intra-household risk-sharing reduces overall labor income risk for dual-earner couples, thus encouraging households' financial risk-taking. Capturing intra-household risk-sharing dynamics using the conditional income correlation between spouses' industries, we find that better income risk-sharing within couples increases households' financial risk-taking. Exploiting unexpected events of spousal death, we causally identify the impact of intra-household risk-sharing on households' asset choices. Our study implies an unintended consequence of positive assortative mating, a growing tendency of couples choosing partners with similar socioeconomic statuses, which limits risk-sharing between spouses, thereby discouraging financial risk-taking.</span></span>
+</details> 
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Unemployment Insurance and Stock Market Participation</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;<a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a>, <a href = "https://yutongyan.xyz/">Yutong Yan</a>, and <a href = "https://www.yannelis.com/">Constantine Yannelis</a></span></span>
+
+
 
 <p style="margin-left:40px">&nbsp;</p>
 <p>&nbsp;</p>
