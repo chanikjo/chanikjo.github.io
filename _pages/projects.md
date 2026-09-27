@@ -154,7 +154,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><strong><span style="color:#000080">Revise and resubmit, Management Science</span></strong>, <a href = "../assets/sharing.zip">PUE Data</a></span>
 
-<span style="font-size:11.0pt"><span style="color:#666">Presentation: MS Special Issue on Business and Its Interrelationship with Democratic Resilience, Geopolitics, and Society Workshop (2026, scheduled), Journal of Corporate Finance Conference, "Finance at a Time of Change and Uncertainty" (2026, scheduled) </span></span>
+<span style="font-size:11.0pt"><span style="color:#666">Presentation: MS Special Issue on Business and Its Interrelationship with Democratic Resilience, Geopolitics, and Society Workshop (2026), Journal of Corporate Finance Conference, "Finance at a Time of Change and Uncertainty" (2026, scheduled) </span></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">Measuring Policy Uptake Elasticity and applications to corporate finance</span></span>
 
