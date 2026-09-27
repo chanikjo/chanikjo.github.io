@@ -323,6 +323,11 @@ nav_order: 1
 <span style="font-size:12.0pt"><span style="color:#222">Twenty-two states guarantee their school districts' bonds by statute, on the state's credit rather than the district's tax base. We ask who pays for physical disaster risk. Across 716,211 uninsured general obligation maturities, 2009–2022, a standard deviation of county hazard raises an unguaranteed issuer's offering yield 4.58 basis points. A guaranteed issuer pays none of it, and two one-sided tests place the remainder inside two basis points. Clustered on the state, as the statute assigns, the pooled interaction reaches <em>p</em> = 0.066. A statute therefore shifts the cost of geography off the borrower, and the amount depends on the comparison.</span></span>
 </details>
 
+<details>
+<summary><span style="font-size:12pt">Key result</span></summary>
+  <img src="../assets/img/schooldistrict.png" class="img-fluid" alt="Offering yield against county hazard, guaranteed and unguaranteed">
+</details>
+
 
 
 <p style="margin-left:40px">&nbsp;</p>
