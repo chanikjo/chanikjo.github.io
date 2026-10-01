@@ -19,7 +19,7 @@ nav_order: 1
   a:hover, a:hover span { color:#2698ba !important; }
   /* the lines of one paper stacked without gaps, and a clear gap between papers */
   .container.mt-5 > p { margin-bottom:.25rem; }
-  .container.mt-5 > p[style*="margin-left:40px"] { margin:0; height:20px; overflow:hidden; }
+  .container.mt-5 > p[style*="margin-left:40px"] { margin:0; height:36px; overflow:hidden; }
   /* Abstract and Key result on one row; an opened one takes the full width */
   .container.mt-5 > details { display:inline-block; margin:2px 6px 0 0; }
   .container.mt-5 > details[open] { display:block; }
