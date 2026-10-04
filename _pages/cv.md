@@ -3,7 +3,7 @@ layout: default
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <a href="../assets/pdf/CV_chanikjo.pdf"><strong><span style="color:#000080">Download My CV (PDF)</span></strong></a>
