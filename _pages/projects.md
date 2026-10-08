@@ -281,7 +281,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://sites.google.com/site/benjaminbennettfinance/">Benjamin Bennett</a>, <a href = "https://sites.google.com/site/jaewchoi1203">Jaewon Choi</a>, and <a href = "https://yoshionozawa.github.io/">Yoshio Nozawa</a></span></span>
 
-<span style="font-size:11.0pt"><span style="color:#666">Presentation: Fixed Income and Financial Institutions (2026, scheduled), Chicago FED/University of Chicago Conference on Municipal Bond Markets (2026), Australian National University (2026), APAD (2026), University of Melbourne (2026), Deakin University (2026), Monash University (2026), NBER Economics of Education (2026), University of Toronto (2026)</span></span>
+<span style="font-size:11.0pt"><span style="color:#666">Presentation: CAFM (2026, scheduled), Fixed Income and Financial Institutions (2026, scheduled), Chicago FED/University of Chicago Conference on Municipal Bond Markets (2026), Australian National University (2026), APAD (2026), University of Melbourne (2026), Deakin University (2026), Monash University (2026), NBER Economics of Education (2026), University of Toronto (2026)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">Municipal Bonds, Nonprofits, Structural Model of Debt, Merton Model</span></span>
 
