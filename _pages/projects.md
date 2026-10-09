@@ -340,7 +340,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Beyond Size and Value in China: A Stochastic Discount Factor from Sixty Characteristics</span></strong></span>
 
-<span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://gsias.hufs.ac.kr/gsias/7178/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZnc2lhcyUyRjMzOCUyRjM4OTElMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2">Kiryoung Lee</a> and Yuyi He</span></span>
+<span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://gsias.hufs.ac.kr/gsias/7178/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZnc2lhcyUyRjMzOCUyRjM4OTElMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2">Kiryoung Lee</a>, Yuyi He, and <a href = "https://sites.google.com/view/ganglihk">Gang Li</a></span></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">Stochastic discount factor, Machine learning, Asset pricing, Chinese stock market, Limits to arbitrage</span></span>
 
