@@ -338,6 +338,27 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
+<span style="font-size:14.0pt"><strong><span style="color:#000080">The Composition of Market Participants and Asset dynamics</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://sites.google.com/view/kanekyuhobae/home/">Kane Kyuho Bae</a></span></span>
+
+<span style="font-size:12.0pt"><span style="color:#222"><em style="color:#222">New Draft Available Soon</em></span></span>
+
+<span style="font-size:11.0pt"><span style="color:#666">Presentation: &nbsp;SFS Cavalcade (2021), RCFS/RAPS Winter Conference (2020), EFA (2019), CICF (2019), APAD (2019), EFMA (2019), ABFER, CEPR and CUHK (2019), SFS Cavalcade Asia (2018), NFA (2018), FMA (2018), YES (2018), TADC (2018), AFM (2017), AFBC (2017), Indiana University (2017)&nbsp;</span></span>
+
+<span style="font-size:12.0pt"><span style="color:#222"><em style="color:#222">Outstanding Paper Award, Joint Conference with the Allied Korea Finance Associations (2023)</em></span></span>
+
+<span style="font-size:12.0pt"><span style="color:#222">Theoretical asset pricing and stock market participation,  <a href = "../assets/bibliography/jo2022composition.txt">[+ bibtex]</a></span></span>
+
+<details>
+ <summary><span style="font-size:12pt">Abstract </span> </summary>
+<span style="font-size:12.0pt"><span style="color:#222">We develop a dynamic equilibrium model where heterogeneous investors endogenously choose to enter/exit the stock market. We characterize the equilibrium and present a conditional consumption&nbsp;CAPM. The model implies small changes in the composition of stockholders, which generate a strongly countercyclical stockholders&rsquo; amount of consumption risk. The model provides a new perspective on the main drivers of asset dynamics. It is the procyclical consumption risk-sharing implied by changes in stockholders&#39; composition that contribute to the dynamics of risk premium, excess volatility, and price-dividend ratio. We provide empirical evidence on market participation, amount of risk, and price of risk, supporting our theory. </span></span>
+</details>
+
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Beyond Size and Value in China: A Stochastic Discount Factor from Sixty Characteristics</span></strong></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://gsias.hufs.ac.kr/gsias/7178/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZnc2lhcyUyRjMzOCUyRjM4OTElMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2">Kiryoung Lee</a>, Yuyi He, and <a href = "https://sites.google.com/view/ganglihk">Gang Li</a></span></span>
@@ -380,24 +401,6 @@ nav_order: 1
 
 
 
-<p style="margin-left:40px">&nbsp;</p>
-
-<span style="font-size:14.0pt"><strong><span style="color:#000080">The Composition of Market Participants and Asset dynamics</span></strong></span>
-
-<span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://sites.google.com/view/kanekyuhobae/home/">Kane Kyuho Bae</a></span></span>
-
-<span style="font-size:12.0pt"><span style="color:#222"><em style="color:#222">New Draft Available Soon</em></span></span>
-
-<span style="font-size:11.0pt"><span style="color:#666">Presentation: &nbsp;SFS Cavalcade (2021), RCFS/RAPS Winter Conference (2020), EFA (2019), CICF (2019), APAD (2019), EFMA (2019), ABFER, CEPR and CUHK (2019), SFS Cavalcade Asia (2018), NFA (2018), FMA (2018), YES (2018), TADC (2018), AFM (2017), AFBC (2017), Indiana University (2017)&nbsp;</span></span>
-
-<span style="font-size:12.0pt"><span style="color:#222"><em style="color:#222">Outstanding Paper Award, Joint Conference with the Allied Korea Finance Associations (2023)</em></span></span>
-
-<span style="font-size:12.0pt"><span style="color:#222">Theoretical asset pricing and stock market participation,  <a href = "../assets/bibliography/jo2022composition.txt">[+ bibtex]</a></span></span>
-
-<details>
- <summary><span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:#222">We develop a dynamic equilibrium model where heterogeneous investors endogenously choose to enter/exit the stock market. We characterize the equilibrium and present a conditional consumption&nbsp;CAPM. The model implies small changes in the composition of stockholders, which generate a strongly countercyclical stockholders&rsquo; amount of consumption risk. The model provides a new perspective on the main drivers of asset dynamics. It is the procyclical consumption risk-sharing implied by changes in stockholders&#39; composition that contribute to the dynamics of risk premium, excess volatility, and price-dividend ratio. We provide empirical evidence on market participation, amount of risk, and price of risk, supporting our theory. </span></span>
-</details>
 
 
 
