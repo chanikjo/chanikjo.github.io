@@ -382,7 +382,11 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349840"><strong><span style="color:#000080">The Composition of Market Participants and Asset dynamics</span></strong></a></span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">The Composition of Market Participants and Asset dynamics</span></strong></span>
+
+<span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://sites.google.com/view/kanekyuhobae/home/">Kane Kyuho Bae</a></span></span>
+
+<span style="font-size:12.0pt"><span style="color:#222"><em style="color:#222">New Draft Available Soon</em></span></span>
 
 <span style="font-size:11.0pt"><span style="color:#666">Presentation: &nbsp;SFS Cavalcade (2021), RCFS/RAPS Winter Conference (2020), EFA (2019), CICF (2019), APAD (2019), EFMA (2019), ABFER, CEPR and CUHK (2019), SFS Cavalcade Asia (2018), NFA (2018), FMA (2018), YES (2018), TADC (2018), AFM (2017), AFBC (2017), Indiana University (2017)&nbsp;</span></span>
 
