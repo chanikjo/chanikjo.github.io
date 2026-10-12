@@ -51,7 +51,7 @@ nav_order: 4
 
 <p><strong><span style="font-size:18.0pt">Awards</span></strong></p>
 
-<p><span style="font-size:12.0pt">Best Paper Award, Korean Finance Association Fall meeting, 2024</span></p>
+<p><span style="font-size:12.0pt">Best Paper Award, Korean Finance Association Autumn Conference, 2024</span></p>
 
 <p><span style="font-size:12.0pt">The Shinhan Bank-KAFA Young Scholar Award, 2024</span></p>
 
@@ -61,7 +61,7 @@ nav_order: 4
   
 <p><span style="font-size:12.0pt">Outstanding Paper Award, Joint Conference with the Allied Korea Finance Associations, 2023</span></p>
 
-<p><span style="font-size:12.0pt">Rotman School of Management Teaching Award, University of Toronto, 2020</span></p>
+<p><span style="font-size:12.0pt">Rotman School of Management Teaching Excellence Award, University of Toronto, 2020</span></p>
 
 <p><span style="font-size:12.0pt">Financial News-KAFA Doctoral Student Dissertation Award, 2020</span></p>
 
