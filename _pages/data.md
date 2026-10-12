@@ -56,7 +56,7 @@ nav_order: 2
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><strong><span style="color:#000080">Asset holders' Consumption Risk and Tests of Conditional CCAPM</span></strong></span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Asset Holders' Consumption Risk and Tests of Conditional CCAPM</span></strong></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a>, Journal of Financial Economics, 2023</span></span>
 
