@@ -113,7 +113,7 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624"><strong><span style="color:#000080">Asset holders' Consumption Risk and Tests of Conditional CCAPM</span></strong></a></span>
+<span style="font-size:14.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624"><strong><span style="color:#000080">Asset Holders' Consumption Risk and Tests of Conditional CCAPM</span></strong></a></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://discover.research.utoronto.ca/24652-redouane-elkamhi">Redouane Elkamhi</a></span></span>
 
@@ -184,7 +184,7 @@ nav_order: 1
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5632590"><strong><span style="color:#000080">Echoes of Inflation: CEO Early-life Inflation Experience, Inflation Attention, and Corporate Decisions</span></strong></a></span>
 
 
-<span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://leeds-faculty.colorado.edu/garcia/">Diego Garcia</a>, <a href = "https://www.mikejshin.com/">Michael Shin</a>, and <a href = "https://grad.bschool.cuhk.edu.hk/students/wu-siyuan/">Siyuan Wu</a></span></span> 
+<span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://leeds-faculty.colorado.edu/garcia/">Diego García</a>, <a href = "https://www.mikejshin.com/">Michael Shin</a>, and <a href = "https://grad.bschool.cuhk.edu.hk/students/wu-siyuan/">Siyuan Wu</a></span></span> 
 
 <span style="font-size:11.0pt"><span style="color:#666">Presentation: AFA (2027, scheduled), MFA (2026), Econometric Society-ASSA (2026), CAFM (2025), FMA (2025), World Congress of the Econometric Society (2025), CU Boulder (2024), KAIST (2024), CUHK (2024), U of Sydney (2024), UTS (2024), Monash Winter Finance (2024), Sydney Macroeconomics Reading Group Workshop (2024), Korea-Japan Finance Workshop (2024) </span></span>
 
@@ -240,7 +240,7 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><strong><span style="color:#000080">Do Institutional Investors Use Local Grocery Inflation For Portfolio Choices?</span></strong></span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">Do Institutional Investors Use Local Grocery Inflation for Portfolio Choices?</span></strong></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://www.polyu.edu.hk/af/bkang/">Byoung Uk Kang</a> and <a href = "https://cuhk.converis.clarivate.com/converis/portal/detail/Person/186619902?auxfun=&lang=zh_HK">Zhecheng Luo</a></span></span> 
 
@@ -338,7 +338,7 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><strong><span style="color:#000080">The Composition of Market Participants and Asset dynamics</span></strong></span>
+<span style="font-size:14.0pt"><strong><span style="color:#000080">The Composition of Market Participants and Asset Dynamics</span></strong></span>
 
 <span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://sites.google.com/view/kanekyuhobae/home/">Kane Kyuho Bae</a></span></span>
 
@@ -428,7 +428,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869"><strong><span style="color:#000080">Left-Tail Income Risk and Stock Market Participation: Evidence from U.S. Wrongful Discharge Laws</span></strong></a></span>
 
-<span style="font-size:12.0pt"><span style="color:#222">with <a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Singsen Lam</a></span></span>
+<span style="font-size:12.0pt"><span style="color:#222">with <a href = "https://www.ln.edu.hk/fin/people/faculty/prof-changhyun-ahn">Changhyun Ahn</a> and <a href = "https://www.singsenlam.com/">Sing-Sen Lam</a></span></span>
 
 <span style="font-size:11.0pt"><span style="color:#666">Presentation: The 18th NYCU International Finance Conference (2024), Indian School of Business (2024), NTU (2024), FMA Asia/Pacific (2024), Labor and Finance Conference (2023), UNSW (2023), UYSD (2023), UTS (2023), SIPP Virtual Conference (2023), EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
 
@@ -452,7 +452,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360"><strong><span style="color:#000080">Climate Change and Households&#39; Risk-Taking</span></strong></a></span>
 
-<span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
+<span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Sing-Sen Lam</a> &nbsp;</span></span> 
 
 <span style="font-size:11.0pt"><span style="color:#666">Presentation: FMA Europe (2025), Finance Down Under (2025), SBFC (2024), CICF (2024), CFRC (2024), SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022), CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
 
@@ -469,7 +469,7 @@ nav_order: 1
 
 <span style="font-size:14.0pt"><strong><span style="color:#000080">Spouses in The Same Boat: Intra-Household Risk-Sharing and Financial Risk-Taking</span></strong></span>
 
-<span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Singsen Lam</a> &nbsp;</span></span> 
+<span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://sites.google.com/site/gao515515/">Zhenyu Gao</a> and&nbsp;<a href = "https://www.singsenlam.com/">Sing-Sen Lam</a> &nbsp;</span></span> 
 
 <span style="font-size:11.0pt"><span style="color:#666">Presentation: UNSW Corporate Finance Workshop (2025), AsianFA (2024), Singapore Rising Scholars Conference (2024), Central University of Finance and Economics (2024), AFA PhD Poster Session (2024), FMA Doctoral Consortium (2023), CUHK (2023)</span></span>
 
