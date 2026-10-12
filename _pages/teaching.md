@@ -18,7 +18,7 @@ nav_order: 3
         </ul>
     </li>
     <li>
-        <p>Empirical Methods in Asset Pricing (PhD level): 5.67, 2022 - Present, <a href = "../assets/pdf/FINA6252_syllabus_2024.pdf">[Syllabus]</a></p>
+        <p>Empirical Methods in Asset Pricing (PhD level): 5.67, 2022 - 2025, <a href = "../assets/pdf/FINA6252_syllabus_2024.pdf">[Syllabus]</a></p>
     </li>
 </ul>
 
@@ -30,7 +30,7 @@ nav_order: 3
         <p>Capital Market Theory (Undergraduate level), 2019</p>
         <ul>
             <li>
-                <p>Teaching evaluation: 4.7 and 4.8 out of 5 in two sections (Rotman Commerce average 4.5; Faculty of Arts and Science average 4.1)</p>
+                <p>Teaching evaluation: 4.8 and 5.0 out of 5 for overall quality of instruction in two sections (Rotman Commerce average 4.5)</p>
             </li>
             <li>
                 <p><em>Rotman School of Management Teaching Excellence Award</em></p>
