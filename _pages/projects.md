@@ -176,6 +176,32 @@ nav_order: 1
 
 
 
+<p style="margin-left:40px">&nbsp;</p>
+
+<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443"><strong><span style="color:#000080">Subjective Risk-Return Trade-off</span></strong></a></span>
+
+ <span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://www.hkubs.hku.hk/people/chen-lin/">Chen Lin</a> and&nbsp;<a href = "https://yangyou1.weebly.com/">Yang You</a></span></span>
+
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Revise and resubmit, Journal of Banking and Finance</span></strong></span>
+ 
+<span style="font-size:11.0pt"><span style="color:#666">Presentation: MFA (2024), SNU (2023), Korea University (2023), KAIST (2023), &nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span>
+
+<span style="font-size:12.0pt"><span style="color:#222">Media coverage:&nbsp;<a href = "https://www.marketwatch.com/story/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals-11659104629">MarketWatch</a></span></span>
+
+<span style="font-size:12.0pt"><span style="color:#222">Household finance, Subjective expectation, Asset pricing, <a href = "../assets/bibliography/jo2024subjective.txt">[+ bibtex]</a></span></span>
+
+<details>
+ <summary><span style="font-size:12pt">Abstract</span> </summary>
+<span style="font-size:12.0pt"><span style="color:#222">We survey 2,548 representative U.S. respondents to estimate subjective risk-return trade-offs across savings, government bonds, stocks, real estate, gold, and cryptocurrencies. We document robust negative relationships between perceptions of risk and return among risky assets, which are observed even among financially literate respondents. Strong asset-specific sentiments, reflected in large deviations of return perceptions from average perceptions, drive these significant negative risk-return trade-offs. Both strong optimism and pessimism contribute to negative risk-return trade-offs with similar magnitudes. These negative risk-return trade-offs translate into under-diversified portfolios, as investors avoid assets they perceive to generate low returns and high risk.</span></span>
+</details>
+
+<details>
+<summary><span style="font-size:12pt">Key result </span></summary>
+  <img src="../assets/img/JLY_subjective.png" class="img-fluid" alt="Risk-Return Trade-offs frompooled regressions">
+</details>
+
+
+
 <hr style="border:0; border-top:1px solid #aaaaaa; margin:28px 0 20px 0;">
 
 
@@ -377,27 +403,6 @@ nav_order: 1
 
 
 
-<p style="margin-left:40px">&nbsp;</p>
-
-<span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443"><strong><span style="color:#000080">Subjective Risk-Return Trade-off</span></strong></a></span>
-
- <span style="font-size:12.0pt"><span style="color:#222">with&nbsp;<a href = "https://www.hkubs.hku.hk/people/chen-lin/">Chen Lin</a> and&nbsp;<a href = "https://yangyou1.weebly.com/">Yang You</a></span></span>
- 
-<span style="font-size:11.0pt"><span style="color:#666">Presentation: MFA (2024), SNU (2023), Korea University (2023), KAIST (2023), &nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span>
-
-<span style="font-size:12.0pt"><span style="color:#222">Media coverage:&nbsp;<a href = "https://www.marketwatch.com/story/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals-11659104629">MarketWatch</a></span></span>
-
-<span style="font-size:12.0pt"><span style="color:#222">Household finance, Subjective expectation, Asset pricing, <a href = "../assets/bibliography/jo2024subjective.txt">[+ bibtex]</a></span></span>
-
-<details>
- <summary><span style="font-size:12pt">Abstract</span> </summary>
-<span style="font-size:12.0pt"><span style="color:#222">We survey 2,548 representative U.S. respondents to estimate subjective risk-return trade-offs across savings, government bonds, stocks, real estate, gold, and cryptocurrencies. We document robust negative relationships between perceptions of risk and return among risky assets, which are observed even among financially literate respondents. Strong asset-specific sentiments, reflected in large deviations of return perceptions from average perceptions, drive these significant negative risk-return trade-offs. Both strong optimism and pessimism contribute to negative risk-return trade-offs with similar magnitudes. These negative risk-return trade-offs translate into under-diversified portfolios, as investors avoid assets they perceive to generate low returns and high risk.</span></span>
-</details>
-
-<details>
-<summary><span style="font-size:12pt">Key result </span></summary>
-  <img src="../assets/img/JLY_subjective.png" class="img-fluid" alt="Risk-Return Trade-offs frompooled regressions">
-</details>
 
 
 
