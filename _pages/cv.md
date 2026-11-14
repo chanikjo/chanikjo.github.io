@@ -75,7 +75,7 @@ nav_order: 4
 
 <p><strong><span style="font-size:18.0pt">Discussion</span></strong></p>
 
-<p><span style="font-size:12.0pt">"Festivals for Gods’ Birthdays and Retail Investor Trading" by Dien Giau Bui, Yan-Shing Chen, Yehning Chen, and Chih-Yung Lin, The 21st Annual Conference on Asia-Pacific Financial Markets (CAFM), December 10, 2026 (scheduled)</span></p>
+<p><span style="font-size:12.0pt">"Festivals for Gods’ Birthdays and Retail Investor Trading" by Dien Giau Bui, Yan-Shing Chen, Yehning Chen, and Chih-Yung Lin, The 21st Annual Conference on Asia-Pacific Financial Markets (CAFM), December 2026 (scheduled)</span></p>
 
 <p><span style="font-size:12.0pt">"Talking Their Own Book: Brokerage Proprietary Trading and Analyst Bias" by Xingyu Chen, Zilin Chen, and Ronghua Luo, 2026 HK Joint Finance Research Conference, August 2026</span></p>
 
@@ -109,7 +109,7 @@ nav_order: 4
 
 <p><span style="font-size:12.0pt">"Local Rules, Distant Woes: Shifting Consumption Preference Through Social Ties" by Haiqiang Chen, Jing Li, and Wenlan Qian, Winter Finance Summit in Asia 2025, February 2025</span></p>
 
-<p><span style="font-size:12.0pt">"The demand for government debt" by Dora Xia, Andreas Schrimpf, and Eren Egemen, SFS Cavalcade Asia-Pacific, December 2024</span></p>
+<p><span style="font-size:12.0pt"><a href = "https://doi.org/10.1287/mnsc.2025.00332">"The demand for government debt"</a> by Dora Xia, Andreas Schrimpf, and Eren Egemen, SFS Cavalcade Asia-Pacific, December 2024</span></p>
 
 <p><span style="font-size:12.0pt">"Save more or less? The impact of government health insurance change on saving behavior" by Ye (Lyren) Lu, Sydney Banking and Financial Stability Conference, December 2024</span></p>
 
@@ -121,11 +121,11 @@ nav_order: 4
 
 <p><span style="font-size:12.0pt">"Intermediary Balance Sheet Constraints, Bond Mutual Funds’ Strategies, and Bond Returns" by Mariassunta Giannetti, Chotibhak Jotikasthira, Andreas C. Rapp, Martin Waibel, EFA, August 2024</span></p>
 
-<p><span style="font-size:12.0pt">"Dirty Air and Green Investments: the Impact of Pollution Information on Portfolio Allocations" by Raymond Fisman, Pulak Ghosh, Arkodipta Sarkar, Jian Zhang, CICF, July 2024</span></p>
+<p><span style="font-size:12.0pt"><a href = "https://doi.org/10.1016/j.jfineco.2026.104309">"Dirty Air and Green Investments: the Impact of Pollution Information on Portfolio Allocations"</a> by Raymond Fisman, Pulak Ghosh, Arkodipta Sarkar, Jian Zhang, CICF, July 2024</span></p>
 
 <p><span style="font-size:12.0pt">"Risk-Adjusting the Returns to Private Debt Funds" by Isil Erel, Thomas Flanagan, Michael Weisbach, CICF, July 2024</span></p>
 
-<p><span style="font-size:12.0pt">"What Can Macro-Active Bond Funds Tell Us About Monetary Policy Changes?" by Claire Yurong Hong, Jun Pan, Shiwen Tian, FMA Asia/Pacific, July 2024</span></p>
+<p><span style="font-size:12.0pt"><a href = "https://doi.org/10.1016/j.jfineco.2026.104378">"What Can Macro-Active Bond Funds Tell Us About Monetary Policy Changes?"</a> by Claire Yurong Hong, Jun Pan, Shiwen Tian, FMA Asia/Pacific, July 2024</span></p>
 
 <p><span style="font-size:12.0pt">"Game of Thrones: A Study of Multinational Corporations in the midst of International Politics" by Jiaxing You, Wei Liu, Jingjing Xia, FMA Asia/Pacific, July 2024</span></p>
 
@@ -147,7 +147,7 @@ nav_order: 4
 
 <p><span style="font-size:12.0pt">"Green Portfolios" by Thomas Fischer and Frederik Lundtofte, CICF, July 2023</span></p>
 
-<p><span style="font-size:12.0pt">"The Sensitivity of Cash Savings to the Cost of Capital" by  Viral V. Acharya, Soku Byoun, and Zhaoxia Xu, KIF-KAEA-KAFA, June 2023</span></p>
+<p><span style="font-size:12.0pt"><a href = "https://doi.org/10.1017/S0022109026102877">"The Sensitivity of Cash Savings to the Cost of Capital"</a> by  Viral V. Acharya, Soku Byoun, and Zhaoxia Xu, KIF-KAEA-KAFA, June 2023</span></p>
 
 <p><span style="font-size:12.0pt"><a href = "https://doi.org/10.1016/j.irfa.2023.102874">"Central bank digital currency: Payment choices and commercial bank profitability"</a> by Jaemin Son, Doojin Ryu, and Robert Webb, KAFA-KFMA-KAFE, May 2023</span></p>
 
@@ -173,9 +173,9 @@ nav_order: 4
 
 <p><span style="font-size:12.0pt">"Model-Free Utility Curvature" by Alexander P. Kontoghiorghes, TADC, May 2018</span></p>
 
-<p><span style="font-size:12.0pt">"Does lottery regressivity decline with jackpot size? Evidence from the world’s largest jackpot prize" by Ki Han, Sukhun Lee, David Suk, and Hyunmo Sung, SWFA, Mar 2018</span></p>
+<p><span style="font-size:12.0pt"><a href = "https://doi.org/10.5750/jgbe.v12i1.1489">"Does lottery regressivity decline with jackpot size? Evidence from the world’s largest jackpot prize"</a> by Ki Han, Sukhun Lee, David Suk, and Hyunmo Sung, SWFA, Mar 2018</span></p>
 
-<p><span style="font-size:12.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304407618300198">"Testing Ex-post Implications of Asset Pricing Models using Individual Stocks"</a> by Soohun Kim and Georgios Skoulakis, Auckland Finance Meeting, Dec 2017</span></p>
+<p><span style="font-size:12.0pt">"Testing Ex-post Implications of Asset Pricing Models using Individual Stocks" by Soohun Kim and Georgios Skoulakis, Auckland Finance Meeting, Dec 2017</span></p>
 
 <p><span style="font-size:12.0pt"><a href = "https://onlinelibrary.wiley.com/doi/10.1002/ijfe.1798">"The Term Structure of Sovereign CDS, Local Credit Risk, and the Cross-Section Exchange Rate Predictability"</a> by Giovanni Calice and Ming Zeng, AFBC, Dec 2017</span></p>
 
