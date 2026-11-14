@@ -75,6 +75,8 @@ nav_order: 4
 
 <p><strong><span style="font-size:18.0pt">Discussion</span></strong></p>
 
+<p><span style="font-size:12.0pt">"Festivals for Gods’ Birthdays and Retail Investor Trading" by Dien Giau Bui, Yan-Shing Chen, Yehning Chen, and Chih-Yung Lin, The 21st Annual Conference on Asia-Pacific Financial Markets (CAFM), December 10, 2026 (scheduled)</span></p>
+
 <p><span style="font-size:12.0pt">"Talking Their Own Book: Brokerage Proprietary Trading and Analyst Bias" by Xingyu Chen, Zilin Chen, and Ronghua Luo, 2026 HK Joint Finance Research Conference, August 2026</span></p>
 
 <p><span style="font-size:12.0pt">"Political Divergence and Strategic Alliance Formation" by Tingting Que, Miaomiao Yu, and Nuoyao Zong, AsianFA, July 2026</span></p>
